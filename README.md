@@ -16,6 +16,7 @@
 
 
 
+
 🛠 Tech Stack & Expertise
 
 
@@ -41,6 +42,7 @@ Computer Vision: Image Recognition, Object Detection, Biometric AI
 AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
 
 
+
 💡 Services I Offer
 
 
@@ -55,6 +57,8 @@ AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
 ✅ API Development & Integrations (FastAPI, OpenAI, Payment Gateways)
 
 ✅ SEO & Performance Optimization (Core Web Vitals, Speed Optimization)
+
+
 
 
 🔥 Notable Projects
@@ -72,7 +76,10 @@ AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
 
 
 
+
 🚀 Let’s Build Something Awesome Together!
+
+
 
 
 
