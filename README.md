@@ -32,6 +32,21 @@ Databases: MySQL, PostgreSQL, MongoDB, Firebase, Vector Databases
 Cloud & DevOps: AWS, Microsoft Azure, Docker, WHM, cPanel, Virtual Machines
 
 
+### Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
+### Frameworks/Libraries:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
+
+### Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
 🔹 AI & Machine Learning
 
 AI Frameworks: TensorFlow, PyTorch, OpenAI (GPT-4, ChatGPT), LangChain, Google Gemini
