@@ -2,7 +2,9 @@
 
 
 
-🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert
+🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect 
+
+
 
 🔹 9+ Years of Experience in Full Stack Development, Web Apps, Website Development, AI Solutions, Chatbot Development, AI Agents & AI Development
 
@@ -10,6 +12,7 @@
 🔹 Specializing in AI Chatbots, AI Agents, RAG-Based Apps, SaaS Platforms, and Web & Mobile Solutions
 
 🔹 Experienced Freelancer on Fiverr (Level 2, 5⭐) and Upwork
+ 
 
 
 
