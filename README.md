@@ -60,13 +60,6 @@
 ![WHM](https://img.shields.io/badge/-WHM-FF6C37?logo=whm&logoColor=white&style=flat)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C37?logo=cpanel&logoColor=white&style=flat)
 ![Virtual Machines](https://img.shields.io/badge/-Virtual_Machines-007ACC?logo=vmware&logoColor=white&style=flat)
-Frontend: React.js, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap
-
-Backend: FastAPI, Django, Flask, Node.js, Express, Nest.js, PHP (Laravel, CodeIgniter, Odoo)
-
-Databases: MySQL, PostgreSQL, MongoDB, Firebase, Vector Databases
-
-Cloud & DevOps: AWS, Microsoft Azure, Docker, WHM, cPanel, Virtual Machines
 
 
 ### Languages:
@@ -85,13 +78,35 @@ Cloud & DevOps: AWS, Microsoft Azure, Docker, WHM, cPanel, Virtual Machines
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 🔹 AI & Machine Learning
+## Main Skills
 
-AI Frameworks: TensorFlow, PyTorch, OpenAI (GPT-4, ChatGPT), LangChain, Google Gemini
+### AI Frameworks:
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
+![GPT-4](https://img.shields.io/badge/-GPT--4-412991?logo=openai&logoColor=white&style=flat)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?logo=openai&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-1A1A1A?logo=&logoColor=white&style=flat)
+![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?logo=google&logoColor=white&style=flat)
 
-NLP: AI Chatbots, AI Email Automation, Sentiment Analysis, AI Assistants
+### NLP:
+![AI Chatbots](https://img.shields.io/badge/-AI_Chatbots-007ACC?logo=chatbot&logoColor=white&style=flat)
+![AI Email Automation](https://img.shields.io/badge/-AI_Email_Automation-007ACC?logo=email&logoColor=white&style=flat)
+![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-007ACC?logo=analysis&logoColor=white&style=flat)
+![AI Assistants](https://img.shields.io/badge/-AI_Assistants-007ACC?logo=assistant&logoColor=white&style=flat)
 
-Computer Vision: Image Recognition, Object Detection, Biometric AI
-AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
+### Computer Vision:
+![Image Recognition](https://img.shields.io/badge/-Image_Recognition-007ACC?logo=image&logoColor=white&style=flat)
+![Object Detection](https://img.shields.io/badge/-Object_Detection-007ACC?logo=object&logoColor=white&style=flat)
+![Biometric AI](https://img.shields.io/badge/-Biometric_AI-007ACC?logo=biometric&logoColor=white&style=flat)
+
+### AI Search & RAG-Based Apps:
+![Knowledge Retrieval](https://img.shields.io/badge/-Knowledge_Retrieval-007ACC?logo=knowledge&logoColor=white&style=flat)
+![AI-powered Analytics](https://img.shields.io/badge/-AI--powered_Analytics-007ACC?logo=analytics&logoColor=white&style=flat)
+
+
+
+
 
 
 
