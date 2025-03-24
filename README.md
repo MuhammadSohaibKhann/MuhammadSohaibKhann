@@ -6,9 +6,11 @@
 
 🔹 9+ Years of Experience in Full Stack Development, Web Apps, Website Development, AI Solutions, Chatbot Development, AI Agents & AI Development
 
+
 🔹 Specializing in AI Chatbots, AI Agents, RAG-Based Apps, SaaS Platforms, and Web & Mobile Solutions
 
 🔹 Experienced Freelancer on Fiverr (Level 2, 5⭐) and Upwork
+
 
 
 🛠 Tech Stack & Expertise
@@ -37,6 +39,7 @@ AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
 
 💡 Services I Offer
 
+
 ✅ AI-Powered Solutions (Chatbots, AI Search, RAG Apps, Automation)
 
 ✅ Full Stack Web Development (Custom Web Apps, SaaS, AI-Powered Platforms)
@@ -51,6 +54,7 @@ AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
 
 
 🔥 Notable Projects
+
 
 ✔️ AI-Driven SaaS Web Apps
 
@@ -68,7 +72,9 @@ AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
 
 
 
+
 📬 Reach out to discuss your next project.
+
 📫 Connect With Me
 
 
