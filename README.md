@@ -11,7 +11,7 @@
 
 🔹 Specializing in AI Chatbots, AI Agents, RAG-Based Apps, SaaS Platforms, and Web & Mobile Solutions
 
-🔹 Experienced Freelancer on Fiverr (Level 2, 5⭐) and Upwork
+🔹 Experienced Freelancer on Fiverr (5⭐⭐️⭐️⭐️⭐️Rated) and Upwork
  
 
 
@@ -39,6 +39,7 @@ NLP: AI Chatbots, AI Email Automation, Sentiment Analysis, AI Assistants
 
 Computer Vision: Image Recognition, Object Detection, Biometric AI
 AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
+
 
 💡 Services I Offer
 
@@ -70,10 +71,9 @@ AI Search & RAG-Based Apps: Knowledge retrieval, AI-powered analytics
 ✔️ AI-Powered Learning & LMS Platforms
 
 
+
 🚀 Let’s Build Something Awesome Together!
 
-https://camo.githubusercontent.com/b50d4b5449ac9bed0fc02238425fd56db93011d5019563595023ff0bb1a02162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
-https://camo.githubusercontent.com/07858da9ad3cd19f1e10777508bf1b5470f22f8eb0b3ceaa425e2ff85461e30e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
 
 
 
