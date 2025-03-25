@@ -1,5 +1,8 @@
-👋👋🏆👨🏻‍💻 Hi, I'm Muhammad Sohaib
+h1 align="center">👋👋🏆👨🏻‍💻 Hi, I'm Muhammad Sohaib</h1>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSohaibKhann&theme=onedark" alt="GitHub Trophies"/>
+</p>
 
 <h1 align="center">
   🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect
@@ -21,17 +24,27 @@
 
 ### 🔹 About Me
 
-With over 9+ years of experience in Full Stack Development, I have honed my skills in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems. My expertise spans across various domains, including:
+With over 9 years of experience in Full Stack Development, I specialize in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems. My expertise spans across various domains:
 
 - **Full Stack Development**: Building end-to-end web applications with seamless integration of frontend and backend technologies.
 - **AI Solutions**: Developing intelligent AI agents, chatbots, and implementing advanced AI models.
 - **Generative AI**: Innovating in the space of generative AI to create unique and powerful solutions.
 - **Software Architecture**: Designing scalable and maintainable software architectures to solve complex problems.
 
+### 🔹 Specializations
 
-🔹 Specializing in AI Chatbots, AI Agents, RAG-Based Apps, SaaS Platforms, and Web & Mobile Solutions
+- **AI Chatbots**: Crafting intelligent conversational agents.
+- **AI Agents**: Developing autonomous AI-powered agents.
+- **RAG-Based Apps**: Building retrieval-augmented generation applications.
+- ** Custom Software Solutions & SaaS Platforms**: Architecting Software as a Service solutions.
+- **Websites, Web Applications & Mobile Solutions**: Creating responsive and dynamic websites, web apps and mobile applications.
 
-🔹 Experienced Freelancer on Fiverr (5⭐⭐️⭐️⭐️⭐️Rated) and Upwork
+### 🔹 Freelance Experience
+
+- **Fiverr**: 5⭐⭐⭐⭐⭐ Rated Freelancer
+- **Upwork**: Experienced and highly rated professional
+
+---
 
 
 ## 🛠 Tech Stack & Expertise
@@ -104,38 +117,44 @@ With over 9+ years of experience in Full Stack Development, I have honed my skil
 
 ## 💡 Services I Offer
 
-✅ AI-Powered Solutions (Chatbots, AI Search, RAG Apps, Automation)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Powered_Solutions-Chatbots,_AI_Search,_RAG_Apps,_Automation-blue?style=for-the-badge&logo=ai" alt="AI-Powered Solutions Badge"/> <br>
+  <img src="https://img.shields.io/badge/Full_Stack_Web_Development-Custom_Web_Apps,_SaaS,_AI--Powered_Platforms-green?style=for-the-badge&logo=web" alt="Full Stack Web Development Badge"/> <br>
+  <img src="https://img.shields.io/badge/UI/UX_Design_&_Development-Figma,_Adobe_XD,_Tailwind,_Modern_UI-red?style=for-the-badge&logo=design" alt="UI/UX Design & Development Badge"/> <br>
+  <img src="https://img.shields.io/badge/Mobile_App_Development-React_Native,_AI--Driven_Apps-orange?style=for-the-badge&logo=mobile" alt="Mobile App Development Badge"/> <br>
+  <img src="https://img.shields.io/badge/API_Development_&_Integrations-FastAPI,_OpenAI,_Payment_Gateways-purple?style=for-the-badge&logo=api" alt="API Development & Integrations Badge"/> <br>
+  <img src="https://img.shields.io/badge/SEO_&_Performance_Optimization-Core_Web_Vitals,_Speed_Optimization-yellow?style=for-the-badge&logo=seo" alt="SEO & Performance Optimization Badge"/>
+</p>
 
-✅ Full Stack Web Development (Custom Web Apps, SaaS, AI-Powered Platforms)
-
-✅ UI/UX Design & Development (Figma, Adobe XD, Tailwind, Modern UI)
-
-✅ Mobile App Development (React Native, AI-driven Apps)
-
-✅ API Development & Integrations (FastAPI, OpenAI, Payment Gateways)
-
-✅ SEO & Performance Optimization (Core Web Vitals, Speed Optimization)
 
 
 ## 🔥 Notable Projects
 
-✔️ AI-Driven SaaS Web Apps
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Driven_SaaS_Web_Apps-3DDC84?style=for-the-badge&logo=web&logoColor=white" alt="AI-Driven SaaS Web Apps Badge"/> <br>
+  <img src="https://img.shields.io/badge/AI--Powered_Healthcare_&_Recruitment_Platforms-FF6F00?style=for-the-badge&logo=health&logoColor=white" alt="AI-Powered Healthcare & Recruitment Platforms Badge"/> <br>
+  <img src="https://img.shields.io/badge/AI_Chatbots_for_Customer_Support_&_Social_Media-1DA1F2?style=for-the-badge&logo=chatbot&logoColor=white" alt="AI Chatbots for Customer Support & Social Media Badge"/> <br>
+  <img src="https://img.shields.io/badge/Multi--Vendor_E--commerce_&_Marketplace_Solutions-FF4500?style=for-the-badge&logo=ecommerce&logoColor=white" alt="Multi-Vendor E-commerce & Marketplace Solutions Badge"/> <br>
+  <img src="https://img.shields.io/badge/AI--Powered_Learning_&_LMS_Platforms-4285F4?style=for-the-badge&logo=learning&logoColor=white" alt="AI-Powered Learning & LMS Platforms Badge"/>
+</p>
 
-✔️ AI-Powered Healthcare & Recruitment Platforms
-
-✔️ AI Chatbots for Customer Support & Social Media
-
-✔️ Multi-Vendor E-commerce & Marketplace Solutions
-
-✔️ AI-Powered Learning & LMS Platforms
-
+---
 
 ## 🚀 Let’s Build Something Awesome Together!
 
-## 📬 Reach out to discuss your next project. 📫 Connect With Me 👋👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Reach_out_to_discuss_your_next_project-blue?style=for-the-badge&logo=project&logoColor=white" alt="Reach out to discuss your next project Badge"/> <br>
+  <img src="https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=connect&logoColor=white" alt="Connect With Me Badge"/> <br>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/muhammadsohaibkhan)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/m.sohaibkhann)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/msohaibkhann)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammadsohaibkhan">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/m.sohaibkhann">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/msohaibkhann">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+</p>
