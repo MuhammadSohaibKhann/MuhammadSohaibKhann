@@ -15,11 +15,22 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 About Me</h3>
 
-<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
-  With over 9 years of experience in Full Stack Development, I specialize in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems. My expertise spans across various domains:
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; text-align: left;">
+  With over 9 years of experience in Full Stack Development and AI Development, I specialize in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems.
+  
+  My journey includes delivering:
 </p>
-
-<ul style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; padding-left: 20px;">
+<ul style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; padding-left: 20px; text-align: left;">
+  <li>10+ CRM implementations and ERP systems</li>
+  <li>Data science and AI development projects</li>
+  <li>Web development and IT solutions</li>
+  <li>E-commerce platforms and innovative AI-powered web apps</li>
+  <li>Successfully completing 60+ projects with measurable impact</li>
+</ul>
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; text-align: left;">
+  Beyond development, I excel in project management and business development, leveraging pipeline-based strategies to identify growth opportunities, nurture client relationships, and achieve business success. I thrive on meticulous planning and seamless execution, ensuring that every project from concept to deployment is aligned with strategic goals and delivers tangible results. My experience as a Project Manager & Business Development Manager has allowed me to bridge the gap between technology and business strategy effectively. I focus on fostering collaboration, driving innovation, and delivering solutions that create meaningful value. Whether leading cross-functional teams or streamlining workflows, I am committed to ensuring excellence in every aspect of my work. My expertise spans across various domains:
+</p>
+<ul style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; padding-left: 20px; text-align: left;">
   <li><strong>Full Stack Development</strong>: Building end-to-end web applications with seamless integration of frontend and backend technologies.</li>
   <li><strong>AI Solutions</strong>: Developing intelligent AI agents, chatbots, and implementing advanced AI models.</li>
   <li><strong>Generative AI</strong>: Innovating in the space of generative AI to create unique and powerful solutions.</li>
