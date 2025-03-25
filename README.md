@@ -1,9 +1,6 @@
-h1 align="center">👋👋🏆👨🏻‍💻 Hi, I'm Muhammad Sohaib</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadSohaibKhann&theme=onedark" alt="GitHub Trophies"/>
-</p>
-
+<h1 align="center">
+  👋👋🏆👨🏻‍💻 Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib</span>
+</h1>
 <h1 align="center">
   🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect
 </h1>
