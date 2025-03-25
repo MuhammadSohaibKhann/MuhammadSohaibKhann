@@ -16,9 +16,6 @@ h1 align="center">👋👋🏆👨🏻‍💻 Hi, I'm Muhammad Sohaib</h1>
   <img src="https://img.shields.io/badge/Software%20Architect-Expert-yellow" alt="Software Architect Badge"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSohaibKhann&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 ---
 
