@@ -1,12 +1,38 @@
 👋👋🏆👨🏻‍💻 Hi, I'm Muhammad Sohaib
 
-🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect
 
-🔹 9+ Years of Experience in Full Stack Development, Web Apps, Website Development, AI Solutions, Chatbot Development, AI Agents & AI Development
+<h1 align="center">
+  🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Years%20of%20Experience-9%2B-blue" alt="Experience Badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Expert-brightgreen" alt="Full Stack Badge"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-Expert-orange" alt="AI Engineer Badge"/>
+  <img src="https://img.shields.io/badge/Frontend%20%26%20Backend-Expert-blueviolet" alt="Frontend & Backend Badge"/>
+  <img src="https://img.shields.io/badge/Software%20Architect-Expert-yellow" alt="Software Architect Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSohaibKhann&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 🔹 About Me
+
+With over 9+ years of experience in Full Stack Development, I have honed my skills in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems. My expertise spans across various domains, including:
+
+- **Full Stack Development**: Building end-to-end web applications with seamless integration of frontend and backend technologies.
+- **AI Solutions**: Developing intelligent AI agents, chatbots, and implementing advanced AI models.
+- **Generative AI**: Innovating in the space of generative AI to create unique and powerful solutions.
+- **Software Architecture**: Designing scalable and maintainable software architectures to solve complex problems.
+
 
 🔹 Specializing in AI Chatbots, AI Agents, RAG-Based Apps, SaaS Platforms, and Web & Mobile Solutions
 
 🔹 Experienced Freelancer on Fiverr (5⭐⭐️⭐️⭐️⭐️Rated) and Upwork
+
 
 ## 🛠 Tech Stack & Expertise
 
@@ -75,6 +101,7 @@
 ![Knowledge Retrieval](https://img.shields.io/badge/-Knowledge_Retrieval-007ACC?logo=knowledge&logoColor=white&style=flat)
 ![AI-powered Analytics](https://img.shields.io/badge/-AI--powered_Analytics-007ACC?logo=analytics&logoColor=white&style=flat)
 
+
 ## 💡 Services I Offer
 
 ✅ AI-Powered Solutions (Chatbots, AI Search, RAG Apps, Automation)
@@ -89,6 +116,7 @@
 
 ✅ SEO & Performance Optimization (Core Web Vitals, Speed Optimization)
 
+
 ## 🔥 Notable Projects
 
 ✔️ AI-Driven SaaS Web Apps
@@ -100,6 +128,7 @@
 ✔️ Multi-Vendor E-commerce & Marketplace Solutions
 
 ✔️ AI-Powered Learning & LMS Platforms
+
 
 ## 🚀 Let’s Build Something Awesome Together!
 
