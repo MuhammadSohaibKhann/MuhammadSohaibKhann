@@ -1,11 +1,11 @@
-<h1 align="center" style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
+<h1 style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
   👋👋🏆👨🏻‍💻 Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib</span>
 </h1>
-<h2 align="center" style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
+<h2 style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
   🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect
 </h2>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Years%20of%20Experience-9%2B-blue" alt="Experience Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Expert-brightgreen" alt="Full Stack Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <img src="https://img.shields.io/badge/AI%20Engineer-Expert-orange" alt="AI Engineer Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
@@ -13,18 +13,22 @@
   <img src="https://img.shields.io/badge/Software%20Architect-Expert-yellow" alt="Software Architect Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </p>
 
-### 🔹 About Me
+<h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 About Me</h3>
 
-With over 9 years of experience in Full Stack Development, I specialize in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems. My expertise spans across various domains:
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
+  With over 9 years of experience in Full Stack Development, I specialize in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems. My expertise spans across various domains:
+</p>
 
-- **Full Stack Development**: Building end-to-end web applications with seamless integration of frontend and backend technologies.
-- **AI Solutions**: Developing intelligent AI agents, chatbots, and implementing advanced AI models.
-- **Generative AI**: Innovating in the space of generative AI to create unique and powerful solutions.
-- **Software Architecture**: Designing scalable and maintainable software architectures to solve complex problems.
+<ul style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; padding-left: 20px;">
+  <li><strong>Full Stack Development</strong>: Building end-to-end web applications with seamless integration of frontend and backend technologies.</li>
+  <li><strong>AI Solutions</strong>: Developing intelligent AI agents, chatbots, and implementing advanced AI models.</li>
+  <li><strong>Generative AI</strong>: Innovating in the space of generative AI to create unique and powerful solutions.</li>
+  <li><strong>Software Architecture</strong>: Designing scalable and maintainable software architectures to solve complex problems.</li>
+</ul>
 
-<h3 align="center" style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Specializations</h3>
+<h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Specializations</h3>
 
-<table align="center">
+<table>
   <tr>
     <td style="padding: 10px; vertical-align: top;">
       <img src="https://img.shields.io/badge/AI%20Chatbots-Intelligent%20Conversational%20Agents-blue" alt="AI Chatbots Badge" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
