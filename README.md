@@ -22,13 +22,34 @@ With over 9 years of experience in Full Stack Development, I specialize in creat
 - **Generative AI**: Innovating in the space of generative AI to create unique and powerful solutions.
 - **Software Architecture**: Designing scalable and maintainable software architectures to solve complex problems.
 
-### 🔹 Specializations
+<h3 align="center" style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Specializations</h3>
 
-- **AI Chatbots**: Crafting intelligent conversational agents.
-- **AI Agents**: Developing autonomous AI-powered agents.
-- **RAG-Based Apps**: Building retrieval-augmented generation applications.
-- ** Custom Software Solutions & SaaS Platforms**: Architecting Software as a Service solutions.
-- **Websites, Web Applications & Mobile Solutions**: Creating responsive and dynamic websites, web apps and mobile applications.
+<table align="center">
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <img src="https://img.shields.io/badge/AI%20Chatbots-Intelligent%20Conversational%20Agents-blue" alt="AI Chatbots Badge" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+      <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">Crafting intelligent conversational agents.</p>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <img src="https://img.shields.io/badge/AI%20Agents-Autonomous%20AI--Powered%20Agents-green" alt="AI Agents Badge" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+      <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">Developing autonomous AI-powered agents.</p>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <img src="https://img.shields.io/badge/RAG--Based%20Apps-Retrieval--Augmented%20Generation-orange" alt="RAG-Based Apps Badge" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+      <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">Building retrieval-augmented generation applications.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <img src="https://img.shields.io/badge/Custom%20Software%20Solutions%20%26%20SaaS%20Platforms-Architecting%20SaaS-red" alt="Custom Software Solutions & SaaS Platforms Badge" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+      <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">Architecting Software as a Service solutions.</p>
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <img src="https://img.shields.io/badge/Websites%2C%20Web%20Applications%20%26%20Mobile%20Solutions-Responsive%20%26%20Dynamic-yellow" alt="Websites, Web Applications & Mobile Solutions Badge" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+      <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">Creating responsive and dynamic websites, web apps, and mobile applications.</p>
+    </td>
+  </tr>
+</table>
 
 ### 🔹 Freelance Experience
 
