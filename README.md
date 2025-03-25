@@ -16,7 +16,7 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 About Me</h3>
 
 <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; text-align: left;">
-  With over 9 years of experience in Full Stack Development and AI Development, I specialize in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems.
+  With over 9+ years of experience in Full Stack Development and AI Development, I specialize in creating robust web applications, developing cutting-edge AI solutions, and architecting efficient software systems.
   
   My journey includes delivering:
 </p>
