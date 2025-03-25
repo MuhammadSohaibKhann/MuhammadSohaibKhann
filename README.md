@@ -1,20 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  h1 {
+    font-family: 'Arial', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  span {
+    color: #FF5733;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  .badge {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .toggle-content {
+    display: none;
+    text-align: center;
+  }
+  .toggle-button {
+    background-color: #FF5733;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+</style>
+<script>
+  function toggleContent() {
+    var content = document.getElementById('toggle-content');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+    } else {
+      content.style.display = 'none';
+    }
+  }
+</script>
+</head>
+<body>
+
 <h1 align="center">
-  👋👋🏆👨🏻‍💻 Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib</span>
+  👋👋🏆👨🏻‍💻 Hi, I'm <span>Muhammad Sohaib</span>
 </h1>
+
 <h1 align="center">
   🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Years%20of%20Experience-9%2B-blue" alt="Experience Badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Expert-brightgreen" alt="Full Stack Badge"/>
-  <img src="https://img.shields.io/badge/AI%20Engineer-Expert-orange" alt="AI Engineer Badge"/>
-  <img src="https://img.shields.io/badge/Frontend%20%26%20Backend-Expert-blueviolet" alt="Frontend & Backend Badge"/>
-  <img src="https://img.shields.io/badge/Software%20Architect-Expert-yellow" alt="Software Architect Badge"/>
+  <span class="badge" style="background-color: #1E90FF;">Years of Experience: 9+</span>
+  <span class="badge" style="background-color: #32CD32;">Full Stack: Expert</span>
+  <span class="badge" style="background-color: #FFA500;">AI Engineer: Expert</span>
+  <span class="badge" style="background-color: #8A2BE2;">Frontend & Backend: Expert</span>
+  <span class="badge" style="background-color: #FFD700;">Software Architect: Expert</span>
 </p>
 
+<p align="center">
+  <button class="toggle-button" onclick="toggleContent()">Toggle More Info</button>
+</p>
 
----
+<div id="toggle-content" class="toggle-content">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSohaibKhann&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </p>
+</div>
+
+</body>
+</html>
 
 ### 🔹 About Me
 
