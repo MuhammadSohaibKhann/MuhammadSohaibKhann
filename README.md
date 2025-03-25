@@ -55,10 +55,12 @@
   </tr>
 </table>
 
-### 🔹 Freelance Experience
+<h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Freelance Experience</h3>
 
-- **Fiverr**: 5⭐⭐⭐⭐⭐ Rated Freelancer
-- **Upwork**: Experienced and highly rated professional
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
+  <span style="display: inline-block; padding: 10px; margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); background-color: #1E90FF; color: white; border-radius: 5px;">Fiverr: 5⭐⭐⭐⭐⭐ Rated Freelancer</span> <br>
+  <span style="display: inline-block; padding: 10px; margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); background-color: #32CD32; color: white; border-radius: 5px;">Upwork: Experienced and highly rated professional</span>
+</p>
 
 ---
 
