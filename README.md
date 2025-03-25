@@ -54,7 +54,8 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
     </td>
   </tr>
 </table>
-## 🚀 Technologies & Tools
+
+🚀 Technologies & Tools
 
 ![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png) **Nest.js** &nbsp;&nbsp;
 ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) **Vue.js** &nbsp;&nbsp;
@@ -67,6 +68,7 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript** &nbsp;&nbsp;
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript** &nbsp;&nbsp;
 ![LLMS](https://img.icons8.com/color/48/000000/ai.png) **LLMS**
+
 
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Freelance Experience</h3>
 
