@@ -68,21 +68,6 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 
 ## 🛠 Tech Stack & Expertise
 
-<h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Languages & Tools</h3>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
-  <div style="display: inline-block; padding: 10px; background-color: #4B8BBE; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Python</div>
-  <div style="display: inline-block; padding: 10px; background-color: #F7DF1E; color: black; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">JavaScript</div>
-  <div style="display: inline-block; padding: 10px; background-color: #3178C6; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">TypeScript</div>
-  <div style="display: inline-block; padding: 10px; background-color: #E34F26; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">HTML</div>
-  <div style="display: inline-block; padding: 10px; background-color: #1572B6; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">CSS</div>
-  <div style="display: inline-block; padding: 10px; background-color: #2496ED; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Docker</div>
-  <div style="display: inline-block; padding: 10px; background-color: #764ABC; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">PHP</div>
-  <div style="display: inline-block; padding: 10px; background-color: #FF2D20; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Laravel</div>
-  <div style="display: inline-block; padding: 10px; background-color: #009688; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">FastAPI</div>
-  <div style="display: inline-block; padding: 10px; background-color: #563D7C; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Bootstrap</div>
-  <div style="display: inline-block; padding: 10px; background-color: #007ACC; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Visual Studio Code</div>
-</div>
 
 ### Full Stack Development
 
@@ -148,6 +133,22 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 **AI Search & RAG-Based Apps:**
 ![Knowledge Retrieval](https://img.shields.io/badge/-Knowledge_Retrieval-007ACC?logo=knowledge&logoColor=white&style=flat)
 ![AI-powered Analytics](https://img.shields.io/badge/-AI--powered_Analytics-007ACC?logo=analytics&logoColor=white&style=flat)
+
+<h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Languages & Tools</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
+  <div style="display: inline-block; padding: 10px; background-color: #4B8BBE; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">Python</div>
+  <div style="display: inline-block; padding: 10px; background-color: #F7DF1E; color: black; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">JavaScript</div>
+  <div style="display: inline-block; padding: 10px; background-color: #3178C6; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">TypeScript</div>
+  <div style="display: inline-block; padding: 10px; background-color: #E34F26; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">HTML</div>
+  <div style="display: inline-block; padding: 10px; background-color: #1572B6; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">CSS</div>
+  <div style="display: inline-block; padding: 10px; background-color: #2496ED; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">Docker</div>
+  <div style="display: inline-block; padding: 10px; background-color: #764ABC; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">PHP</div>
+  <div style="display: inline-block; padding: 10px; background-color: #FF2D20; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">Laravel</div>
+  <div style="display: inline-block; padding: 10px; background-color: #009688; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">FastAPI</div>
+  <div style="display: inline-block; padding: 10px; background-color: #563D7C; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">Bootstrap</div>
+  <div style="display: inline-block; padding: 10px; background-color: #007ACC; color: white; border-radius: 10px; box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); transform: perspective(1px) translateZ(0); transition: transform 0.5s;">Visual Studio Code</div>
+</div>
 
 
 ## 💡 Services I Offer
