@@ -68,21 +68,21 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 
 ## 🛠 Tech Stack & Expertise
 
-<h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Languages</h3>
+<h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Languages & Tools</h3>
 
-<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #4B8BBE; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Python</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #F7DF1E; color: black; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">JavaScript</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #3178C6; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">TypeScript</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #E34F26; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">HTML</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #1572B6; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">CSS</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #2496ED; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Docker</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #764ABC; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">PHP</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #FF2D20; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Laravel</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #009688; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">FastAPI</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #563D7C; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Bootstrap</span>
-  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #007ACC; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Visual Studio Code</span>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
+  <div style="display: inline-block; padding: 10px; background-color: #4B8BBE; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Python</div>
+  <div style="display: inline-block; padding: 10px; background-color: #F7DF1E; color: black; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">JavaScript</div>
+  <div style="display: inline-block; padding: 10px; background-color: #3178C6; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">TypeScript</div>
+  <div style="display: inline-block; padding: 10px; background-color: #E34F26; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">HTML</div>
+  <div style="display: inline-block; padding: 10px; background-color: #1572B6; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">CSS</div>
+  <div style="display: inline-block; padding: 10px; background-color: #2496ED; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Docker</div>
+  <div style="display: inline-block; padding: 10px; background-color: #764ABC; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">PHP</div>
+  <div style="display: inline-block; padding: 10px; background-color: #FF2D20; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Laravel</div>
+  <div style="display: inline-block; padding: 10px; background-color: #009688; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">FastAPI</div>
+  <div style="display: inline-block; padding: 10px; background-color: #563D7C; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Bootstrap</div>
+  <div style="display: inline-block; padding: 10px; background-color: #007ACC; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Visual Studio Code</div>
+</div>
 
 ### Full Stack Development
 
@@ -152,37 +152,35 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 
 ## 💡 Services I Offer
 
-<p align="center">
+<div style="text-align: left;">
   <img src="https://img.shields.io/badge/AI--Powered_Solutions-Chatbots,_AI_Search,_RAG_Apps,_Automation-blue?style=for-the-badge&logo=ai" alt="AI-Powered Solutions Badge"/> <br>
   <img src="https://img.shields.io/badge/Full_Stack_Web_Development-Custom_Web_Apps,_SaaS,_AI--Powered_Platforms-green?style=for-the-badge&logo=web" alt="Full Stack Web Development Badge"/> <br>
   <img src="https://img.shields.io/badge/UI/UX_Design_&_Development-Figma,_Adobe_XD,_Tailwind,_Modern_UI-red?style=for-the-badge&logo=design" alt="UI/UX Design & Development Badge"/> <br>
   <img src="https://img.shields.io/badge/Mobile_App_Development-React_Native,_AI--Driven_Apps-orange?style=for-the-badge&logo=mobile" alt="Mobile App Development Badge"/> <br>
   <img src="https://img.shields.io/badge/API_Development_&_Integrations-FastAPI,_OpenAI,_Payment_Gateways-purple?style=for-the-badge&logo=api" alt="API Development & Integrations Badge"/> <br>
   <img src="https://img.shields.io/badge/SEO_&_Performance_Optimization-Core_Web_Vitals,_Speed_Optimization-yellow?style=for-the-badge&logo=seo" alt="SEO & Performance Optimization Badge"/>
-</p>
-
-
+</div>
 
 ## 🔥 Notable Projects
 
-<p align="center">
+<div style="text-align: left;">
   <img src="https://img.shields.io/badge/AI--Driven_SaaS_Web_Apps-3DDC84?style=for-the-badge&logo=web&logoColor=white" alt="AI-Driven SaaS Web Apps Badge"/> <br>
   <img src="https://img.shields.io/badge/AI--Powered_Healthcare_&_Recruitment_Platforms-FF6F00?style=for-the-badge&logo=health&logoColor=white" alt="AI-Powered Healthcare & Recruitment Platforms Badge"/> <br>
   <img src="https://img.shields.io/badge/AI_Chatbots_for_Customer_Support_&_Social_Media-1DA1F2?style=for-the-badge&logo=chatbot&logoColor=white" alt="AI Chatbots for Customer Support & Social Media Badge"/> <br>
   <img src="https://img.shields.io/badge/Multi--Vendor_E--commerce_&_Marketplace_Solutions-FF4500?style=for-the-badge&logo=ecommerce&logoColor=white" alt="Multi-Vendor E-commerce & Marketplace Solutions Badge"/> <br>
   <img src="https://img.shields.io/badge/AI--Powered_Learning_&_LMS_Platforms-4285F4?style=for-the-badge&logo=learning&logoColor=white" alt="AI-Powered Learning & LMS Platforms Badge"/>
-</p>
+</div>
 
 ---
 
 ## 🚀 Let’s Build Something Awesome Together!
 
-<p align="center">
+<div style="text-align: left;">
   <img src="https://img.shields.io/badge/Reach_out_to_discuss_your_next_project-blue?style=for-the-badge&logo=project&logoColor=white" alt="Reach out to discuss your next project Badge"/> <br>
   <img src="https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=connect&logoColor=white" alt="Connect With Me Badge"/> <br>
-</p>
+</div>
 
-<p align="center">
+<div style="text-align: left;">
   <a href="https://www.linkedin.com/in/muhammadsohaibkhan">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
@@ -192,4 +190,4 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
   <a href="https://twitter.com/msohaibkhann">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
-</p>
+</div>
