@@ -55,6 +55,15 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
   </tr>
 </table>
 
+<h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Languages</h3>
+
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
+  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #4B8BBE; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Python</span>
+  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #F7DF1E; color: black; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">JavaScript</span>
+  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #3178C6; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">TypeScript</span>
+  <span style="display: inline-block; padding: 10px; margin: 5px; background-color: #764ABC; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">Other</span>
+</p>
+
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Freelance Experience</h3>
 
 <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6;">
