@@ -1,5 +1,5 @@
 <h1 style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
-Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨🏻‍💻👋👋🏆</span>
+Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨🏻‍💻👋</span>
 </h1>
 <h2 style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
   🚀 Senior Full Stack Software Engineer | AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect
