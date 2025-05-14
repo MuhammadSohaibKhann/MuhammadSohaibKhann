@@ -88,7 +88,7 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
   <span style="display: inline-block; padding: 10px; margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); background-color: #32CD32; color: white; border-radius: 5px;">Upwork: Experienced and highly rated professional</span>
 </p>
 
----
+
 
 
 ## 🛠 Tech Stack & Expertise
@@ -182,7 +182,8 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
   <img src="https://img.shields.io/badge/Multi--Vendor_E--commerce_&_Marketplace_Solutions-FF4500?style=for-the-badge&logo=ecommerce&logoColor=white" alt="Multi-Vendor E-commerce & Marketplace Solutions Badge"/> <br>
   <img src="https://img.shields.io/badge/AI--Powered_Learning_&_LMS_Platforms-4285F4?style=for-the-badge&logo=learning&logoColor=white" alt="AI-Powered Learning & LMS Platforms Badge"/>
 </div>
----
+
+
 
 ## 🚀 Let’s Build Something Awesome Together!
 
