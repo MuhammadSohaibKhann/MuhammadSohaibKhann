@@ -36,6 +36,8 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
   <li><strong>Generative AI</strong>: Innovating in the space of generative AI to create unique and powerful solutions.</li>
   <li><strong>Software Architecture</strong>: Designing scalable and maintainable software architectures to solve complex problems.</li>
 </ul>
+📜 Certifications: 
+![Google IT Automation with Python](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20with%20Python-blue?logo=google)
 
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Specializations</h3>
 
