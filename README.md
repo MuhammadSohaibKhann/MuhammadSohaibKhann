@@ -259,7 +259,13 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 
 
 
-Passionate About Remote Work👨🏻‍💻
 
+## 🌍 Passionate About Remote Work 👨🏻‍💻
 
-🌍 Excited to collaborate on innovative projects from anywhere in the world. Let’s create something amazing together! Check out my work and connect. 🚀
+I'm a strong believer in the power of **remote collaboration** and love working on **innovative projects** with teams around the world.
+
+Whether it's building scalable applications, designing user-focused products, or engineering AI-powered solutions — I’m here to **create meaningful impact from anywhere**.
+
+🚀 Let’s build something amazing together.  
+👉 Check out my work and feel free to connect!
+
