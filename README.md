@@ -40,7 +40,6 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 
 📜 Certifications: 
 
-
 ![Shell Tameer Finalist](https://img.shields.io/badge/Top%2030%20Finalist-Shell%20Tameer%20Awards%202024-red?logo=shell&logoColor=white)
 
 ![AI for Everyone Certified](https://img.shields.io/badge/Certified-AI%20for%20Everyone%20(DeepLearning.AI)-blueviolet?logo=deeplearningdotai&logoColor=white)
@@ -64,24 +63,26 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 
 ![Google Cloud Certified](https://img.shields.io/badge/Certified-Configuration%20Management%20%26%20Cloud-blue?logo=googlecloud&logoColor=white)
 
+![LinkedIn Learning Certified](https://img.shields.io/badge/Certified-LinkedIn%20Software%20Developer-blue?logo=linkedin&logoColor=white)
 
 ![JavaScript Certified](https://img.shields.io/badge/Certified-JavaScript%20Essential%20Training-blue?logo=javascript&logoColor=yellow)
 
 ![LinkedIn Python](https://img.shields.io/badge/LinkedIn%20Learning-Learning%20Python-blue?logo=linkedin&logoColor=white)
 
 ![Full Stack Web Dev](https://img.shields.io/badge/LinkedIn%20Learning-Web%20Development%20Success-blue?logo=linkedin&logoColor=white)
+
 ![Google Troubleshooting Certified](https://img.shields.io/badge/Certified-Troubleshooting%20%26%20Debugging%20Techniques-blue?logo=google&logoColor=white)
 
-![AI for Product Management – Pendo](https://img.shields.io/badge/Certified-AI%20for%20Product%20Management-blueviolet?logo=googlecloud)
 
 ![Git and GitHub Certified](https://img.shields.io/badge/Certified-Introduction%20to%20Git%20%26%20GitHub-blue?logo=github&logoColor=whi)
+
+![AI for Product Management – Pendo](https://img.shields.io/badge/Certified-AI%20for%20Product%20Management-blueviolet?logo=googlecloud)
 
 
 ![Pendo.io Certified](https://img.shields.io/badge/Certified-Pendo.io%20Product%20Management-pink?logo=pendo&logoColor=white)
 
 ![Google Certified](https://img.shields.io/badge/Certified-Google%20Python%20Automation-blue?logo=google&logoColor=white)
 
-![LinkedIn Learning Certified](https://img.shields.io/badge/Certified-LinkedIn%20Software%20Developer-blue?logo=linkedin&logoColor=white)
 
 ![Entrepreneurship Certified](https://img.shields.io/badge/Certified-Entrepreneurship%20(GSU)-blue?logo=academia&logoColor=white)
 
