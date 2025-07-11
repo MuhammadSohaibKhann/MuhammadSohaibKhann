@@ -40,8 +40,6 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib ğŸ‘¨ğŸ
 
 ğŸ“œ Certifications: 
 
-![Shell Tameer Finalist](https://img.shields.io/badge/Top%2030%20Finalist-Shell%20Tameer%20Awards%202024-red?logo=shell&logoColor=white)
-
 ![AI for Everyone Certified](https://img.shields.io/badge/Certified-AI%20for%20Everyone%20(DeepLearning.AI)-blueviolet?logo=deeplearningdotai&logoColor=white)
 
 ![IBM AI Certified](https://img.shields.io/badge/Certified-IBM%20AI%20Engineering-blue?logo=ibm&logoColor=white)
@@ -52,6 +50,7 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib ğŸ‘¨ğŸ
 
 
 ![Google IT Support Certified](https://img.shields.io/badge/Certified-Google%20IT%20Support%20Professional-blue?logo=google)
+
 ![Google IT Support Certified](https://img.shields.io/badge/Certified-Google%20IT%20Support%20Specialization-blue?logo=google&logoColor=white)
 
 
