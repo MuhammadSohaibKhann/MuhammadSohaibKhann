@@ -36,10 +36,37 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
   <li><strong>Generative AI</strong>: Innovating in the space of generative AI to create unique and powerful solutions.</li>
   <li><strong>Software Architecture</strong>: Designing scalable and maintainable software architectures to solve complex problems.</li>
 </ul>
+
+
 📜 Certifications: 
 
+![Google IT Support Certified](https://img.shields.io/badge/Certified-Google%20IT%20Support%20Professional-blue?logo=google)
 
 ![Google IT Automation with Python](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20with%20Python-blue?logo=google)
+
+![Google IT Automation Certified](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20Professional-blue?logo=google&logoColor=white)
+
+![Google IT Automation](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20with%20Python-blue?logo=google&logoColor=white)
+
+![JavaScript Certified](https://img.shields.io/badge/Certified-JavaScript%20Essential%20Training-blue?logo=javascript&logoColor=yellow)
+
+![LinkedIn Python](https://img.shields.io/badge/LinkedIn%20Learning-Learning%20Python-blue?logo=linkedin&logoColor=white)
+
+![Full Stack Web Dev](https://img.shields.io/badge/LinkedIn%20Learning-Web%20Development%20Success-blue?logo=linkedin&logoColor=white)
+
+![AI for Product Management – Pendo](https://img.shields.io/badge/Certified-AI%20for%20Product%20Management-blueviolet?logo=googlecloud)
+
+![Google Cloud Certified](https://img.shields.io/badge/Certified-Configuration%20Management%20%26%20Cloud-blue?logo=googlecloud&logoColor=white)
+
+
+![Pendo.io Certified](https://img.shields.io/badge/Certified-Pendo.io%20Product%20Management-pink?logo=pendo&logoColor=white)
+
+![Google Certified](https://img.shields.io/badge/Certified-Google%20Python%20Automation-blue?logo=google&logoColor=white)
+
+![LinkedIn Learning Certified](https://img.shields.io/badge/Certified-LinkedIn%20Software%20Developer-blue?logo=linkedin&logoColor=white)
+
+
+
 
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Specializations</h3>
 
