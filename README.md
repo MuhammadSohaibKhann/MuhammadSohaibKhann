@@ -38,56 +38,6 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 </ul>
 
 
-📜 Certifications: 
-
-![AI for Everyone Certified](https://img.shields.io/badge/Certified-AI%20for%20Everyone%20(DeepLearning.AI)-blueviolet?logo=deeplearningdotai&logoColor=white)
-
-![IBM AI Certified](https://img.shields.io/badge/Certified-IBM%20AI%20Engineering-blue?logo=ibm&logoColor=white)
-
-![IBM RAG LangChain Certified](https://img.shields.io/badge/Certified-AI%20Agents%20with%20RAG%20%26%20LangChain-blue?logo=ibm&logoColor=white)
-
-![IBM LLM Fine-Tuning Certified](https://img.shields.io/badge/Certified-LLM%20Fine--Tuning%20(IBM)-blue?logo=ibm&logoColor=white)
-
-
-![Google IT Support Certified](https://img.shields.io/badge/Certified-Google%20IT%20Support%20Professional-blue?logo=google)
-
-![Google IT Support Certified](https://img.shields.io/badge/Certified-Google%20IT%20Support%20Specialization-blue?logo=google&logoColor=white)
-
-
-![Google IT Automation with Python](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20with%20Python-blue?logo=google)
-
-![Google IT Automation Certified](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20Professional-blue?logo=google&logoColor=white)
-
-![Google IT Automation](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20with%20Python-blue?logo=google&logoColor=white)
-
-![Google Cloud Certified](https://img.shields.io/badge/Certified-Configuration%20Management%20%26%20Cloud-blue?logo=googlecloud&logoColor=white)
-
-![LinkedIn Learning Certified](https://img.shields.io/badge/Certified-LinkedIn%20Software%20Developer-blue?logo=linkedin&logoColor=white)
-
-![JavaScript Certified](https://img.shields.io/badge/Certified-JavaScript%20Essential%20Training-blue?logo=javascript&logoColor=yellow)
-
-![LinkedIn Python](https://img.shields.io/badge/LinkedIn%20Learning-Learning%20Python-blue?logo=linkedin&logoColor=white)
-
-![Full Stack Web Dev](https://img.shields.io/badge/LinkedIn%20Learning-Web%20Development%20Success-blue?logo=linkedin&logoColor=white)
-
-![Google Troubleshooting Certified](https://img.shields.io/badge/Certified-Troubleshooting%20%26%20Debugging%20Techniques-blue?logo=google&logoColor=white)
-
-
-![Git and GitHub Certified](https://img.shields.io/badge/Certified-Introduction%20to%20Git%20%26%20GitHub-blue?logo=github&logoColor=whi)
-
-![AI for Product Management – Pendo](https://img.shields.io/badge/Certified-AI%20for%20Product%20Management-blueviolet?logo=googlecloud)
-
-
-![Pendo.io Certified](https://img.shields.io/badge/Certified-Pendo.io%20Product%20Management-pink?logo=pendo&logoColor=white)
-
-![Google Certified](https://img.shields.io/badge/Certified-Google%20Python%20Automation-blue?logo=google&logoColor=white)
-
-
-![Entrepreneurship Certified](https://img.shields.io/badge/Certified-Entrepreneurship%20(GSU)-blue?logo=academia&logoColor=white)
-
-
-
-
 
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 Specializations</h3>
 
@@ -224,6 +174,57 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
   <img src="https://img.shields.io/badge/API_Development_&_Integrations-FastAPI,_OpenAI,_Payment_Gateways-purple?style=for-the-badge&logo=api" alt="API Development & Integrations Badge"/> <br>
   <img src="https://img.shields.io/badge/SEO_&_Performance_Optimization-Core_Web_Vitals,_Speed_Optimization-yellow?style=for-the-badge&logo=seo" alt="SEO & Performance Optimization Badge"/>
 </div>
+
+
+
+📜 Certifications: 
+
+![AI for Everyone Certified](https://img.shields.io/badge/Certified-AI%20for%20Everyone%20(DeepLearning.AI)-blueviolet?logo=deeplearningdotai&logoColor=white)
+
+![IBM AI Certified](https://img.shields.io/badge/Certified-IBM%20AI%20Engineering-blue?logo=ibm&logoColor=white)
+
+![IBM RAG LangChain Certified](https://img.shields.io/badge/Certified-AI%20Agents%20with%20RAG%20%26%20LangChain-blue?logo=ibm&logoColor=white)
+
+![IBM LLM Fine-Tuning Certified](https://img.shields.io/badge/Certified-LLM%20Fine--Tuning%20(IBM)-blue?logo=ibm&logoColor=white)
+
+
+![Google IT Support Certified](https://img.shields.io/badge/Certified-Google%20IT%20Support%20Professional-blue?logo=google)
+
+![Google IT Support Certified](https://img.shields.io/badge/Certified-Google%20IT%20Support%20Specialization-blue?logo=google&logoColor=white)
+
+
+![Google IT Automation with Python](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20with%20Python-blue?logo=google)
+
+![Google IT Automation Certified](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20Professional-blue?logo=google&logoColor=white)
+
+![Google IT Automation](https://img.shields.io/badge/Certified-Google%20IT%20Automation%20with%20Python-blue?logo=google&logoColor=white)
+
+![Google Cloud Certified](https://img.shields.io/badge/Certified-Configuration%20Management%20%26%20Cloud-blue?logo=googlecloud&logoColor=white)
+
+![LinkedIn Learning Certified](https://img.shields.io/badge/Certified-LinkedIn%20Software%20Developer-blue?logo=linkedin&logoColor=white)
+
+![JavaScript Certified](https://img.shields.io/badge/Certified-JavaScript%20Essential%20Training-blue?logo=javascript&logoColor=yellow)
+
+![LinkedIn Python](https://img.shields.io/badge/LinkedIn%20Learning-Learning%20Python-blue?logo=linkedin&logoColor=white)
+
+![Full Stack Web Dev](https://img.shields.io/badge/LinkedIn%20Learning-Web%20Development%20Success-blue?logo=linkedin&logoColor=white)
+
+![Google Troubleshooting Certified](https://img.shields.io/badge/Certified-Troubleshooting%20%26%20Debugging%20Techniques-blue?logo=google&logoColor=white)
+
+
+![Git and GitHub Certified](https://img.shields.io/badge/Certified-Introduction%20to%20Git%20%26%20GitHub-blue?logo=github&logoColor=whi)
+
+![AI for Product Management – Pendo](https://img.shields.io/badge/Certified-AI%20for%20Product%20Management-blueviolet?logo=googlecloud)
+
+
+![Pendo.io Certified](https://img.shields.io/badge/Certified-Pendo.io%20Product%20Management-pink?logo=pendo&logoColor=white)
+
+![Google Certified](https://img.shields.io/badge/Certified-Google%20Python%20Automation-blue?logo=google&logoColor=white)
+
+
+![Entrepreneurship Certified](https://img.shields.io/badge/Certified-Entrepreneurship%20(GSU)-blue?logo=academia&logoColor=white)
+
+
 
 ## 🔥 Notable Projects
 
