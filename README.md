@@ -4,7 +4,7 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 <h2 style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
   🚀 Senior Full Stack Software Engineer | Senior AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect | IT Consultant | Google IT Automation with Python Certified
 </h2>
-https://muhammadsohaibkhan-portfolio.vercel.app/
+
 <p>
   <img src="https://img.shields.io/badge/Years%20of%20Experience-9%2B-blue" alt="Experience Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Expert-brightgreen" alt="Full Stack Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
@@ -269,4 +269,5 @@ Whether it's building scalable applications, designing user-focused products, or
 
 🚀 Let’s build something amazing together.  
 👉 Check out my work and feel free to connect!
+https://muhammadsohaibkhan-portfolio.vercel.app/
 
