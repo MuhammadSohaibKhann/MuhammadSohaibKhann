@@ -269,5 +269,4 @@ Whether it's building scalable applications, designing user-focused products, or
 
 🚀 Let’s build something amazing together.  
 👉 Check out my work and feel free to connect!
-https://muhammadsohaibkhan-portfolio.vercel.app/
-
+https://muhammadsohaibkhan.vercel.app
