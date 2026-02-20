@@ -2,7 +2,7 @@
 Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨🏻‍💻👋</span>
 </h1>
 <h2 style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
-  🚀 Senior Full Stack Software Engineer | Senior AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect | IT Consultant | Google IT Automation with Python Certified
+  🚀 Senior Full Stack Software Engineer | Senior AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect | IT Consultant | Google IT Automation with Python Certified | Google IT Expert
 </h2>
 
 <p>
@@ -25,7 +25,7 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
   <li>Data science and AI development projects</li>
   <li>Web development and IT solutions</li>
   <li>E-commerce platforms and innovative AI-powered web apps</li>
-  <li>Successfully completing 60+ projects with measurable impact</li>
+  <li>Successfully completing 70+ projects with measurable impact</li>
 </ul>
 <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; text-align: left;">
   Beyond development, I excel in project management and business development, leveraging pipeline-based strategies to identify growth opportunities, nurture client relationships, and achieve business success. I thrive on meticulous planning and seamless execution, ensuring that every project from concept to deployment is aligned with strategic goals and delivers tangible results. My experience as a Project Manager & Business Development Manager has allowed me to bridge the gap between technology and business strategy effectively. I focus on fostering collaboration, driving innovation, and delivering solutions that create meaningful value. Whether leading cross-functional teams or streamlining workflows, I am committed to ensuring excellence in every aspect of my work. My expertise spans across various domains:
