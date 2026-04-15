@@ -2,7 +2,7 @@
 Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨🏻‍💻👋</span>
 </h1>
 <h2 style="font-family: Arial, sans-serif; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
-  🚀 Certified Senior Software Engineer & Certified AI Engineer | Frontend & Backend Expert | 200+ Projects | Generative AI Expert | Software Architect | IT Consultant | Google IT Automation with Python Certified | Google IT Expert
+  🚀 Certified Senior Software Engineer & Certified AI Engineer | Frontend & Backend Expert | Generative AI Expert | Software Architect | IT Consultant | Google IT Automation with Python Certified | Google IT Expert
 </h2>
 
 <p>
