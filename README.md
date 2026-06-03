@@ -6,7 +6,7 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 </h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Years%20of%20Experience-9%2B-blue" alt="Experience Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://img.shields.io/badge/Years%20of%20Experience-10%2B-blue" alt="Experience Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Expert-brightgreen" alt="Full Stack Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <img src="https://img.shields.io/badge/AI%20Engineer-Expert-orange" alt="AI Engineer Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
   <img src="https://img.shields.io/badge/Frontend%20%26%20Backend-Expert-blueviolet" alt="Frontend & Backend Badge" style="margin: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
@@ -16,7 +16,7 @@ Hi, I'm <span style="color: #FF5733; font-weight: bold;">Muhammad Sohaib 👨�
 <h3 style="font-family: Arial, sans-serif; font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🔹 About Me</h3>
 
 <p style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.6; text-align: left;">
-  With over 9+ years of experience in Full Stack Development and AI Development, I specialize in creating robust websites, web applications, mobile applications, developing cutting-edge AI solutions, Chatbot Development, AI Agents, AI Automations, and architecting efficient custom software systems.
+  With over 10 years of experience in Full Stack Development and AI Development, I specialize in creating robust websites, web applications, mobile applications, developing cutting-edge AI solutions, Chatbot Development, AI Agents, AI Automations, and architecting efficient custom software systems.
   
   My journey includes delivering:
 </p>
@@ -269,4 +269,8 @@ Whether it's building scalable applications, designing user-focused products, or
 
 🚀 Let’s build something amazing together.  
 👉 Check out my work and feel free to connect!
+Email:
+msk.engineer1@gmail.com
+muhammadsohaib@solnetinfo.com
+
 https://muhammadsohaibkhan.vercel.app
