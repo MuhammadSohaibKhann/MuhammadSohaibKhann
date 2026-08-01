@@ -271,6 +271,8 @@ Whether it's building scalable applications, designing user-focused products, or
 🚀 Let’s build something amazing together.  
 👉 Check out my work and feel free to connect!
 
+Portfolio: 
+https://muhammadsohaibkhan.netlify.app
 
 Email:
 msk.engineer1@gmail.com
