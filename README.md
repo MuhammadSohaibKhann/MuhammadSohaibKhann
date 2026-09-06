@@ -17,19 +17,19 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=muhammadsohaibkhann&label=Profile%20Views&color=00C853&style=for-the-badge" alt="Profile views" />
-<a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge&labelColor=0F2027" alt="Open to remote work" /></a>
-<img src="https://img.shields.io/badge/Based%20in-Pakistan%20%C2%B7%20Working%20Worldwide-00A344?style=for-the-badge&labelColor=0F2027" alt="Location" />
+<a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge&labelColor=0F2027&logo=zoom&logoColor=white" alt="Open to remote work" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Pakistan%20%C2%B7%20Working%20Worldwide-00A344?style=for-the-badge&labelColor=0F2027&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Google%20Certified-Professional-4285F4?style=for-the-badge&labelColor=0F2027&logo=google&logoColor=white" alt="Google Certified Professional" />
 <img src="https://img.shields.io/badge/IBM%20Certified-AI%20Engineering-0F62FE?style=for-the-badge&labelColor=0F2027&logo=ibm&logoColor=white" alt="IBM Certified AI Engineering" />
-<img src="https://img.shields.io/badge/Speaker%20%C2%B7%20Mentor-Tech%20Community-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Speaker and mentor" />
-<img src="https://img.shields.io/badge/500%2B%20Projects-Enterprise%20Grade%20%C2%B7%20Global-00C853?style=for-the-badge&labelColor=0F2027" alt="500+ enterprise grade projects delivered globally" />
+<img src="https://img.shields.io/badge/Speaker%20%C2%B7%20Mentor-Tech%20Community-1DBF73?style=for-the-badge&labelColor=0F2027&logo=speakerdeck&logoColor=white" alt="Speaker and mentor" />
+<img src="https://img.shields.io/badge/500%2B%20Projects-Enterprise%20Grade%20%C2%B7%20Global-00C853?style=for-the-badge&labelColor=0F2027&logo=buildkite&logoColor=white" alt="500+ enterprise grade projects delivered globally" />
 
 <br/><br/>
 
-<a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/%F0%9F%93%85%20%20Book%20a%2030--min%20Call-Free%20%C2%B7%20No%20Obligation-00C853?style=for-the-badge&labelColor=0F2027" alt="Book a free 30-minute call" height="40" /></a>
-<a href="mailto:msk.engineer1@gmail.com?subject=Project%20Enquiry"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20%20Email%20Me-Reply%20within%2024h-00A344?style=for-the-badge&labelColor=0F2027" alt="Email me" height="40" /></a>
-<a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20%20LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="40" /></a>
-<a href="https://muhammadsohaibkhan.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20Portfolio-View%20Work-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="View portfolio" height="40" /></a>
+<a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/Book%20a%2030--min%20Call-Free%20%C2%B7%20No%20Obligation-00C853?style=for-the-badge&labelColor=0F2027&logo=calendly&logoColor=white" alt="Book a free 30-minute call" height="40" /></a>
+<a href="mailto:msk.engineer1@gmail.com?subject=Project%20Enquiry"><img src="https://img.shields.io/badge/Email%20Me-Reply%20within%2024h-00A344?style=for-the-badge&labelColor=0F2027&logo=gmail&logoColor=white" alt="Email me" height="40" /></a>
+<a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="40" /></a>
+<a href="https://muhammadsohaibkhan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-View%20Work-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=netlify&logoColor=white" alt="View portfolio" height="40" /></a>
 
 <sub><b>Hiring teams:</b> open to senior remote roles worldwide &nbsp;·&nbsp; <b>Clients:</b> taking on select engagements this quarter</sub>
 
@@ -139,10 +139,10 @@
 
 |  |  |  |
 |:--:|:--:|:--:|
-| <img src="https://img.shields.io/badge/🤖%20AI%20Agents-00C853?style=for-the-badge&labelColor=0F2027" alt="AI Agents" /><br/>**Autonomous AI Agents**<br/><sub>Multi-step reasoning, tool use, orchestration</sub> | <img src="https://img.shields.io/badge/🧠%20Agentic%20Systems-00A344?style=for-the-badge&labelColor=0F2027" alt="Agentic Systems" /><br/>**Full Agentic Systems**<br/><sub>Multi-agent workflows, planning, memory, guardrails</sub> | <img src="https://img.shields.io/badge/🎙️%20Voice%20Agents-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Voice Agents" /><br/>**Voice AI**<br/><sub>Real-time speech, STT/TTS, natural turn-taking</sub> |
-| <img src="https://img.shields.io/badge/📞%20Calling%20Agents-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Calling Agents" /><br/>**AI Calling Agents**<br/><sub>Inbound & outbound calls, booking, qualification</sub> | <img src="https://img.shields.io/badge/💬%20AI%20Chatbots-43A047?style=for-the-badge&labelColor=0F2027" alt="AI Chatbots" /><br/>**Conversational AI**<br/><sub>Support, sales & social automation</sub> | <img src="https://img.shields.io/badge/🔎%20RAG%20Systems-1DBF73?style=for-the-badge&labelColor=0F2027" alt="RAG Systems" /><br/>**Retrieval-Augmented AI**<br/><sub>Vector search over private knowledge</sub> |
-| <img src="https://img.shields.io/badge/🌐%20Web%20Design%20%26%20Dev-00C853?style=for-the-badge&labelColor=0F2027" alt="Web Design and Development" /><br/>**Web Design & Development**<br/><sub>Design systems through production front-ends</sub> | <img src="https://img.shields.io/badge/📱%20Mobile%20Design%20%26%20Dev-00A344?style=for-the-badge&labelColor=0F2027" alt="Mobile Design and Development" /><br/>**Mobile App Design & Development**<br/><sub>iOS, Android, React Native, PWA — design to store</sub> | <img src="https://img.shields.io/badge/🎬%20Motion%20Design-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Motion Design" /><br/>**Motion Design & Development**<br/><sub>UI motion, micro-interactions, animated brand assets</sub> |
-| <img src="https://img.shields.io/badge/☁️%20SaaS%20Platforms-2E7D32?style=for-the-badge&labelColor=0F2027" alt="SaaS Platforms" /><br/>**Custom Software & SaaS**<br/><sub>Multi-tenant, billing-ready architectures</sub> | <img src="https://img.shields.io/badge/⚙️%20AI%20Automation-43A047?style=for-the-badge&labelColor=0F2027" alt="AI Automation" /><br/>**Workflow Automation**<br/><sub>Email, data ops, internal tooling, RPA</sub> | <img src="https://img.shields.io/badge/🏗️%20Architecture-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Architecture" /><br/>**Software Architecture**<br/><sub>Cloud-native, scalable, documented systems</sub> |
+| <img src="https://img.shields.io/badge/AI%20Agents-00C853?style=for-the-badge&labelColor=0F2027&logo=probot&logoColor=white" alt="AI Agents" /><br/>**Autonomous AI Agents**<br/><sub>Multi-step reasoning, tool use, orchestration</sub> | <img src="https://img.shields.io/badge/Agentic%20Systems-00A344?style=for-the-badge&labelColor=0F2027&logo=apacheairflow&logoColor=white" alt="Agentic Systems" /><br/>**Full Agentic Systems**<br/><sub>Multi-agent workflows, planning, memory, guardrails</sub> | <img src="https://img.shields.io/badge/Voice%20Agents-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=audiomack&logoColor=white" alt="Voice Agents" /><br/>**Voice AI**<br/><sub>Real-time speech, STT/TTS, natural turn-taking</sub> |
+| <img src="https://img.shields.io/badge/Calling%20Agents-2E7D32?style=for-the-badge&labelColor=0F2027&logo=twilio&logoColor=white" alt="Calling Agents" /><br/>**AI Calling Agents**<br/><sub>Inbound & outbound calls, booking, qualification</sub> | <img src="https://img.shields.io/badge/AI%20Chatbots-43A047?style=for-the-badge&labelColor=0F2027&logo=wechat&logoColor=white" alt="AI Chatbots" /><br/>**Conversational AI**<br/><sub>Support, sales & social automation</sub> | <img src="https://img.shields.io/badge/RAG%20Systems-1DBF73?style=for-the-badge&labelColor=0F2027&logo=elasticsearch&logoColor=white" alt="RAG Systems" /><br/>**Retrieval-Augmented AI**<br/><sub>Vector search over private knowledge</sub> |
+| <img src="https://img.shields.io/badge/Web%20Design%20%26%20Dev-00C853?style=for-the-badge&labelColor=0F2027&logo=react&logoColor=white" alt="Web Design and Development" /><br/>**Web Design & Development**<br/><sub>Design systems through production front-ends</sub> | <img src="https://img.shields.io/badge/Mobile%20Design%20%26%20Dev-00A344?style=for-the-badge&labelColor=0F2027&logo=android&logoColor=white" alt="Mobile Design and Development" /><br/>**Mobile App Design & Development**<br/><sub>iOS, Android, React Native, PWA — design to store</sub> | <img src="https://img.shields.io/badge/Motion%20Design-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=adobeaftereffects&logoColor=white" alt="Motion Design" /><br/>**Motion Design & Development**<br/><sub>UI motion, micro-interactions, animated brand assets</sub> |
+| <img src="https://img.shields.io/badge/SaaS%20Platforms-2E7D32?style=for-the-badge&labelColor=0F2027&logo=icloud&logoColor=white" alt="SaaS Platforms" /><br/>**Custom Software & SaaS**<br/><sub>Multi-tenant, billing-ready architectures</sub> | <img src="https://img.shields.io/badge/AI%20Automation-43A047?style=for-the-badge&labelColor=0F2027&logo=n8n&logoColor=white" alt="AI Automation" /><br/>**Workflow Automation**<br/><sub>Email, data ops, internal tooling, RPA</sub> | <img src="https://img.shields.io/badge/Architecture-1DBF73?style=for-the-badge&labelColor=0F2027&logo=diagramsdotnet&logoColor=white" alt="Architecture" /><br/>**Software Architecture**<br/><sub>Cloud-native, scalable, documented systems</sub> |
 
 </div>
 
@@ -595,10 +595,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Years%20Engineering-10%2B-43A047?style=for-the-badge&labelColor=0F2027" alt="Years" />
-<img src="https://img.shields.io/badge/Projects%20Delivered-500%2B-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Projects" />
-<img src="https://img.shields.io/badge/CRM%20%26%20ERP%20Builds-50%2B-1DBF73?style=for-the-badge&labelColor=0F2027" alt="CRM & ERP" />
-<img src="https://img.shields.io/badge/Freelance%20Rating-5.0%20%E2%98%85-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Rating" />
+<img src="https://img.shields.io/badge/Years%20Engineering-10%2B-43A047?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Years" />
+<img src="https://img.shields.io/badge/Projects%20Delivered-500%2B-2E7D32?style=for-the-badge&labelColor=0F2027&logo=buildkite&logoColor=white" alt="Projects" />
+<img src="https://img.shields.io/badge/CRM%20%26%20ERP%20Builds-50%2B-1DBF73?style=for-the-badge&labelColor=0F2027&logo=odoo&logoColor=white" alt="CRM & ERP" />
+<img src="https://img.shields.io/badge/Freelance%20Rating-5.0%20%E2%98%85-1DBF73?style=for-the-badge&labelColor=0F2027&logo=upwork&logoColor=white" alt="Rating" />
 
 <br/><br/>
 
@@ -700,15 +700,15 @@
 
 ### 🌍 &nbsp;Industries Served
 
-<img src="https://img.shields.io/badge/Healthcare%20%26%20MedTech-00C853?style=for-the-badge&labelColor=0F2027" alt="Healthcare and MedTech" />
-<img src="https://img.shields.io/badge/FinTech%20%26%20Payments-00BFA5?style=for-the-badge&labelColor=0F2027" alt="FinTech and Payments" />
-<img src="https://img.shields.io/badge/E--Commerce%20%26%20Retail-00C853?style=for-the-badge&labelColor=0F2027" alt="E-Commerce and Retail" />
-<img src="https://img.shields.io/badge/Education%20%26%20EdTech-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Education and EdTech" />
+<img src="https://img.shields.io/badge/Healthcare%20%26%20MedTech-00C853?style=for-the-badge&labelColor=0F2027&logo=medium&logoColor=white" alt="Healthcare and MedTech" />
+<img src="https://img.shields.io/badge/FinTech%20%26%20Payments-00BFA5?style=for-the-badge&labelColor=0F2027&logo=stripe&logoColor=white" alt="FinTech and Payments" />
+<img src="https://img.shields.io/badge/E--Commerce%20%26%20Retail-00C853?style=for-the-badge&labelColor=0F2027&logo=shopify&logoColor=white" alt="E-Commerce and Retail" />
+<img src="https://img.shields.io/badge/Education%20%26%20EdTech-1DBF73?style=for-the-badge&labelColor=0F2027&logo=coursera&logoColor=white" alt="Education and EdTech" />
 <br/>
-<img src="https://img.shields.io/badge/Recruitment%20%26%20HR%20Tech-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Recruitment and HR Tech" />
-<img src="https://img.shields.io/badge/Real%20Estate%20%26%20PropTech-43A047?style=for-the-badge&labelColor=0F2027" alt="Real Estate and PropTech" />
-<img src="https://img.shields.io/badge/Logistics%20%26%20Supply%20Chain-388E3C?style=for-the-badge&labelColor=0F2027" alt="Logistics and Supply Chain" />
-<img src="https://img.shields.io/badge/SaaS%20%26%20B2B%20Platforms-4CAF50?style=for-the-badge&labelColor=0F2027" alt="SaaS and B2B Platforms" />
+<img src="https://img.shields.io/badge/Recruitment%20%26%20HR%20Tech-2E7D32?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="Recruitment and HR Tech" />
+<img src="https://img.shields.io/badge/Real%20Estate%20%26%20PropTech-43A047?style=for-the-badge&labelColor=0F2027&logo=homeassistant&logoColor=white" alt="Real Estate and PropTech" />
+<img src="https://img.shields.io/badge/Logistics%20%26%20Supply%20Chain-388E3C?style=for-the-badge&labelColor=0F2027&logo=fedex&logoColor=white" alt="Logistics and Supply Chain" />
+<img src="https://img.shields.io/badge/SaaS%20%26%20B2B%20Platforms-4CAF50?style=for-the-badge&labelColor=0F2027&logo=icloud&logoColor=white" alt="SaaS and B2B Platforms" />
 
 <br/><br/>
 
@@ -733,9 +733,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=880&lines=Mission-critical+systems+for+global+organisations" alt="" />
 
-<img src="https://img.shields.io/badge/Enterprise%20Grade-Production%20Systems-00C853?style=for-the-badge&labelColor=0F2027" alt="Enterprise grade" />
-<img src="https://img.shields.io/badge/Delivery-Global%20%C2%B7%20Multi--Region-00A344?style=for-the-badge&labelColor=0F2027" alt="Global multi-region delivery" />
-<img src="https://img.shields.io/badge/Compliance-NDA%20%C2%B7%20GDPR%20%C2%B7%20HIPAA%20Aware-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Compliance aware" />
+<img src="https://img.shields.io/badge/Enterprise%20Grade-Production%20Systems-00C853?style=for-the-badge&labelColor=0F2027&logo=kubernetes&logoColor=white" alt="Enterprise grade" />
+<img src="https://img.shields.io/badge/Delivery-Global%20%C2%B7%20Multi--Region-00A344?style=for-the-badge&labelColor=0F2027&logo=googleearth&logoColor=white" alt="Global multi-region delivery" />
+<img src="https://img.shields.io/badge/Compliance-NDA%20%C2%B7%20GDPR%20%C2%B7%20HIPAA%20Aware-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=shieldsdotio&logoColor=white" alt="Compliance aware" />
 
 </div>
 
@@ -761,13 +761,13 @@ full references and architecture walkthroughs available on request.</i>
 
 ### 🌐 &nbsp;Global Delivery Footprint
 
-<img src="https://img.shields.io/badge/North%20America-00C853?style=for-the-badge&labelColor=0F2027" alt="North America" />
-<img src="https://img.shields.io/badge/United%20Kingdom%20%26%20Europe-00A344?style=for-the-badge&labelColor=0F2027" alt="United Kingdom and Europe" />
-<img src="https://img.shields.io/badge/Middle%20East%20%26%20GCC-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Middle East and GCC" />
+<img src="https://img.shields.io/badge/North%20America-00C853?style=for-the-badge&labelColor=0F2027&logo=googleearth&logoColor=white" alt="North America" />
+<img src="https://img.shields.io/badge/United%20Kingdom%20%26%20Europe-00A344?style=for-the-badge&labelColor=0F2027&logo=googleearth&logoColor=white" alt="United Kingdom and Europe" />
+<img src="https://img.shields.io/badge/Middle%20East%20%26%20GCC-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=googleearth&logoColor=white" alt="Middle East and GCC" />
 <br/>
-<img src="https://img.shields.io/badge/Australia%20%26%20APAC-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Australia and APAC" />
-<img src="https://img.shields.io/badge/South%20Asia-43A047?style=for-the-badge&labelColor=0F2027" alt="South Asia" />
-<img src="https://img.shields.io/badge/Fully%20Remote-Async%20First-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Fully remote async first" />
+<img src="https://img.shields.io/badge/Australia%20%26%20APAC-2E7D32?style=for-the-badge&labelColor=0F2027&logo=googleearth&logoColor=white" alt="Australia and APAC" />
+<img src="https://img.shields.io/badge/South%20Asia-43A047?style=for-the-badge&labelColor=0F2027&logo=googleearth&logoColor=white" alt="South Asia" />
+<img src="https://img.shields.io/badge/Fully%20Remote-Async%20First-1DBF73?style=for-the-badge&labelColor=0F2027&logo=zoom&logoColor=white" alt="Fully remote async first" />
 
 <br/><br/>
 
@@ -877,7 +877,7 @@ full references and architecture walkthroughs available on request.</i>
 <li>🔍 &nbsp;Architecture audit — a second opinion before a big decision</li>
 </ul>
 
-<p align="center"><a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/%F0%9F%93%85%20%20Book%20a%20Discovery%20Call-00C853?style=for-the-badge&labelColor=0F2027" alt="Book a discovery call" /></a></p>
+<p align="center"><a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/Book%20a%20Discovery%20Call-00C853?style=for-the-badge&labelColor=0F2027&logo=calendly&logoColor=white" alt="Book a discovery call" /></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -903,7 +903,7 @@ full references and architecture walkthroughs available on request.</i>
 <li>🛰️ &nbsp;Forward Deployed Engineer / Solutions Architect</li>
 </ul>
 
-<p align="center"><a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20%20Reach%20Out%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="Reach out on LinkedIn" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/Reach%20Out%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="Reach out on LinkedIn" /></a></p>
 
 </td>
 </tr>
@@ -934,29 +934,29 @@ full references and architecture walkthroughs available on request.</i>
 
 **🤖 &nbsp;AI, Agents & Automation**
 
-<img src="https://img.shields.io/badge/AI%20Agents%20%26%20Agentic%20Systems-Multi--Agent%20%C2%B7%20Tool%20Use%20%C2%B7%20Memory-00C853?style=for-the-badge&labelColor=0F2027" alt="AI Agents and Agentic Systems" /><br/>
-<img src="https://img.shields.io/badge/Voice%20%26%20Calling%20Agents-Real--Time%20Speech%20%C2%B7%20Inbound%20%C2%B7%20Outbound-00A344?style=for-the-badge&labelColor=0F2027" alt="Voice and Calling Agents" /><br/>
-<img src="https://img.shields.io/badge/Chatbots%20%26%20RAG%20Apps-Support%20%C2%B7%20Sales%20%C2%B7%20Knowledge%20Retrieval-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Chatbots and RAG Apps" /><br/>
-<img src="https://img.shields.io/badge/AI%20Automation-Workflows%20%C2%B7%20Data%20Ops%20%C2%B7%20Internal%20Tools-2E7D32?style=for-the-badge&labelColor=0F2027" alt="AI Automation" />
+<img src="https://img.shields.io/badge/AI%20Agents%20%26%20Agentic%20Systems-Multi--Agent%20%C2%B7%20Tool%20Use%20%C2%B7%20Memory-00C853?style=for-the-badge&labelColor=0F2027&logo=probot&logoColor=white" alt="AI Agents and Agentic Systems" /><br/>
+<img src="https://img.shields.io/badge/Voice%20%26%20Calling%20Agents-Real--Time%20Speech%20%C2%B7%20Inbound%20%C2%B7%20Outbound-00A344?style=for-the-badge&labelColor=0F2027&logo=twilio&logoColor=white" alt="Voice and Calling Agents" /><br/>
+<img src="https://img.shields.io/badge/Chatbots%20%26%20RAG%20Apps-Support%20%C2%B7%20Sales%20%C2%B7%20Knowledge%20Retrieval-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=wechat&logoColor=white" alt="Chatbots and RAG Apps" /><br/>
+<img src="https://img.shields.io/badge/AI%20Automation-Workflows%20%C2%B7%20Data%20Ops%20%C2%B7%20Internal%20Tools-2E7D32?style=for-the-badge&labelColor=0F2027&logo=n8n&logoColor=white" alt="AI Automation" />
 
 <br/><br/>
 
 **💻 &nbsp;Design & Development**
 
-<img src="https://img.shields.io/badge/Web%20Design%20%26%20Development-Design%20Systems%20%C2%B7%20Landing%20%C2%B7%20Web%20Apps-43A047?style=for-the-badge&labelColor=0F2027" alt="Web Design and Development" /><br/>
-<img src="https://img.shields.io/badge/Mobile%20App%20Design%20%26%20Development-iOS%20%C2%B7%20Android%20%C2%B7%20React%20Native%20%C2%B7%20PWA-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Mobile App Design and Development" /><br/>
-<img src="https://img.shields.io/badge/Motion%20Design%20%26%20Development-UI%20Motion%20%C2%B7%20Micro--Interactions%20%C2%B7%20Brand-00C853?style=for-the-badge&labelColor=0F2027" alt="Motion Design and Development" /><br/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma%20%C2%B7%20Adobe%20XD%20%C2%B7%20Prototyping-00A344?style=for-the-badge&labelColor=0F2027" alt="UI UX Design" />
+<img src="https://img.shields.io/badge/Web%20Design%20%26%20Development-Design%20Systems%20%C2%B7%20Landing%20%C2%B7%20Web%20Apps-43A047?style=for-the-badge&labelColor=0F2027&logo=react&logoColor=white" alt="Web Design and Development" /><br/>
+<img src="https://img.shields.io/badge/Mobile%20App%20Design%20%26%20Development-iOS%20%C2%B7%20Android%20%C2%B7%20React%20Native%20%C2%B7%20PWA-1DBF73?style=for-the-badge&labelColor=0F2027&logo=android&logoColor=white" alt="Mobile App Design and Development" /><br/>
+<img src="https://img.shields.io/badge/Motion%20Design%20%26%20Development-UI%20Motion%20%C2%B7%20Micro--Interactions%20%C2%B7%20Brand-00C853?style=for-the-badge&labelColor=0F2027&logo=framer&logoColor=white" alt="Motion Design and Development" /><br/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma%20%C2%B7%20Adobe%20XD%20%C2%B7%20Prototyping-00A344?style=for-the-badge&labelColor=0F2027&logo=figma&logoColor=white" alt="UI UX Design" />
 
 <br/><br/>
 
 **🏗️ &nbsp;Engineering & Platform**
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-Web%20Apps%20%C2%B7%20SaaS%20%C2%B7%20AI%20Platforms-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Full Stack Development" /><br/>
-<img src="https://img.shields.io/badge/Software%20Architecture-Scalable%20%C2%B7%20Cloud--Native%20%C2%B7%20Documented-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Software Architecture" /><br/>
-<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-FastAPI%20%C2%B7%20OpenAI%20%C2%B7%20Payments%20%C2%B7%20Webhooks-43A047?style=for-the-badge&labelColor=0F2027" alt="APIs and Integrations" /><br/>
-<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20%C2%B7%20Azure%20%C2%B7%20Docker%20%C2%B7%20CI%2FCD-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Cloud and DevOps" /><br/>
-<img src="https://img.shields.io/badge/SEO%20%26%20Performance-Core%20Web%20Vitals%20%C2%B7%20Speed-00C853?style=for-the-badge&labelColor=0F2027" alt="SEO and Performance" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-Web%20Apps%20%C2%B7%20SaaS%20%C2%B7%20AI%20Platforms-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=react&logoColor=white" alt="Full Stack Development" /><br/>
+<img src="https://img.shields.io/badge/Software%20Architecture-Scalable%20%C2%B7%20Cloud--Native%20%C2%B7%20Documented-2E7D32?style=for-the-badge&labelColor=0F2027&logo=diagramsdotnet&logoColor=white" alt="Software Architecture" /><br/>
+<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-FastAPI%20%C2%B7%20OpenAI%20%C2%B7%20Payments%20%C2%B7%20Webhooks-43A047?style=for-the-badge&labelColor=0F2027&logo=fastapi&logoColor=white" alt="APIs and Integrations" /><br/>
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20%C2%B7%20Azure%20%C2%B7%20Docker%20%C2%B7%20CI%2FCD-1DBF73?style=for-the-badge&labelColor=0F2027&logo=amazonwebservices&logoColor=white" alt="Cloud and DevOps" /><br/>
+<img src="https://img.shields.io/badge/SEO%20%26%20Performance-Core%20Web%20Vitals%20%C2%B7%20Speed-00C853?style=for-the-badge&labelColor=0F2027&logo=googlesearchconsole&logoColor=white" alt="SEO and Performance" />
 
 </div>
 
@@ -973,8 +973,8 @@ full references and architecture walkthroughs available on request.</i>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Credentials%20Earned-20%2B-00C853?style=for-the-badge&labelColor=0F2027&logo=coursera&logoColor=white" alt="Credentials earned" />
-<img src="https://img.shields.io/badge/Issuers-Google%20%C2%B7%20IBM%20%C2%B7%20DeepLearning.AI%20%C2%B7%20Pendo-00A344?style=for-the-badge&labelColor=0F2027" alt="Issuers" />
-<img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Cloud%20%C2%B7%20Automation%20%C2%B7%20Product-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Focus" />
+<img src="https://img.shields.io/badge/Issuers-Google%20%C2%B7%20IBM%20%C2%B7%20DeepLearning.AI%20%C2%B7%20Pendo-00A344?style=for-the-badge&labelColor=0F2027&logo=coursera&logoColor=white" alt="Issuers" />
+<img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Cloud%20%C2%B7%20Automation%20%C2%B7%20Product-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=target&logoColor=white" alt="Focus" />
 
 </div>
 
@@ -1094,7 +1094,7 @@ architecture reviews &nbsp;·&nbsp; fractional senior engineering &nbsp;·&nbsp;
 
 <p><b>⚡ &nbsp;Response time: within 24 hours</b></p>
 
-<a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/%F0%9F%93%85%20%20Book%20a%20Free%2030--Minute%20Call-Pick%20a%20time%20that%20suits%20you-00C853?style=for-the-badge&labelColor=0F2027" alt="Book a free 30 minute call" height="44" /></a>
+<a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/Book%20a%20Free%2030--Minute%20Call-Pick%20a%20time%20that%20suits%20you-00C853?style=for-the-badge&labelColor=0F2027&logo=calendly&logoColor=white" alt="Book a free 30 minute call" height="44" /></a>
 
 <br/>
 
