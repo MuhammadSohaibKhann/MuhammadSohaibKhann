@@ -303,6 +303,30 @@ mission:     Bridge engineering excellence with business outcomes
 
 <sub>🔄 &nbsp;<i>These figures refresh automatically every day from the GitHub GraphQL API — see <a href="scripts/update-stats.mjs">scripts/update-stats.mjs</a></i></sub>
 
+<br/><br/>
+
+### ⏱️ &nbsp;Full-Time Delivery Cadence
+
+<img src="https://img.shields.io/badge/Availability-Full--Time%20%C2%B7%20Committed-00C853?style=for-the-badge&labelColor=0F2027&logo=clockify&logoColor=white" alt="Full-time availability" />
+<img src="https://img.shields.io/badge/Capacity-40%2B%20hrs%20%2F%20week-00A344?style=for-the-badge&labelColor=0F2027&logo=googlecalendar&logoColor=white" alt="40+ hours per week" />
+<img src="https://img.shields.io/badge/Cadence-Ships%20Every%20Week-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=rocket&logoColor=white" alt="Ships every week" />
+<img src="https://img.shields.io/badge/Response-Within%2024%20Hours-2E7D32?style=for-the-badge&labelColor=0F2027&logo=maildotru&logoColor=white" alt="Response within 24 hours" />
+<br/>
+<img src="https://img.shields.io/badge/Overlap-US%20%C2%B7%20UK%20%C2%B7%20EU%20%C2%B7%20GCC%20%C2%B7%20APAC-43A047?style=for-the-badge&labelColor=0F2027&logo=worldhealthorganization&logoColor=white" alt="Timezone overlap" />
+<img src="https://img.shields.io/badge/Engagement-Contract%20%C2%B7%20Retainer%20%C2%B7%20Full--Time-1DBF73?style=for-the-badge&labelColor=0F2027&logo=handshake&logoColor=white" alt="Engagement models" />
+<img src="https://img.shields.io/badge/Mode-100%25%20Remote-00C853?style=for-the-badge&labelColor=0F2027&logo=zoom&logoColor=white" alt="100 percent remote" />
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" align="center"><b>🟢 Daily</b><br/><sub>Standups, progress<br/>updates, blockers<br/>surfaced same day</sub></td>
+<td width="25%" align="center"><b>🟢 Weekly</b><br/><sub>Shippable increments<br/>in review, never<br/>big-bang releases</sub></td>
+<td width="25%" align="center"><b>🟢 Monthly</b><br/><sub>Roadmap checkpoints<br/>and architecture<br/>reviews</sub></td>
+<td width="25%" align="center"><b>🟢 Always</b><br/><sub>Documented handover<br/>so your team is never<br/>dependent on me</sub></td>
+</tr>
+</table>
+
 <br/>
 
 <img width="92%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/contributions.svg" alt="Contributions by year" />
