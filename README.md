@@ -5,11 +5,11 @@
 <div align="center">
 
 <a href="https://muhammadsohaibkhan.netlify.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Senior%20Full%20Stack%20%C2%B7%20AI%20%C2%B7%20Agentic%20Systems%20Engineer&descAlignY=54&descSize=20&animation=fadeIn" alt="Muhammad Sohaib" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Certified%20Senior%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Agentic%20Systems%20Architect&descAlignY=54&descSize=20&animation=fadeIn" alt="Muhammad Sohaib" />
 </a>
 
 <a href="https://muhammadsohaibkhan.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00C9A7&center=true&vCenter=true&width=780&lines=Senior+Full+Stack+Software+Engineer;Senior+AI+%26+Generative+AI+Engineer;Agentic+AI+Architect+%7C+RAG+%7C+LLM+Systems;Software+Architect+%7C+Forward+Deployed+Engineer;10%2B+Years+%C2%B7+300%2B+Projects+Delivered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00C9A7&center=true&vCenter=true&width=780&lines=Certified+Senior+Software+Engineer;Certified+Senior+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+Full+Stack+Developer;Senior+Forward+Deployed+Engineer;Senior+Frontend+%26+Backend+Expert;Generative+AI+Expert+%7C+IT+Consultant;10%2B+Years+%C2%B7+300%2B+Projects+Delivered" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,6 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=muhammadsohaibkhann&label=Profile%20Views&color=00C9A7&style=for-the-badge" alt="Profile views" />
 <a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C9A7?style=for-the-badge&labelColor=0F2027" alt="Open to remote work" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Pakistan%20%C2%B7%20Working%20Worldwide-2C5364?style=for-the-badge&labelColor=0F2027" alt="Location" />
+<img src="https://img.shields.io/badge/Certified-Google%20%C2%B7%20IBM%20%C2%B7%20DeepLearning.AI-845EC2?style=for-the-badge&labelColor=0F2027" alt="Certified" />
 
 </div>
 
@@ -37,7 +38,8 @@
 
 ```yaml
 name:        Muhammad Sohaib
-role:        Senior Full Stack Engineer · Senior AI Engineer · Software Architect
+role:        Certified Senior Software Engineer · Certified Senior AI Engineer
+             Certified Senior Agentic AI Architect · Certified Senior Software Architect
 experience:  10+ years
 delivered:   300+ projects · 50+ CRM & ERP implementations
 focus:       [ Agentic AI, RAG Systems, LLM Apps, SaaS Platforms ]
