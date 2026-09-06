@@ -5,11 +5,11 @@
 <div align="center">
 
 <a href="https://muhammadsohaibkhan.netlify.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Certified%20Senior%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Agentic%20Systems%20Architect&descAlignY=54&descSize=20&animation=fadeIn" alt="Muhammad Sohaib" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Certified%20Senior%20Full--Stack%20Software%20%26%20AI%20Engineer%20%C2%B7%20Agentic%20AI%20Architect&descAlignY=54&descSize=20&animation=fadeIn" alt="Muhammad Sohaib" />
 </a>
 
 <a href="https://muhammadsohaibkhan.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00C9A7&center=true&vCenter=true&width=780&lines=Certified+Senior+Software+Engineer;Certified+Senior+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+Full+Stack+Developer;Senior+Forward+Deployed+Engineer;Senior+Frontend+%26+Backend+Expert;Generative+AI+Expert+%7C+IT+Consultant;10%2B+Years+%C2%B7+300%2B+Projects+Delivered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00C9A7&center=true&vCenter=true&width=780&lines=Certified+Senior+Full-Stack+Software+%26+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+AI+Research+Engineer;Speaker+%7C+Mentor+%7C+IT+Consultant;Senior+Forward+Deployed+Engineer;Generative+AI+%26+LLM+Systems+Expert;10%2B+Years+%C2%B7+300%2B+Projects+Delivered" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,6 +18,31 @@
 <a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C9A7?style=for-the-badge&labelColor=0F2027" alt="Open to remote work" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Pakistan%20%C2%B7%20Working%20Worldwide-2C5364?style=for-the-badge&labelColor=0F2027" alt="Location" />
 <img src="https://img.shields.io/badge/Certified-Google%20%C2%B7%20IBM%20%C2%B7%20DeepLearning.AI-845EC2?style=for-the-badge&labelColor=0F2027" alt="Certified" />
+<img src="https://img.shields.io/badge/Speaker%20%C2%B7%20Mentor-Tech%20Community-FF6F91?style=for-the-badge&labelColor=0F2027" alt="Speaker and mentor" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=FF6F91&center=true&vCenter=true&width=760&lines=%E2%9A%A1+Agentic+AI+Systems;%E2%9A%A1+Full+Stack+Development;%E2%9A%A1+Custom+Software+Development" alt="Core pillars" />
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00C9A7&height=90&section=header&text=Agentic%20AI&fontSize=26&fontColor=ffffff&fontAlignY=52&animation=fadeIn" alt="Agentic AI Systems" />
+<b>Agentic AI Systems</b><br/>
+<sub>Autonomous agents that reason, use tools<br/>and complete real multi-step work</sub>
+</td>
+<td width="33%" align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=90&section=header&text=Full%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=52&animation=fadeIn" alt="Full Stack Development" />
+<b>Full Stack Development</b><br/>
+<sub>Frontend to infrastructure — shipped,<br/>tested and running in production</sub>
+</td>
+<td width="33%" align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:845EC2&height=90&section=header&text=Custom%20Software&fontSize=22&fontColor=ffffff&fontAlignY=52&animation=fadeIn" alt="Custom Software Development" />
+<b>Custom Software Development</b><br/>
+<sub>Bespoke platforms and SaaS built<br/>around how your business actually works</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -25,7 +50,7 @@
 
 <!-- ─────────────────────────────  ABOUT  ───────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34" /> &nbsp;About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34" alt="" /> &nbsp;About Me
 
 <img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
 
@@ -34,8 +59,11 @@
 
 ```yaml
 name:        Muhammad Sohaib
-role:        Certified Senior Software Engineer · Certified Senior AI Engineer
-             Certified Senior Agentic AI Architect · Certified Senior Software Architect
+role:        Certified Senior Full-Stack Software & AI Engineer
+             Certified Senior Agentic AI Architect
+             Certified Senior Software Architect
+             Senior AI Research Engineer
+also:        Speaker · Mentor · IT Consultant
 experience:  10+ years
 delivered:   300+ projects · 50+ CRM & ERP implementations
 focus:       [ Agentic AI, RAG Systems, LLM Apps, SaaS Platforms ]
@@ -57,14 +85,18 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ────────────────────────  SPECIALIZATIONS  ──────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34" /> &nbsp;Specializations
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:00C9A7&height=110&section=header&text=Specializations&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Specializations" />
+
+</div>
 
 <div align="center">
 
 |  |  |  |
 |:--:|:--:|:--:|
-| <img src="https://img.shields.io/badge/🤖%20AI%20Agents-00C9A7?style=for-the-badge&labelColor=0F2027" /><br/>**Autonomous agents**<br/><sub>Multi-step reasoning, tool use, orchestration</sub> | <img src="https://img.shields.io/badge/💬%20AI%20Chatbots-2C5364?style=for-the-badge&labelColor=0F2027" /><br/>**Conversational AI**<br/><sub>Support, sales & social automation</sub> | <img src="https://img.shields.io/badge/🔎%20RAG%20Systems-845EC2?style=for-the-badge&labelColor=0F2027" /><br/>**Retrieval-augmented AI**<br/><sub>Vector search over private knowledge</sub> |
-| <img src="https://img.shields.io/badge/☁️%20SaaS%20Platforms-FF6F91?style=for-the-badge&labelColor=0F2027" /><br/>**Custom software & SaaS**<br/><sub>Multi-tenant, billing-ready architectures</sub> | <img src="https://img.shields.io/badge/🌐%20Web%20%26%20Mobile-FFC75F?style=for-the-badge&labelColor=0F2027" /><br/>**Products people use**<br/><sub>Responsive web, PWA, React Native</sub> | <img src="https://img.shields.io/badge/⚙️%20AI%20Automation-4D8076?style=for-the-badge&labelColor=0F2027" /><br/>**Workflow automation**<br/><sub>Email, data ops, internal tooling</sub> |
+| <img src="https://img.shields.io/badge/🤖%20AI%20Agents-00C9A7?style=for-the-badge&labelColor=0F2027" alt="AI Agents" /><br/>**Autonomous agents**<br/><sub>Multi-step reasoning, tool use, orchestration</sub> | <img src="https://img.shields.io/badge/💬%20AI%20Chatbots-2C5364?style=for-the-badge&labelColor=0F2027" alt="AI Chatbots" /><br/>**Conversational AI**<br/><sub>Support, sales & social automation</sub> | <img src="https://img.shields.io/badge/🔎%20RAG%20Systems-845EC2?style=for-the-badge&labelColor=0F2027" alt="RAG Systems" /><br/>**Retrieval-augmented AI**<br/><sub>Vector search over private knowledge</sub> |
+| <img src="https://img.shields.io/badge/☁️%20SaaS%20Platforms-FF6F91?style=for-the-badge&labelColor=0F2027" alt="SaaS Platforms" /><br/>**Custom software & SaaS**<br/><sub>Multi-tenant, billing-ready architectures</sub> | <img src="https://img.shields.io/badge/🌐%20Web%20%26%20Mobile-FFC75F?style=for-the-badge&labelColor=0F2027" alt="Web & Mobile" /><br/>**Products people use**<br/><sub>Responsive web, PWA, React Native</sub> | <img src="https://img.shields.io/badge/⚙️%20AI%20Automation-4D8076?style=for-the-badge&labelColor=0F2027" alt="AI Automation" /><br/>**Workflow automation**<br/><sub>Email, data ops, internal tooling</sub> |
 
 </div>
 
@@ -72,7 +104,11 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ──────────────────────────  TECH STACK  ─────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="34" /> &nbsp;Tech Stack
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:2C5364&height=110&section=header&text=Tech%20Stack&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Tech Stack" />
+
+</div>
 
 <div align="center">
 
@@ -92,14 +128,14 @@ mission:     Bridge engineering excellence with business outcomes
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda,opencv&theme=dark" alt="ai" />
 <br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/RAG-845EC2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector%20DBs-00C9A7?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/RAG-845EC2?style=for-the-badge&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/Vector%20DBs-00C9A7?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DBs" />
 
 **Databases**
 
@@ -119,7 +155,11 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ──────────────────────────  GITHUB STATS  ───────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34" /> &nbsp;Contribution Showcase
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:845EC2&height=110&section=header&text=Contribution%20Showcase&fontSize=32&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Contribution Showcase" />
+
+</div>
 
 <div align="center">
 
@@ -161,18 +201,45 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ────────────────────────  NOTABLE PROJECTS  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="34" /> &nbsp;Notable Work
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="34" alt="" /> &nbsp;Notable Work
 
 <div align="center">
 
-| Domain | What I Built | Impact |
+| Domain | What I Built | Impact | Stack |
+|:--|:--|:--|:--|
+| 🧬 &nbsp;**Healthcare AI** | AI-powered patient intake, triage & recruitment platforms | Faster onboarding, less manual review | `Python` `FastAPI` `LLMs` |
+| 🛒 &nbsp;**Commerce** | Multi-vendor marketplaces & e-commerce ecosystems | Scaled catalogues, automated ops | `Next.js` `Node` `Postgres` |
+| 🤖 &nbsp;**Conversational AI** | Support & social chatbots with RAG memory | 24/7 coverage, deflected ticket load | `LangChain` `Vector DBs` |
+| 🎓 &nbsp;**EdTech** | AI-driven LMS & adaptive learning platforms | Personalized learning at scale | `React` `Django` `OpenAI` |
+| 📊 &nbsp;**Enterprise** | 50+ CRM / ERP implementations & integrations | Unified data, streamlined workflows | `Odoo` `Laravel` `MySQL` |
+| ☁️ &nbsp;**SaaS** | AI-native SaaS products, end-to-end | Architecture through production | `AWS` `Docker` `TypeScript` |
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
+
+<!-- ──────────────────────────  HOW I WORK  ─────────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="34" alt="" /> &nbsp;How I Work
+
+<div align="center">
+
+| | | |
 |:--|:--|:--|
-| 🧬 &nbsp;**Healthcare AI** | AI-powered patient intake, triage & recruitment platforms | Faster onboarding, reduced manual review |
-| 🛒 &nbsp;**Commerce** | Multi-vendor marketplaces & e-commerce ecosystems | Scaled catalogues with automated ops |
-| 🤖 &nbsp;**Conversational AI** | Support & social media chatbots with RAG memory | 24/7 coverage, deflected support load |
-| 🎓 &nbsp;**EdTech** | AI-driven LMS & adaptive learning platforms | Personalized learning at scale |
-| 📊 &nbsp;**Enterprise** | 50+ CRM / ERP implementations & integrations | Unified data, streamlined workflows |
-| ☁️ &nbsp;**SaaS** | AI-native SaaS products, end-to-end | From architecture to production |
+| **01 · Discover** | Understand the business outcome before a line of code | Scope, constraints, success metrics agreed up front |
+| **02 · Architect** | Design for the system you'll have in two years | Scalable data models, clean boundaries, documented decisions |
+| **03 · Build** | Ship in reviewable increments, not big-bang releases | Typed, tested, CI-gated code you can hand to any team |
+| **04 · Deploy** | Production-ready from day one | Containerized, monitored, cost-aware infrastructure |
+| **05 · Iterate** | Measure, then improve what actually moves the metric | Analytics, performance budgets, continuous delivery |
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Clear%20Communication-Always-00C9A7?style=flat-square&labelColor=0F2027" alt="" />
+<img src="https://img.shields.io/badge/Documented%20Handover-Standard-2C5364?style=flat-square&labelColor=0F2027" alt="" />
+<img src="https://img.shields.io/badge/Timezone-Flexible%20%C2%B7%20Overlap%20Guaranteed-845EC2?style=flat-square&labelColor=0F2027" alt="" />
+<img src="https://img.shields.io/badge/NDA%20%26%20IP-Client%20Owned-FF6F91?style=flat-square&labelColor=0F2027" alt="" />
 
 </div>
 
@@ -180,17 +247,17 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ────────────────────────────  SERVICES  ─────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="34" /> &nbsp;Services
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="34" alt="" /> &nbsp;Services
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI--Powered%20Solutions-Agents%20%C2%B7%20Chatbots%20%C2%B7%20RAG%20%C2%B7%20Automation-00C9A7?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-Web%20Apps%20%C2%B7%20SaaS%20%C2%B7%20AI%20Platforms-2C5364?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/Software%20Architecture-Scalable%20%C2%B7%20Maintainable%20%C2%B7%20Cloud--Native-845EC2?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma%20%C2%B7%20Adobe%20XD%20%C2%B7%20Modern%20UI-FF6F91?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/Mobile%20Apps-React%20Native%20%C2%B7%20AI--Driven-FFC75F?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-FastAPI%20%C2%B7%20OpenAI%20%C2%B7%20Payments-4D8076?style=for-the-badge&labelColor=0F2027" /><br/>
-<img src="https://img.shields.io/badge/SEO%20%26%20Performance-Core%20Web%20Vitals%20%C2%B7%20Speed-C34A36?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/AI--Powered%20Solutions-Agents%20%C2%B7%20Chatbots%20%C2%B7%20RAG%20%C2%B7%20Automation-00C9A7?style=for-the-badge&labelColor=0F2027" alt="AI" /><br/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-Web%20Apps%20%C2%B7%20SaaS%20%C2%B7%20AI%20Platforms-2C5364?style=for-the-badge&labelColor=0F2027" alt="Full Stack Development" /><br/>
+<img src="https://img.shields.io/badge/Software%20Architecture-Scalable%20%C2%B7%20Maintainable%20%C2%B7%20Cloud--Native-845EC2?style=for-the-badge&labelColor=0F2027" alt="Software Architecture" /><br/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma%20%C2%B7%20Adobe%20XD%20%C2%B7%20Modern%20UI-FF6F91?style=for-the-badge&labelColor=0F2027" alt="UI2FUX Design" /><br/>
+<img src="https://img.shields.io/badge/Mobile%20Apps-React%20Native%20%C2%B7%20AI--Driven-FFC75F?style=for-the-badge&labelColor=0F2027" alt="Mobile Apps" /><br/>
+<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-FastAPI%20%C2%B7%20OpenAI%20%C2%B7%20Payments-4D8076?style=for-the-badge&labelColor=0F2027" alt="APIs & Integrations" /><br/>
+<img src="https://img.shields.io/badge/SEO%20%26%20Performance-Core%20Web%20Vitals%20%C2%B7%20Speed-C34A36?style=for-the-badge&labelColor=0F2027" alt="SEO & Performance" />
 
 </div>
 
@@ -198,55 +265,89 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ─────────────────────────  CERTIFICATIONS  ──────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="34" /> &nbsp;Certifications
-
-<details open>
-<summary><b>🎖️ &nbsp;AI & Machine Learning</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/IBM-AI%20Engineering-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM-AI%20Agents%20with%20RAG%20%26%20LangChain-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM-LLM%20Fine--Tuning-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepLearning.AI-AI%20for%20Everyone-845EC2?style=for-the-badge&logo=deeplearningdotai&logoColor=white" />
-<img src="https://img.shields.io/badge/Pendo-AI%20for%20Product%20Management-FF4876?style=for-the-badge&logo=pendo&logoColor=white" />
-
-</details>
-
-<details>
-<summary><b>🎖️ &nbsp;Google Professional Certifications</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-IT%20Support%20Specialization-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-IT%20Automation%20with%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-IT%20Automation%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-Troubleshooting%20%26%20Debugging-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-Configuration%20Management%20%26%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-Introduction%20to%20Git%20%26%20GitHub-4285F4?style=for-the-badge&logo=github&logoColor=white" />
-
-</details>
-
-<details>
-<summary><b>🎖️ &nbsp;Engineering & Business</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/LinkedIn%20Learning-Software%20Developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn%20Learning-JavaScript%20Essential%20Training-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn%20Learning-Learning%20Python-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn%20Learning-Web%20Development%20Success-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/GSU-Entrepreneurship-002855?style=for-the-badge&logoColor=white" />
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
-
-<!-- ─────────────────────────────  CONNECT  ─────────────────────────────── -->
-
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="34" /> &nbsp;Let's Build Something Awesome
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="34" alt="" /> &nbsp;Certifications & Credentials
 
 <div align="center">
 
-<p><b>Have a project in mind? I'm one message away.</b></p>
+<img src="https://img.shields.io/badge/Credentials%20Earned-20%2B-00C9A7?style=for-the-badge&labelColor=0F2027&logo=coursera&logoColor=white" alt="Credentials earned" />
+<img src="https://img.shields.io/badge/Issuers-Google%20%C2%B7%20IBM%20%C2%B7%20DeepLearning.AI%20%C2%B7%20Pendo-2C5364?style=for-the-badge&labelColor=0F2027" alt="Issuers" />
+<img src="https://img.shields.io/badge/Focus-AI%20%C2%B7%20Cloud%20%C2%B7%20Automation%20%C2%B7%20Product-845EC2?style=for-the-badge&labelColor=0F2027" alt="Focus" />
+
+</div>
+
+<br/>
+
+<details open>
+<summary><b>&nbsp;🤖&nbsp; Artificial Intelligence & Machine Learning</b></summary>
+<br/>
+
+| Credential | Issuer | Focus |
+|:--|:--|:--|
+| **AI Engineering Professional** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Deep learning, model deployment, MLOps |
+| **AI Agents with RAG & LangChain** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Agentic systems, retrieval pipelines |
+| **LLM Fine-Tuning** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Model adaptation, instruction tuning |
+| **AI for Everyone** | <img src="https://img.shields.io/badge/DeepLearning.AI-845EC2?style=flat-square&logo=deeplearningdotai&logoColor=white" alt="DeepLearning.AI" /> | Applied AI strategy |
+| **AI for Product Management** | <img src="https://img.shields.io/badge/Pendo-FF4876?style=flat-square&logo=pendo&logoColor=white" alt="Pendo" /> | AI product lifecycle |
+
+</details>
+
+<details>
+<summary><b>&nbsp;☁️&nbsp; Google Professional Certifications</b></summary>
+<br/>
+
+| Credential | Issuer | Focus |
+|:--|:--|:--|
+| **IT Support Professional Certificate** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Systems, networking, support ops |
+| **IT Support Specialization** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | End-to-end IT operations |
+| **IT Automation with Python Professional** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Scripting, automation at scale |
+| **Using Python to Interact with the OS** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Systems programming |
+| **Configuration Management & the Cloud** | <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" /> | IaC, cloud provisioning |
+| **Troubleshooting & Debugging Techniques** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Root-cause analysis |
+| **Introduction to Git & GitHub** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=github&logoColor=white" alt="Google" /> | Version control workflows |
+
+</details>
+
+<details>
+<summary><b>&nbsp;💻&nbsp; Software Engineering & Web Development</b></summary>
+<br/>
+
+| Credential | Issuer | Focus |
+|:--|:--|:--|
+| **Becoming a Software Developer** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Engineering fundamentals |
+| **JavaScript Essential Training** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Core language mastery |
+| **Learning Python** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Python foundations |
+| **Web Development Success** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Full-stack delivery practice |
+
+</details>
+
+<details>
+<summary><b>&nbsp;📈&nbsp; Product, Business & Leadership</b></summary>
+<br/>
+
+| Credential | Issuer | Focus |
+|:--|:--|:--|
+| **Product Management Certification** | <img src="https://img.shields.io/badge/Pendo.io-FF4876?style=flat-square&logo=pendo&logoColor=white" alt="Pendo.io" /> | Product analytics & adoption |
+| **Entrepreneurship** | <img src="https://img.shields.io/badge/Georgia%20State%20University-002855?style=flat-square" alt="Georgia State University" /> | Venture building, GTM strategy |
+
+</details>
+
+<!-- ─────────────────────────────  CONNECT  ─────────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="34" alt="" /> &nbsp;Let's Build Something Awesome
+
+<div align="center">
+
+<h3>Have a project in mind?</h3>
+
+<p><i>I take on a small number of engagements at a time so each one gets real attention.<br/>
+Tell me the outcome you need — I'll tell you honestly whether I'm the right fit.</i></p>
+
+<p>
+<b>Typical engagements:</b> AI agent & RAG builds &nbsp;·&nbsp; full-stack product development<br/>
+architecture reviews &nbsp;·&nbsp; fractional senior engineering &nbsp;·&nbsp; technical consulting
+</p>
+
+<p><b>⚡ &nbsp;Response time: within 24 hours</b></p>
 
 <a href="https://muhammadsohaibkhan.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0F2027" alt="Portfolio" />
