@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=FF6F91&center=true&vCenter=true&width=760&lines=%E2%9A%A1+Agentic+AI+Systems;%E2%9A%A1+Full+Stack+Development;%E2%9A%A1+Custom+Software+Development" alt="Core pillars" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=FF6F91&center=true&vCenter=true&width=760&lines=%E2%9A%A1+Agentic+AI+%26+Voice+Agents;%E2%9A%A1+Full+Stack+Development;%E2%9A%A1+Custom+Software+Development;%E2%9A%A1+Web+%26+Mobile+Design+%2B+Development;%E2%9A%A1+Motion+Design+%26+Development" alt="Core pillars" />
 
 <table>
 <tr>
@@ -95,8 +95,10 @@ mission:     Bridge engineering excellence with business outcomes
 
 |  |  |  |
 |:--:|:--:|:--:|
-| <img src="https://img.shields.io/badge/🤖%20AI%20Agents-00C853?style=for-the-badge&labelColor=0F2027" alt="AI Agents" /><br/>**Autonomous agents**<br/><sub>Multi-step reasoning, tool use, orchestration</sub> | <img src="https://img.shields.io/badge/💬%20AI%20Chatbots-00A344?style=for-the-badge&labelColor=0F2027" alt="AI Chatbots" /><br/>**Conversational AI**<br/><sub>Support, sales & social automation</sub> | <img src="https://img.shields.io/badge/🔎%20RAG%20Systems-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="RAG Systems" /><br/>**Retrieval-augmented AI**<br/><sub>Vector search over private knowledge</sub> |
-| <img src="https://img.shields.io/badge/☁️%20SaaS%20Platforms-FF6F91?style=for-the-badge&labelColor=0F2027" alt="SaaS Platforms" /><br/>**Custom software & SaaS**<br/><sub>Multi-tenant, billing-ready architectures</sub> | <img src="https://img.shields.io/badge/🌐%20Web%20%26%20Mobile-43A047?style=for-the-badge&labelColor=0F2027" alt="Web & Mobile" /><br/>**Products people use**<br/><sub>Responsive web, PWA, React Native</sub> | <img src="https://img.shields.io/badge/⚙️%20AI%20Automation-2E7D32?style=for-the-badge&labelColor=0F2027" alt="AI Automation" /><br/>**Workflow automation**<br/><sub>Email, data ops, internal tooling</sub> |
+| <img src="https://img.shields.io/badge/🤖%20AI%20Agents-00C853?style=for-the-badge&labelColor=0F2027" alt="AI Agents" /><br/>**Autonomous AI Agents**<br/><sub>Multi-step reasoning, tool use, orchestration</sub> | <img src="https://img.shields.io/badge/🧠%20Agentic%20Systems-00A344?style=for-the-badge&labelColor=0F2027" alt="Agentic Systems" /><br/>**Full Agentic Systems**<br/><sub>Multi-agent workflows, planning, memory, guardrails</sub> | <img src="https://img.shields.io/badge/🎙️%20Voice%20Agents-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Voice Agents" /><br/>**Voice AI**<br/><sub>Real-time speech, STT/TTS, natural turn-taking</sub> |
+| <img src="https://img.shields.io/badge/📞%20Calling%20Agents-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Calling Agents" /><br/>**AI Calling Agents**<br/><sub>Inbound & outbound calls, booking, qualification</sub> | <img src="https://img.shields.io/badge/💬%20AI%20Chatbots-43A047?style=for-the-badge&labelColor=0F2027" alt="AI Chatbots" /><br/>**Conversational AI**<br/><sub>Support, sales & social automation</sub> | <img src="https://img.shields.io/badge/🔎%20RAG%20Systems-1DBF73?style=for-the-badge&labelColor=0F2027" alt="RAG Systems" /><br/>**Retrieval-Augmented AI**<br/><sub>Vector search over private knowledge</sub> |
+| <img src="https://img.shields.io/badge/🌐%20Web%20Design%20%26%20Dev-00C853?style=for-the-badge&labelColor=0F2027" alt="Web Design and Development" /><br/>**Web Design & Development**<br/><sub>Design systems through production front-ends</sub> | <img src="https://img.shields.io/badge/📱%20Mobile%20Design%20%26%20Dev-00A344?style=for-the-badge&labelColor=0F2027" alt="Mobile Design and Development" /><br/>**Mobile App Design & Development**<br/><sub>iOS, Android, React Native, PWA — design to store</sub> | <img src="https://img.shields.io/badge/🎬%20Motion%20Design-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Motion Design" /><br/>**Motion Design & Development**<br/><sub>UI motion, micro-interactions, animated brand assets</sub> |
+| <img src="https://img.shields.io/badge/☁️%20SaaS%20Platforms-2E7D32?style=for-the-badge&labelColor=0F2027" alt="SaaS Platforms" /><br/>**Custom Software & SaaS**<br/><sub>Multi-tenant, billing-ready architectures</sub> | <img src="https://img.shields.io/badge/⚙️%20AI%20Automation-43A047?style=for-the-badge&labelColor=0F2027" alt="AI Automation" /><br/>**Workflow Automation**<br/><sub>Email, data ops, internal tooling, RPA</sub> | <img src="https://img.shields.io/badge/🏗️%20Architecture-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Architecture" /><br/>**Software Architecture**<br/><sub>Cloud-native, scalable, documented systems</sub> |
 
 </div>
 
@@ -145,9 +147,28 @@ mission:     Bridge engineering excellence with business outcomes
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,git,github,vercel,linux&theme=dark" alt="cloud" />
 
-**Design & Tools**
+**Voice & Realtime AI**
 
-<img src="https://skillicons.dev/icons?i=figma,xd,postman,vscode,notion&theme=dark" alt="tools" />
+<img src="https://img.shields.io/badge/OpenAI%20Realtime-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Realtime" />
+<img src="https://img.shields.io/badge/Whisper%20STT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+<img src="https://img.shields.io/badge/ElevenLabs%20TTS-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+<img src="https://img.shields.io/badge/Twilio%20Voice-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio Voice" />
+<img src="https://img.shields.io/badge/LiveKit-1FD5F9?style=for-the-badge&logo=livekit&logoColor=black" alt="LiveKit" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+
+**Motion & Design**
+
+<img src="https://skillicons.dev/icons?i=figma,xd,ae,ps,ai&theme=dark" alt="design tools" />
+<br/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+<img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=airbnb&logoColor=white" alt="Lottie" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black" alt="After Effects" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=postman,vscode,notion,git,linux&theme=dark" alt="tools" />
 
 </div>
 
@@ -215,10 +236,14 @@ mission:     Bridge engineering excellence with business outcomes
 | Practice Area | Volume Delivered | Depth |
 |:--|:--:|:--|
 | 🤖 &nbsp;**AI Agents, RAG & LLM Systems** | `40+ builds` | Production agents, retrieval pipelines, fine-tuned models |
+| 🧠 &nbsp;**Full Agentic Systems** | `20+ systems` | Multi-agent orchestration, planning, memory, guardrails |
+| 🎙️ &nbsp;**Voice & Calling Agents** | `15+ deployments` | Real-time speech, inbound/outbound calling, booking flows |
 | 🌐 &nbsp;**Full-Stack Web & SaaS Platforms** | `120+ products` | Multi-tenant architectures, billing, auth, real-time |
 | 📊 &nbsp;**CRM & ERP Implementations** | `50+ systems` | Odoo, custom builds, migrations, integrations |
 | 🛒 &nbsp;**E-Commerce & Marketplaces** | `35+ platforms` | Multi-vendor, payments, inventory, logistics |
-| 📱 &nbsp;**Mobile & Cross-Platform Apps** | `25+ apps` | React Native, PWA, AI-driven experiences |
+| 📱 &nbsp;**Mobile App Design & Development** | `25+ apps` | iOS, Android, React Native, PWA — design through store |
+| 🎬 &nbsp;**Motion Design & Development** | `30+ projects` | UI motion, micro-interactions, animated brand assets |
+| 🎨 &nbsp;**Web Design & Design Systems** | `90+ builds` | Design systems, landing pages, component libraries |
 | ⚙️ &nbsp;**API & Systems Integration** | `80+ integrations` | Payment gateways, third-party APIs, webhooks |
 | ☁️ &nbsp;**Cloud, DevOps & Infrastructure** | `60+ deployments` | AWS, Azure, Docker, CI/CD, monitoring |
 
@@ -307,13 +332,31 @@ mission:     Bridge engineering excellence with business outcomes
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI--Powered%20Solutions-Agents%20%C2%B7%20Chatbots%20%C2%B7%20RAG%20%C2%B7%20Automation-00C853?style=for-the-badge&labelColor=0F2027" alt="AI" /><br/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-Web%20Apps%20%C2%B7%20SaaS%20%C2%B7%20AI%20Platforms-00A344?style=for-the-badge&labelColor=0F2027" alt="Full Stack Development" /><br/>
-<img src="https://img.shields.io/badge/Software%20Architecture-Scalable%20%C2%B7%20Maintainable%20%C2%B7%20Cloud--Native-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Software Architecture" /><br/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma%20%C2%B7%20Adobe%20XD%20%C2%B7%20Modern%20UI-FF6F91?style=for-the-badge&labelColor=0F2027" alt="UI2FUX Design" /><br/>
-<img src="https://img.shields.io/badge/Mobile%20Apps-React%20Native%20%C2%B7%20AI--Driven-43A047?style=for-the-badge&labelColor=0F2027" alt="Mobile Apps" /><br/>
-<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-FastAPI%20%C2%B7%20OpenAI%20%C2%B7%20Payments-2E7D32?style=for-the-badge&labelColor=0F2027" alt="APIs & Integrations" /><br/>
-<img src="https://img.shields.io/badge/SEO%20%26%20Performance-Core%20Web%20Vitals%20%C2%B7%20Speed-1DBF73?style=for-the-badge&labelColor=0F2027" alt="SEO & Performance" />
+**🤖 &nbsp;AI, Agents & Automation**
+
+<img src="https://img.shields.io/badge/AI%20Agents%20%26%20Agentic%20Systems-Multi--Agent%20%C2%B7%20Tool%20Use%20%C2%B7%20Memory-00C853?style=for-the-badge&labelColor=0F2027" alt="AI Agents and Agentic Systems" /><br/>
+<img src="https://img.shields.io/badge/Voice%20%26%20Calling%20Agents-Real--Time%20Speech%20%C2%B7%20Inbound%20%C2%B7%20Outbound-00A344?style=for-the-badge&labelColor=0F2027" alt="Voice and Calling Agents" /><br/>
+<img src="https://img.shields.io/badge/Chatbots%20%26%20RAG%20Apps-Support%20%C2%B7%20Sales%20%C2%B7%20Knowledge%20Retrieval-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Chatbots and RAG Apps" /><br/>
+<img src="https://img.shields.io/badge/AI%20Automation-Workflows%20%C2%B7%20Data%20Ops%20%C2%B7%20Internal%20Tools-2E7D32?style=for-the-badge&labelColor=0F2027" alt="AI Automation" />
+
+<br/><br/>
+
+**💻 &nbsp;Design & Development**
+
+<img src="https://img.shields.io/badge/Web%20Design%20%26%20Development-Design%20Systems%20%C2%B7%20Landing%20%C2%B7%20Web%20Apps-43A047?style=for-the-badge&labelColor=0F2027" alt="Web Design and Development" /><br/>
+<img src="https://img.shields.io/badge/Mobile%20App%20Design%20%26%20Development-iOS%20%C2%B7%20Android%20%C2%B7%20React%20Native%20%C2%B7%20PWA-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Mobile App Design and Development" /><br/>
+<img src="https://img.shields.io/badge/Motion%20Design%20%26%20Development-UI%20Motion%20%C2%B7%20Micro--Interactions%20%C2%B7%20Brand-00C853?style=for-the-badge&labelColor=0F2027" alt="Motion Design and Development" /><br/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma%20%C2%B7%20Adobe%20XD%20%C2%B7%20Prototyping-00A344?style=for-the-badge&labelColor=0F2027" alt="UI UX Design" />
+
+<br/><br/>
+
+**🏗️ &nbsp;Engineering & Platform**
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-Web%20Apps%20%C2%B7%20SaaS%20%C2%B7%20AI%20Platforms-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Full Stack Development" /><br/>
+<img src="https://img.shields.io/badge/Software%20Architecture-Scalable%20%C2%B7%20Cloud--Native%20%C2%B7%20Documented-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Software Architecture" /><br/>
+<img src="https://img.shields.io/badge/APIs%20%26%20Integrations-FastAPI%20%C2%B7%20OpenAI%20%C2%B7%20Payments%20%C2%B7%20Webhooks-43A047?style=for-the-badge&labelColor=0F2027" alt="APIs and Integrations" /><br/>
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20%C2%B7%20Azure%20%C2%B7%20Docker%20%C2%B7%20CI%2FCD-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Cloud and DevOps" /><br/>
+<img src="https://img.shields.io/badge/SEO%20%26%20Performance-Core%20Web%20Vitals%20%C2%B7%20Speed-00C853?style=for-the-badge&labelColor=0F2027" alt="SEO and Performance" />
 
 </div>
 
