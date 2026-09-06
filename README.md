@@ -24,6 +24,15 @@
 <img src="https://img.shields.io/badge/Speaker%20%C2%B7%20Mentor-Tech%20Community-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Speaker and mentor" />
 <img src="https://img.shields.io/badge/500%2B%20Projects-Enterprise%20Grade%20%C2%B7%20Global-00C853?style=for-the-badge&labelColor=0F2027" alt="500+ enterprise grade projects delivered globally" />
 
+<br/><br/>
+
+<a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/%F0%9F%93%85%20%20Book%20a%2030--min%20Call-Free%20%C2%B7%20No%20Obligation-00C853?style=for-the-badge&labelColor=0F2027" alt="Book a free 30-minute call" height="40" /></a>
+<a href="mailto:msk.engineer1@gmail.com?subject=Project%20Enquiry"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20%20Email%20Me-Reply%20within%2024h-00A344?style=for-the-badge&labelColor=0F2027" alt="Email me" height="40" /></a>
+<a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20%20LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="40" /></a>
+<a href="https://muhammadsohaibkhan.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20Portfolio-View%20Work-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="View portfolio" height="40" /></a>
+
+<sub><b>Hiring teams:</b> open to senior remote roles worldwide &nbsp;·&nbsp; <b>Clients:</b> taking on select engagements this quarter</sub>
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=00C853&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Agentic+AI+%26+Voice+Agents;%E2%9A%A1+Full+Stack+Development;%E2%9A%A1+Custom+Software+Development;%E2%9A%A1+Web+%26+Mobile+Design+%2B+Development;%E2%9A%A1+Motion+Design+%26+Development" alt="Core pillars" />
@@ -51,6 +60,21 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
+
+<div align="center">
+
+<sub>
+<a href="#-what-i-bring-to-the-table">About</a> &nbsp;·&nbsp;
+<a href="#-every-type-of-agent-i-build">Agents</a> &nbsp;·&nbsp;
+<a href="#%EF%B8%8F-what-i-deliver-as-an-architect">Architecture</a> &nbsp;·&nbsp;
+<a href="#-by-the-numbers">Track Record</a> &nbsp;·&nbsp;
+<a href="#-delivery-portfolio-at-a-glance">Portfolio</a> &nbsp;·&nbsp;
+<a href="#-full-time-delivery-cadence">How I Work</a> &nbsp;·&nbsp;
+<a href="#-for-clients--for-hiring-teams">Work With Me</a> &nbsp;·&nbsp;
+<a href="#-certified--verified-by">Credentials</a>
+</sub>
+
+</div>
 
 <!-- ─────────────────────────────  ABOUT  ───────────────────────────────── -->
 
@@ -804,6 +828,86 @@ full references and architecture walkthroughs available on request.</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
 
+<!-- ──────────────────────────  WORK WITH ME  ───────────────────────────── -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00C853&height=120&section=header&text=Work%20With%20Me&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Work With Me" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=880&lines=Two+ways+to+work+together.+One+standard+of+delivery." alt="" />
+
+<br/>
+
+### 🤝 &nbsp;For Clients &nbsp;·&nbsp; For Hiring Teams
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏢 &nbsp;For Clients & Founders</h3>
+
+<p align="center"><sub>You need something built properly, and you need it to keep working after launch.</sub></p>
+
+<b>What you get</b>
+<ul>
+<li><b>A senior engineer who architects first</b> — no code before the design is agreed</li>
+<li><b>AI that ships</b> — agents, RAG and automations that run in production, not a demo</li>
+<li><b>Full ownership</b> — frontend to infra, one accountable person, no hand-offs between vendors</li>
+<li><b>Business framing</b> — every technical choice tied to cost, speed or revenue</li>
+<li><b>Clean handover</b> — docs, runbooks and ADRs so your team is never dependent on me</li>
+</ul>
+
+<b>Engagement models</b>
+<ul>
+<li>🎯 &nbsp;Fixed-scope build — defined outcome, defined price</li>
+<li>🔁 &nbsp;Monthly retainer — ongoing capacity, priority access</li>
+<li>🧭 &nbsp;Fractional architect / CTO — strategy, reviews, team leadership</li>
+<li>🔍 &nbsp;Architecture audit — a second opinion before a big decision</li>
+</ul>
+
+<p align="center"><a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/%F0%9F%93%85%20%20Book%20a%20Discovery%20Call-00C853?style=for-the-badge&labelColor=0F2027" alt="Book a discovery call" /></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧑‍💼 &nbsp;For Hiring Teams & Recruiters</h3>
+
+<p align="center"><sub>You need a senior hire who raises the bar on day one and doesn't need managing.</sub></p>
+
+<b>What I bring to a team</b>
+<ul>
+<li><b>Staff-level range</b> — full-stack, AI/agentic systems and architecture in one hire</li>
+<li><b>Delivery track record</b> — 500+ projects, 50+ enterprise CRM/ERP builds, global clients</li>
+<li><b>Force multiplier</b> — mentoring, design reviews, raising standards across the team</li>
+<li><b>Remote-native</b> — async-first, documented, overlap across US · UK · EU · GCC · APAC</li>
+<li><b>Verifiable credentials</b> — Google, IBM and DeepLearning.AI certified, links on this page</li>
+</ul>
+
+<b>Roles I'm open to</b>
+<ul>
+<li>🚀 &nbsp;Senior / Staff Full-Stack Engineer</li>
+<li>🤖 &nbsp;Senior AI / Agentic Systems Engineer</li>
+<li>🏗️ &nbsp;Software Architect / Principal Engineer</li>
+<li>🛰️ &nbsp;Forward Deployed Engineer / Solutions Architect</li>
+</ul>
+
+<p align="center"><a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20%20Reach%20Out%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="Reach out on LinkedIn" /></a></p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Availability-Open%20Now-00C853?style=for-the-badge&labelColor=0F2027&logo=checkmarx&logoColor=white" alt="Available now" />
+<img src="https://img.shields.io/badge/Location-Remote%20%C2%B7%20Worldwide-00A344?style=for-the-badge&labelColor=0F2027&logo=googleearth&logoColor=white" alt="Remote worldwide" />
+<img src="https://img.shields.io/badge/Start-2%20Weeks%20Notice-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=googlecalendar&logoColor=white" alt="Two weeks notice" />
+<img src="https://img.shields.io/badge/Interview-Live%20System%20Design%20Welcome-2E7D32?style=for-the-badge&labelColor=0F2027&logo=codereview&logoColor=white" alt="Live system design interview welcome" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
+
 <!-- ────────────────────────────  SERVICES  ─────────────────────────────── -->
 
 <div align="center">
@@ -975,6 +1079,10 @@ architecture reviews &nbsp;·&nbsp; fractional senior engineering &nbsp;·&nbsp;
 </p>
 
 <p><b>⚡ &nbsp;Response time: within 24 hours</b></p>
+
+<a href="https://calendly.com/msk-engineer1/30min"><img src="https://img.shields.io/badge/%F0%9F%93%85%20%20Book%20a%20Free%2030--Minute%20Call-Pick%20a%20time%20that%20suits%20you-00C853?style=for-the-badge&labelColor=0F2027" alt="Book a free 30 minute call" height="44" /></a>
+
+<br/>
 
 <a href="https://muhammadsohaibkhan.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0F2027" alt="Portfolio" />
