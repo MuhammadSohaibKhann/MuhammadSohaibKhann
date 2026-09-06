@@ -333,17 +333,32 @@ mission:     Bridge engineering excellence with business outcomes
 
 <br/>
 
+<div align="center">
+
+**What these credentials back up**
+
+<img src="https://img.shields.io/badge/Agentic%20AI%20%26%20RAG-IBM%20Certified-00C853?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="Agentic AI and RAG - IBM Certified" />
+<img src="https://img.shields.io/badge/LLM%20Fine--Tuning-IBM%20Certified-00C853?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="LLM Fine-Tuning - IBM Certified" />
+<img src="https://img.shields.io/badge/Deep%20Learning%20%26%20MLOps-IBM%20Certified-00C853?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="Deep Learning and MLOps - IBM Certified" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20IaC-Google%20Certified-00A344?style=flat-square&labelColor=0F2027&logo=googlecloud&logoColor=white" alt="Cloud and IaC - Google Certified" />
+<img src="https://img.shields.io/badge/Python%20Automation-Google%20Certified-00A344?style=flat-square&labelColor=0F2027&logo=google&logoColor=white" alt="Python Automation - Google Certified" />
+<img src="https://img.shields.io/badge/AI%20Product%20Strategy-Pendo%20Certified-1B7F3B?style=flat-square&labelColor=0F2027&logo=pendo&logoColor=white" alt="AI Product Strategy - Pendo Certified" />
+
+</div>
+
+<br/>
+
 <details open>
 <summary><b>&nbsp;🤖&nbsp; Artificial Intelligence & Machine Learning</b></summary>
 <br/>
 
-| Credential | Issuer | Focus |
-|:--|:--|:--|
-| **AI Engineering Professional** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Deep learning, model deployment, MLOps |
-| **AI Agents with RAG & LangChain** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Agentic systems, retrieval pipelines |
-| **LLM Fine-Tuning** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Model adaptation, instruction tuning |
-| **AI for Everyone** | <img src="https://img.shields.io/badge/DeepLearning.AI-1B7F3B?style=flat-square&logo=deeplearningdotai&logoColor=white" alt="DeepLearning.AI" /> | Applied AI strategy |
-| **AI for Product Management** | <img src="https://img.shields.io/badge/Pendo-FF4876?style=flat-square&logo=pendo&logoColor=white" alt="Pendo" /> | AI product lifecycle |
+| Credential | Issuer | Focus | Verify |
+|:--|:--|:--|:--:|
+| **AI Engineering Professional** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Deep learning, model deployment, MLOps | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **AI Agents with RAG & LangChain** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Agentic systems, retrieval pipelines | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **LLM Fine-Tuning** | <img src="https://img.shields.io/badge/IBM-0F62FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM" /> | Model adaptation, instruction tuning | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **AI for Everyone** | <img src="https://img.shields.io/badge/DeepLearning.AI-1B7F3B?style=flat-square&logo=deeplearningdotai&logoColor=white" alt="DeepLearning.AI" /> | Applied AI strategy | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **AI for Product Management** | <img src="https://img.shields.io/badge/Pendo-FF4876?style=flat-square&logo=pendo&logoColor=white" alt="Pendo" /> | AI product lifecycle | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
 
 </details>
 
@@ -351,15 +366,15 @@ mission:     Bridge engineering excellence with business outcomes
 <summary><b>&nbsp;☁️&nbsp; Google Professional Certifications</b></summary>
 <br/>
 
-| Credential | Issuer | Focus |
-|:--|:--|:--|
-| **IT Support Professional Certificate** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Systems, networking, support ops |
-| **IT Support Specialization** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | End-to-end IT operations |
-| **IT Automation with Python Professional** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Scripting, automation at scale |
-| **Using Python to Interact with the OS** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Systems programming |
-| **Configuration Management & the Cloud** | <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" /> | IaC, cloud provisioning |
-| **Troubleshooting & Debugging Techniques** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Root-cause analysis |
-| **Introduction to Git & GitHub** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=github&logoColor=white" alt="Google" /> | Version control workflows |
+| Credential | Issuer | Focus | Verify |
+|:--|:--|:--|:--:|
+| **IT Support Professional Certificate** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Systems, networking, support ops | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **IT Support Specialization** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | End-to-end IT operations | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **IT Automation with Python Professional** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Scripting, automation at scale | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **Using Python to Interact with the OS** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Systems programming | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **Configuration Management & the Cloud** | <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" /> | IaC, cloud provisioning | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **Troubleshooting & Debugging Techniques** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" /> | Root-cause analysis | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **Introduction to Git & GitHub** | <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=github&logoColor=white" alt="Google" /> | Version control workflows | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
 
 </details>
 
@@ -367,12 +382,12 @@ mission:     Bridge engineering excellence with business outcomes
 <summary><b>&nbsp;💻&nbsp; Software Engineering & Web Development</b></summary>
 <br/>
 
-| Credential | Issuer | Focus |
-|:--|:--|:--|
-| **Becoming a Software Developer** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Engineering fundamentals |
-| **JavaScript Essential Training** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Core language mastery |
-| **Learning Python** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Python foundations |
-| **Web Development Success** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Full-stack delivery practice |
+| Credential | Issuer | Focus | Verify |
+|:--|:--|:--|:--:|
+| **Becoming a Software Developer** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Engineering fundamentals | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **JavaScript Essential Training** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Core language mastery | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **Learning Python** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Python foundations | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **Web Development Success** | <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Learning" /> | Full-stack delivery practice | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
 
 </details>
 
@@ -380,10 +395,10 @@ mission:     Bridge engineering excellence with business outcomes
 <summary><b>&nbsp;📈&nbsp; Product, Business & Leadership</b></summary>
 <br/>
 
-| Credential | Issuer | Focus |
-|:--|:--|:--|
-| **Product Management Certification** | <img src="https://img.shields.io/badge/Pendo.io-FF4876?style=flat-square&logo=pendo&logoColor=white" alt="Pendo.io" /> | Product analytics & adoption |
-| **Entrepreneurship** | <img src="https://img.shields.io/badge/Georgia%20State%20University-002855?style=flat-square" alt="Georgia State University" /> | Venture building, GTM strategy |
+| Credential | Issuer | Focus | Verify |
+|:--|:--|:--|:--:|
+| **Product Management Certification** | <img src="https://img.shields.io/badge/Pendo.io-FF4876?style=flat-square&logo=pendo&logoColor=white" alt="Pendo.io" /> | Product analytics & adoption | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
+| **Entrepreneurship** | <img src="https://img.shields.io/badge/Georgia%20State%20University-002855?style=flat-square" alt="Georgia State University" /> | Venture building, GTM strategy | [🔗](https://www.linkedin.com/in/muhammadsohaibkhan/details/certifications/) |
 
 </details>
 
