@@ -4,6 +4,58 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00C853&height=120&section=header&text=Agents%20I%20Build&fontSize=32&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Agents I Build" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=880&lines=Agents+that+plan%2C+call+tools+and+finish+real+work" alt="" />
+
+<br/>
+
+<img width="98%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/agent-trace.svg?v=20260906" alt="Animated AI agent execution trace showing planning, tool calls, reasoning, guardrails and human-in-the-loop approval" />
+
+<sub><i>Representative execution trace — the architecture pattern I build for clients, not a live session.</i></sub>
+
+<br/><br/>
+
+### 🧩 &nbsp;What Goes Into a Production Agent
+
+</div>
+
+<div align="center">
+
+| Layer | What I Implement | Why It Matters |
+|:--|:--|:--|
+| 🧠 &nbsp;**Planning & Decomposition** | Task breakdown, dependency ordering, replanning on failure | Agents that handle multi-step work, not one-shot prompts |
+| 🔧 &nbsp;**Tool Use** | Typed tool schemas, retries, timeouts, parallel calls | The agent acts on real systems instead of describing them |
+| 📚 &nbsp;**Retrieval & Memory** | Hybrid search, permission-aware RAG, short and long-term memory | Answers grounded in your data, scoped to who is asking |
+| 🛡️ &nbsp;**Guardrails** | PII redaction, output validation, allow-lists, cost ceilings | Safe to point at production and at customers |
+| 👤 &nbsp;**Human-in-the-Loop** | Approval gates, escalation paths, editable drafts | People stay in control of consequential actions |
+| 📊 &nbsp;**Evaluation** | Golden sets, regression suites, tracing, token and latency budgets | You can prove it works, and catch it when it stops |
+| 🔁 &nbsp;**Orchestration** | Multi-agent handoff, supervisor patterns, durable state | Complex workflows that survive restarts and long runs |
+
+</div>
+
+<div align="center">
+
+### ⚡ &nbsp;Agent Types I Deliver
+
+<img src="https://img.shields.io/badge/Research%20%26%20Analysis%20Agents-00C853?style=for-the-badge&labelColor=0F2027&logo=databricks&logoColor=white" alt="Research and analysis agents" />
+<img src="https://img.shields.io/badge/Customer%20Support%20Agents-00A344?style=for-the-badge&labelColor=0F2027&logo=intercom&logoColor=white" alt="Customer support agents" />
+<img src="https://img.shields.io/badge/Voice%20%26%20Calling%20Agents-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=twilio&logoColor=white" alt="Voice and calling agents" />
+<br/>
+<img src="https://img.shields.io/badge/Sales%20%26%20Outreach%20Agents-2E7D32?style=for-the-badge&labelColor=0F2027&logo=salesforce&logoColor=white" alt="Sales and outreach agents" />
+<img src="https://img.shields.io/badge/Data%20%26%20Reporting%20Agents-43A047?style=for-the-badge&labelColor=0F2027&logo=googleanalytics&logoColor=white" alt="Data and reporting agents" />
+<img src="https://img.shields.io/badge/Coding%20%26%20DevOps%20Agents-1DBF73?style=for-the-badge&labelColor=0F2027&logo=githubcopilot&logoColor=white" alt="Coding and DevOps agents" />
+<br/>
+<img src="https://img.shields.io/badge/Document%20%26%20Contract%20Agents-00C853?style=for-the-badge&labelColor=0F2027&logo=adobeacrobatreader&logoColor=white" alt="Document and contract agents" />
+<img src="https://img.shields.io/badge/Workflow%20Automation%20Agents-00A344?style=for-the-badge&labelColor=0F2027&logo=n8n&logoColor=white" alt="Workflow automation agents" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=apacheairflow&logoColor=white" alt="Multi-agent systems" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
+
+<div align="center">
+
 <a href="https://muhammadsohaibkhan.netlify.app">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00A344,100:00C853&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Certified%20Senior%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Agentic%20Systems%20Architect&descAlignY=55&descSize=18&animation=twinkling" alt="Muhammad Sohaib" />
 </a>

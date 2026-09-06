@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 460" width="1120" height="460" role="img" aria-label="Animated AI agent execution trace">
+<defs>
+<linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0F2027"/><stop offset="100%" stop-color="#12312b"/></linearGradient>
+<linearGradient id="pill" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00C853" stop-opacity=".22"/><stop offset="100%" stop-color="#00C853" stop-opacity=".05"/></linearGradient>
+<style>
+.m{font-family:'Fira Code',ui-monospace,Menlo,monospace}
+.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:600}
+</style></defs>
+<rect width="1120" height="460" rx="12" fill="#0d1117" stroke="#1F2937" stroke-width="1.5"/>
+<rect width="1120" height="42" rx="12" fill="url(#hdr)"/><rect y="30" width="1120" height="12" fill="url(#hdr)"/>
+<circle cx="24" cy="21" r="5.5" fill="#FF5F57"/><circle cx="44" cy="21" r="5.5" fill="#FEBC2E"/><circle cx="64" cy="21" r="5.5" fill="#28C840"/>
+<text x="90" y="26" class="m" font-size="13" fill="#8b949e">agent-runtime — production trace</text>
+<circle cx="1002" cy="21" r="4" fill="#00C853"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="1016" y="26" class="m" font-size="12" fill="#00C853">LIVE</text>
+<line x1="640" y1="42" x2="640" y2="460" stroke="#1F2937" stroke-width="1.5"/>
+<text x="30" y="70" class="m" font-size="11" fill="#8b949e" letter-spacing="2">CONVERSATION</text>
+<text x="668" y="70" class="m" font-size="11" fill="#8b949e" letter-spacing="2">EXECUTION TRACE</text><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.0167;0.0361;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="30" y="86" width="580" height="52" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="52" cy="112" r="11" fill="#00A344" opacity=".25"/><text x="47" y="117" font-size="13">👤</text>
+<text x="72" y="106" class="m" font-size="11" fill="#8b949e">USER</text></g><defs><clipPath id="c4g2s6d"><rect x="70" y="115" height="18" width="0">
+<animate attributeName="width" values="0;397.52" dur="1.5s" begin="0.6s;18.6s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#c4g2s6d)"><text x="72" y="127" class="m" font-size="12" fill="#c9d1d9">"Which enterprise clients churned last quarter,</text></g><defs><clipPath id="cuxulii"><rect x="70" y="115" height="18" width="0">
+<animate attributeName="width" values="0;14" dur="0.01s" begin="2s;20s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#cuxulii)"><text x="72" y="127" class="m" font-size="12" fill="#c9d1d9"></text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.0167;0.0361;0.9667;0.9944;1" values="0;0;1;1;0;0"/></g><defs><clipPath id="cmoyvnw"><rect x="70" y="115" height="18" width="0">
+<animate attributeName="width" values="0;14" dur="0.01s" begin="2s;20s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#cmoyvnw)"><text x="72" y="127" class="m" font-size="12" fill="#c9d1d9"></text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.1056;0.125;0.9667;0.9944;1" values="0;0;1;1;0;0"/></g><defs><clipPath id="ccbkwtt"><rect x="70" y="130" height="18" width="0">
+<animate attributeName="width" values="0;307.76" dur="1.2s" begin="1.9s;19.9s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#ccbkwtt)"><text x="72" y="142" class="m" font-size="12" fill="#c9d1d9">  and why? Draft outreach for each."</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.1667;0.1861;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="92" width="424" height="34" rx="8" fill="url(#pill)" stroke="#00C853" stroke-opacity=".4"/>
+<circle cx="686" cy="109" r="4.5" fill="#00C853"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0s"/></circle>
+<text x="700" y="114" class="m" font-size="10" fill="#00C853" letter-spacing="1.5">PLAN</text>
+<text x="734" y="114" class="m" font-size="11.5" fill="#c9d1d9">Decompose · 3 sub-tasks identified</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.1833;0.2028;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="126" x2="686" y2="136" stroke="#00C853" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.2444;0.2639;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="136" width="424" height="34" rx="8" fill="url(#pill)" stroke="#1DBF73" stroke-opacity=".4"/>
+<circle cx="686" cy="153" r="4.5" fill="#1DBF73"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0.2s"/></circle>
+<text x="700" y="158" class="m" font-size="10" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
+<text x="734" y="158" class="m" font-size="11.5" fill="#c9d1d9">query_warehouse(churn, Q3)</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.2611;0.2806;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="170" x2="686" y2="180" stroke="#1DBF73" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.3222;0.3417;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="180" width="424" height="34" rx="8" fill="url(#pill)" stroke="#1DBF73" stroke-opacity=".4"/>
+<circle cx="686" cy="197" r="4.5" fill="#1DBF73"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0.4s"/></circle>
+<text x="700" y="202" class="m" font-size="10" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
+<text x="734" y="202" class="m" font-size="11.5" fill="#c9d1d9">vector_search(support_tickets)</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.3389;0.3583;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="214" x2="686" y2="224" stroke="#1DBF73" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.4;0.4194;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="224" width="424" height="34" rx="8" fill="url(#pill)" stroke="#1DBF73" stroke-opacity=".4"/>
+<circle cx="686" cy="241" r="4.5" fill="#1DBF73"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0.6s"/></circle>
+<text x="700" y="246" class="m" font-size="10" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
+<text x="734" y="246" class="m" font-size="11.5" fill="#c9d1d9">crm.fetch(accounts, tier=enterprise)</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.4167;0.4361;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="258" x2="686" y2="268" stroke="#1DBF73" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.4778;0.4972;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="268" width="424" height="34" rx="8" fill="url(#pill)" stroke="#00C853" stroke-opacity=".4"/>
+<circle cx="686" cy="285" r="4.5" fill="#00C853"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0.8s"/></circle>
+<text x="700" y="290" class="m" font-size="10" fill="#00C853" letter-spacing="1.5">REASON</text>
+<text x="748" y="290" class="m" font-size="11.5" fill="#c9d1d9">Correlate signals · rank by severity</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.4944;0.5139;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="302" x2="686" y2="312" stroke="#00C853" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.5556;0.575;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="312" width="424" height="34" rx="8" fill="url(#pill)" stroke="#1DBF73" stroke-opacity=".4"/>
+<circle cx="686" cy="329" r="4.5" fill="#1DBF73"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="1s"/></circle>
+<text x="700" y="334" class="m" font-size="10" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
+<text x="734" y="334" class="m" font-size="11.5" fill="#c9d1d9">draft_outreach(per_account)</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.5722;0.5917;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="346" x2="686" y2="356" stroke="#1DBF73" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.6333;0.6528;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="356" width="424" height="34" rx="8" fill="url(#pill)" stroke="#00A344" stroke-opacity=".4"/>
+<circle cx="686" cy="373" r="4.5" fill="#00A344"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="1.2s"/></circle>
+<text x="700" y="378" class="m" font-size="10" fill="#00A344" letter-spacing="1.5">VERIFY</text>
+<text x="748" y="378" class="m" font-size="11.5" fill="#c9d1d9">Guardrails · PII redacted · tone check</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.65;0.6694;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="390" x2="686" y2="400" stroke="#00A344" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.7111;0.7306;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="400" width="424" height="34" rx="8" fill="url(#pill)" stroke="#00C853" stroke-opacity=".4"/>
+<circle cx="686" cy="417" r="4.5" fill="#00C853"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="1.4s"/></circle>
+<text x="700" y="422" class="m" font-size="10" fill="#00C853" letter-spacing="1.5">DONE</text>
+<text x="734" y="422" class="m" font-size="11.5" fill="#c9d1d9">7 accounts · 7 drafts · 2 escalations</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.7444;0.7639;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="30" y="168" width="580" height="248" rx="10" fill="#0f1720" stroke="#00C853" stroke-opacity=".35"/>
+<circle cx="52" cy="194" r="11" fill="#00C853" opacity=".22"/><text x="46" y="199" font-size="13">🤖</text>
+<text x="72" y="188" class="m" font-size="11" fill="#00C853">AGENT</text></g><defs><clipPath id="ceu5fwp"><rect x="70" y="200.5" height="18.75" width="0">
+<animate attributeName="width" values="0;320" dur="0.85s" begin="13.7s;31.7s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#ceu5fwp)"><text x="72" y="213" class="m" font-size="12.5" fill="#c9d1d9">7 enterprise accounts churned in Q3.</text></g><defs><clipPath id="c6piin4"><rect x="70" y="222.5" height="18.75" width="0">
+<animate attributeName="width" values="0;413.5" dur="0.85s" begin="14.12s;32.12s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#c6piin4)"><text x="72" y="235" class="m" font-size="12.5" fill="#c9d1d9">Primary driver: unresolved P1 tickets averaging</text></g><defs><clipPath id="cn44ix2"><rect x="70" y="240.5" height="18.75" width="0">
+<animate attributeName="width" values="0;439" dur="0.85s" begin="14.54s;32.54s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#cn44ix2)"><text x="72" y="253" class="m" font-size="12.5" fill="#c9d1d9">11 days to close — 3.4× the retained-account mean.</text></g><defs><clipPath id="cpjf6e5"><rect x="70" y="268.5" height="18.75" width="0">
+<animate attributeName="width" values="0;354" dur="0.85s" begin="14.959999999999999s;32.96s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#cpjf6e5)"><text x="72" y="281" class="m" font-size="12.5" fill="#1DBF73">• 2 accounts flagged for exec escalation</text></g><defs><clipPath id="cht9pnd"><rect x="70" y="286.5" height="18.75" width="0">
+<animate attributeName="width" values="0;371" dur="0.85s" begin="15.379999999999999s;33.379999999999995s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#cht9pnd)"><text x="72" y="299" class="m" font-size="12.5" fill="#1DBF73">• 5 recoverable — drafts queued for review</text></g><defs><clipPath id="cvcaagq"><rect x="70" y="304.5" height="18.75" width="0">
+<animate attributeName="width" values="0;405" dur="0.85s" begin="15.799999999999999s;33.8s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#cvcaagq)"><text x="72" y="317" class="m" font-size="12.5" fill="#1DBF73">• PII redacted, tone verified against playbook</text></g><defs><clipPath id="cby58y3"><rect x="70" y="336.5" height="18.75" width="0">
+<animate attributeName="width" values="0;354" dur="0.85s" begin="16.22s;34.22s" fill="freeze"/></rect></clipPath></defs>
+<g clip-path="url(#cby58y3)"><text x="72" y="349" class="m" font-size="12.5" fill="#c9d1d9">Sources: warehouse · 1,284 tickets · CRM</text></g><g opacity="0">
+<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.9111;0.9306;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="72" y="368" width="150" height="30" rx="15" fill="#00C853" opacity=".14" stroke="#00C853" stroke-opacity=".5"/>
+<text x="147" y="388" class="m" font-size="11.5" fill="#00C853" text-anchor="middle">APPROVE &amp; SEND</text>
+<rect x="234" y="368" width="120" height="30" rx="15" fill="none" stroke="#30363d"/>
+<text x="294" y="388" class="m" font-size="11.5" fill="#8b949e" text-anchor="middle">REVISE</text>
+<text x="380" y="388" class="m" font-size="11" fill="#8b949e">human-in-the-loop</text></g><rect x="0" y="456" height="4" width="0" fill="#00C853" opacity=".7">
+<animate attributeName="width" values="0;1120" dur="18s" repeatCount="indefinite"/></rect></svg>
