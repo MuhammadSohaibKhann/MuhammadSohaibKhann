@@ -35,7 +35,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=00C853&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Agentic+AI+%26+Voice+Agents;%E2%9A%A1+Full+Stack+Development;%E2%9A%A1+Custom+Software+Development;%E2%9A%A1+Web+%26+Mobile+Design+%2B+Development;%E2%9A%A1+Motion+Design+%26+Development" alt="Core pillars" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=00C853&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Agentic+AI+%26+Voice+Agents;%E2%9A%A1+Full+Stack+Development;%E2%9A%A1+Custom+Software+Development;%E2%9A%A1+Web+%26+Mobile+Design+%2B+Development;%E2%9A%A1+Motion+Design+%26+Development;%E2%9A%A1+Product+Design+%26+Development" alt="Core pillars" />
 
 <table>
 <tr>
@@ -66,6 +66,7 @@
 <a href="#nav-about"><img src="https://img.shields.io/badge/About-00C853?style=flat-square&labelColor=0F2027" alt="About" height="28" /></a>
 <a href="#nav-agents"><img src="https://img.shields.io/badge/AI%20Agents-00A344?style=flat-square&labelColor=0F2027" alt="AI Agents" height="28" /></a>
 <a href="#nav-arch"><img src="https://img.shields.io/badge/Architecture-1B7F3B?style=flat-square&labelColor=0F2027" alt="Architecture" height="28" /></a>
+<a href="#nav-product"><img src="https://img.shields.io/badge/Product-43A047?style=flat-square&labelColor=0F2027" alt="Product" height="28" /></a>
 <a href="#nav-track"><img src="https://img.shields.io/badge/Track%20Record-2E7D32?style=flat-square&labelColor=0F2027" alt="Track Record" height="28" /></a>
 <a href="#nav-portfolio"><img src="https://img.shields.io/badge/Portfolio-43A047?style=flat-square&labelColor=0F2027" alt="Portfolio" height="28" /></a>
 <a href="#nav-cadence"><img src="https://img.shields.io/badge/How%20I%20Work-1DBF73?style=flat-square&labelColor=0F2027" alt="How I Work" height="28" /></a>
@@ -573,6 +574,79 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
+
+<!-- ────────────────────  PRODUCT DESIGN & DEVELOPMENT  ─────────────────── -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:43A047&height=120&section=header&text=Product%20Design%20%C2%B7%20Development&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Product Design and Development" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=From+the+first+wireframe+to+the+first+paying+customer" alt="" />
+
+<br/>
+
+<img width="98%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/product-design.svg?v=1" alt="Animated product build: a UI assembles itself from wireframe to design system to shipped product, alongside the full product lifecycle" />
+
+<sub><i>Wireframe → design system → build → shipped. The lifecycle I own end to end, animated.</i></sub>
+
+<br/><br/>
+
+<a name="nav-product"></a>
+
+### 🎨 &nbsp;What I Deliver as a Product Builder
+
+</div>
+
+<div align="center">
+
+| Stage | Deliverables | Outcome for You |
+|:--|:--|:--|
+| 🔍 &nbsp;**Discovery** | User research, jobs-to-be-done, competitive teardown, scope and success metrics | You build the right thing before building it right |
+| ✏️ &nbsp;**UX & Interaction Design** | User flows, information architecture, wireframes, micro-interactions | Products people understand in the first 10 seconds |
+| 🎨 &nbsp;**UI & Design Systems** | Tokens, component libraries, responsive layouts, dark and light themes | Consistent, scalable UI that your team can extend |
+| 🧪 &nbsp;**Prototyping & Validation** | Clickable prototypes, usability tests, iteration before code | Cheap mistakes on paper, not expensive ones in production |
+| ⚙️ &nbsp;**Front-End Engineering** | React, Next.js, React Native, Storybook, accessibility, performance budgets | Design intent delivered pixel-accurate and fast |
+| 🚀 &nbsp;**Launch & Growth** | Analytics events, A/B testing, onboarding, feedback loops | A product that learns and improves after release |
+
+</div>
+
+<div align="center">
+
+### 🧰 &nbsp;Product Toolchain
+
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae,react,nextjs,tailwind,vite,flutter&theme=dark" alt="Product design and development tools" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+<img src="https://img.shields.io/badge/Radix%20%2B%20shadcn-000000?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix and shadcn" />
+<img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=airbnb&logoColor=white" alt="Lottie" />
+<img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel" />
+<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" />
+<img src="https://img.shields.io/badge/WCAG%202.2%20AA-2E7D32?style=for-the-badge&logo=w3c&logoColor=white" alt="WCAG 2.2 AA" />
+
+<br/><br/>
+
+### 🏆 &nbsp;Product Types I've Shipped
+
+<table>
+<tr>
+<td width="25%" align="center"><b>☁️ SaaS Dashboards</b><br/><sub>Multi-tenant, role-aware,<br/>data-dense interfaces</sub></td>
+<td width="25%" align="center"><b>🤖 AI-Native Products</b><br/><sub>Chat, agent and copilot UX<br/>with streaming and tool UI</sub></td>
+<td width="25%" align="center"><b>🛒 Commerce Experiences</b><br/><sub>Storefronts, checkout,<br/>vendor and admin portals</sub></td>
+<td width="25%" align="center"><b>📱 Mobile Apps</b><br/><sub>iOS and Android, offline-first,<br/>store-ready</sub></td>
+</tr>
+<tr>
+<td align="center"><b>🏥 Healthcare Portals</b><br/><sub>Patient and clinician UX,<br/>accessibility-first</sub></td>
+<td align="center"><b>🎓 Learning Platforms</b><br/><sub>Course players, progress,<br/>assessment flows</sub></td>
+<td align="center"><b>📊 Internal Tools</b><br/><sub>Back-office, ops consoles,<br/>approval workflows</sub></td>
+<td align="center"><b>🌐 Marketing Sites</b><br/><sub>Motion-rich, SEO-ready,<br/>conversion-optimised</sub></td>
+</tr>
+</table>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
+
 
 <!-- ──────────────────────────  GITHUB STATS  ───────────────────────────── -->
 
