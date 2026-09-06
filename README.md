@@ -141,18 +141,85 @@ mission:     Bridge engineering excellence with business outcomes
 
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,nestjs,laravel,graphql&theme=dark" alt="backend" />
 
-**AI / ML**
+**AI / ML Foundations**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda,opencv&theme=dark" alt="ai" />
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda,opencv&theme=dark" alt="AI and ML frameworks" />
+
+**🧠 &nbsp;Agentic AI Frameworks & Orchestration**
+
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+<br/>
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen" />
+<img src="https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Semantic Kernel" />
+<img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
+<img src="https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Agent SDK" />
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol" />
+<br/>
+<img src="https://img.shields.io/badge/DSPy-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="DSPy" />
+<img src="https://img.shields.io/badge/Haystack-03AF9D?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Haystack" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Agent%20Guardrails-00C853?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Agent Guardrails" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-00A344?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Multi-agent orchestration" />
+
+**🤖 &nbsp;Frontier Models & Providers**
+
+<img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT" />
+<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Meta%20Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Llama" />
+<img src="https://img.shields.io/badge/Mistral%20AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI" />
+<br/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/RAG-1B7F3B?style=for-the-badge&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/Vector%20DBs-00C853?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DBs" />
+<img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Vertex AI" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
+
+**⚡ &nbsp;Serving, Inference & Fine-Tuning**
+
+<img src="https://img.shields.io/badge/vLLM-1B7F3B?style=for-the-badge&logo=v&logoColor=white" alt="vLLM" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white" alt="Replicate" />
+<img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA" />
+<br/>
+<img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="LoRA and QLoRA" />
+<img src="https://img.shields.io/badge/PEFT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="PEFT" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+**🔎 &nbsp;RAG, Vector Search & Memory**
+
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+<img src="https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
+<img src="https://img.shields.io/badge/Chroma-FF6F61?style=for-the-badge&logo=chroma&logoColor=white" alt="Chroma" />
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
+<br/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+<img src="https://img.shields.io/badge/FAISS-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+<img src="https://img.shields.io/badge/Hybrid%20Search-1B7F3B?style=for-the-badge&logo=algolia&logoColor=white" alt="Hybrid search" />
+<img src="https://img.shields.io/badge/Agent%20Memory-2E7D32?style=for-the-badge&logo=redis&logoColor=white" alt="Agent memory" />
+
+**📊 &nbsp;LLM Ops, Evaluation & Observability**
+
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
+<img src="https://img.shields.io/badge/LangFuse-0A0A0A?style=for-the-badge&logo=langfuse&logoColor=white" alt="LangFuse" />
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights and Biases" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+<img src="https://img.shields.io/badge/Ragas%20Eval-00C853?style=for-the-badge&logo=testcafe&logoColor=white" alt="Ragas evaluation" />
+<br/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00A344?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt engineering" />
+<img src="https://img.shields.io/badge/Evals%20%26%20Benchmarking-1B7F3B?style=for-the-badge&logo=speedtest&logoColor=white" alt="Evals and benchmarking" />
+<img src="https://img.shields.io/badge/Tracing%20%26%20Telemetry-2E7D32?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="Tracing and telemetry" />
+<img src="https://img.shields.io/badge/Cost%20Optimization-43A047?style=for-the-badge&logo=grafana&logoColor=white" alt="Cost optimization" />
 
 **Databases**
 
