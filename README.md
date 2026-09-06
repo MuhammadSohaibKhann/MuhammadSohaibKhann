@@ -11,7 +11,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/agentic-core.svg" alt="Animated 3D agentic AI network" />
 
 <a href="https://muhammadsohaibkhan.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=Certified+Senior+Full-Stack+Software+%26+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+AI+Research+Engineer;Speaker+%7C+Mentor+%7C+IT+Consultant;Senior+Forward+Deployed+Engineer;Generative+AI+%26+LLM+Systems+Expert;10%2B+Years+%C2%B7+300%2B+Projects+Delivered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=Certified+Senior+Full-Stack+Software+%26+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+AI+Research+Engineer;Speaker+%7C+Mentor+%7C+IT+Consultant;Senior+Forward+Deployed+Engineer;Generative+AI+%26+LLM+Systems+Expert;10%2B+Years+%C2%B7+500%2B+Projects+Delivered" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,8 @@
 <a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge&labelColor=0F2027" alt="Open to remote work" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Pakistan%20%C2%B7%20Working%20Worldwide-00A344?style=for-the-badge&labelColor=0F2027" alt="Location" />
 <img src="https://img.shields.io/badge/Certified-Google%20%C2%B7%20IBM%20%C2%B7%20DeepLearning.AI-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Certified" />
-<img src="https://img.shields.io/badge/Speaker%20%C2%B7%20Mentor-Tech%20Community-FF6F91?style=for-the-badge&labelColor=0F2027" alt="Speaker and mentor" />
+<img src="https://img.shields.io/badge/Speaker%20%C2%B7%20Mentor-Tech%20Community-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Speaker and mentor" />
+<img src="https://img.shields.io/badge/500%2B%20Projects-Enterprise%20Grade%20%C2%B7%20Global-00C853?style=for-the-badge&labelColor=0F2027" alt="500+ enterprise grade projects delivered globally" />
 
 <br/>
 
@@ -71,7 +72,8 @@ role:        Certified Senior Full-Stack Software & AI Engineer
              Senior AI Research Engineer
 also:        Speaker · Mentor · IT Consultant
 experience:  10+ years
-delivered:   300+ projects · 50+ CRM & ERP implementations
+delivered:   500+ projects · enterprise-grade, global delivery
+             50+ CRM & ERP implementations
 focus:       [ Agentic AI, RAG Systems, LLM Apps, SaaS Platforms ]
 stack:       [ Python, TypeScript, React, Next.js, FastAPI, Node.js ]
 currently:   Building AI agents that do real work, not demos
@@ -204,7 +206,7 @@ mission:     Bridge engineering excellence with business outcomes
 <br/>
 
 <img src="https://img.shields.io/badge/Years%20Engineering-10%2B-43A047?style=for-the-badge&labelColor=0F2027" alt="Years" />
-<img src="https://img.shields.io/badge/Projects%20Delivered-300%2B-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Projects" />
+<img src="https://img.shields.io/badge/Projects%20Delivered-500%2B-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Projects" />
 <img src="https://img.shields.io/badge/CRM%20%26%20ERP%20Builds-50%2B-1DBF73?style=for-the-badge&labelColor=0F2027" alt="CRM & ERP" />
 <img src="https://img.shields.io/badge/Freelance%20Rating-5.0%20%E2%98%85-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Rating" />
 
@@ -236,7 +238,7 @@ mission:     Bridge engineering excellence with business outcomes
 > ### 🔐 &nbsp;Where the Work Actually Lives
 >
 > **This profile shows a fraction of the picture.** The overwhelming majority of my
-> 300+ delivered projects live in **private client repositories, self-hosted GitLab
+> 500+ delivered projects live in **private client repositories, self-hosted GitLab
 > instances and enterprise environments under NDA** — the standard reality of senior
 > consulting and product engineering work.
 >
@@ -252,17 +254,17 @@ mission:     Bridge engineering excellence with business outcomes
 
 | Practice Area | Volume Delivered | Depth |
 |:--|:--:|:--|
-| 🤖 &nbsp;**AI Agents, RAG & LLM Systems** | `40+ builds` | Production agents, retrieval pipelines, fine-tuned models |
-| 🧠 &nbsp;**Full Agentic Systems** | `20+ systems` | Multi-agent orchestration, planning, memory, guardrails |
-| 🎙️ &nbsp;**Voice & Calling Agents** | `15+ deployments` | Real-time speech, inbound/outbound calling, booking flows |
-| 🌐 &nbsp;**Full-Stack Web & SaaS Platforms** | `120+ products` | Multi-tenant architectures, billing, auth, real-time |
+| 🤖 &nbsp;**AI Agents, RAG & LLM Systems** | `60+ builds` | Production agents, retrieval pipelines, fine-tuned models |
+| 🧠 &nbsp;**Full Agentic Systems** | `30+ systems` | Multi-agent orchestration, planning, memory, guardrails |
+| 🎙️ &nbsp;**Voice & Calling Agents** | `25+ deployments` | Real-time speech, inbound/outbound calling, booking flows |
+| 🌐 &nbsp;**Full-Stack Web & SaaS Platforms** | `180+ products` | Multi-tenant architectures, billing, auth, real-time |
 | 📊 &nbsp;**CRM & ERP Implementations** | `50+ systems` | Odoo, custom builds, migrations, integrations |
-| 🛒 &nbsp;**E-Commerce & Marketplaces** | `35+ platforms` | Multi-vendor, payments, inventory, logistics |
-| 📱 &nbsp;**Mobile App Design & Development** | `25+ apps` | iOS, Android, React Native, PWA — design through store |
-| 🎬 &nbsp;**Motion Design & Development** | `30+ projects` | UI motion, micro-interactions, animated brand assets |
-| 🎨 &nbsp;**Web Design & Design Systems** | `90+ builds` | Design systems, landing pages, component libraries |
-| ⚙️ &nbsp;**API & Systems Integration** | `80+ integrations` | Payment gateways, third-party APIs, webhooks |
-| ☁️ &nbsp;**Cloud, DevOps & Infrastructure** | `60+ deployments` | AWS, Azure, Docker, CI/CD, monitoring |
+| 🛒 &nbsp;**E-Commerce & Marketplaces** | `55+ platforms` | Multi-vendor, payments, inventory, logistics |
+| 📱 &nbsp;**Mobile App Design & Development** | `40+ apps` | iOS, Android, React Native, PWA — design through store |
+| 🎬 &nbsp;**Motion Design & Development** | `45+ projects` | UI motion, micro-interactions, animated brand assets |
+| 🎨 &nbsp;**Web Design & Design Systems** | `130+ builds` | Design systems, landing pages, component libraries |
+| ⚙️ &nbsp;**API & Systems Integration** | `120+ integrations` | Payment gateways, third-party APIs, webhooks |
+| ☁️ &nbsp;**Cloud, DevOps & Infrastructure** | `90+ deployments` | AWS, Azure, Docker, CI/CD, monitoring |
 
 </div>
 
@@ -298,6 +300,65 @@ mission:     Bridge engineering excellence with business outcomes
 </div>
 
 <!-- ────────────────────────  NOTABLE PROJECTS  ─────────────────────────── -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00C853&height=120&section=header&text=Enterprise%20Engagements&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Enterprise Engagements" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=880&lines=Mission-critical+systems+for+global+organisations" alt="" />
+
+<img src="https://img.shields.io/badge/Enterprise%20Grade-Production%20Systems-00C853?style=for-the-badge&labelColor=0F2027" alt="Enterprise grade" />
+<img src="https://img.shields.io/badge/Delivery-Global%20%C2%B7%20Multi--Region-00A344?style=for-the-badge&labelColor=0F2027" alt="Global multi-region delivery" />
+<img src="https://img.shields.io/badge/Compliance-NDA%20%C2%B7%20GDPR%20%C2%B7%20HIPAA%20Aware-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Compliance aware" />
+
+</div>
+
+<div align="center">
+
+<i>Client names are under NDA. Engagements are described by scope, scale and outcome —<br/>
+full references and architecture walkthroughs available on request.</i>
+
+<br/><br/>
+
+| # | Enterprise Engagement | Scale & Complexity | Outcome |
+|:--:|:--|:--|:--|
+| 01 | **Multi-Tenant Healthcare Platform** <br/><sub>Patient intake, triage & clinical workflow</sub> | Multi-region deployment, role-based access across clinical teams, audit-logged data handling | Manual review workload cut dramatically; onboarding reduced from days to minutes |
+| 02 | **Enterprise ERP Modernization** <br/><sub>Legacy migration to modular architecture</sub> | Multi-entity, multi-currency, hundreds of concurrent internal users | Unified fragmented departmental systems into one source of truth |
+| 03 | **AI Agent Platform for Operations** <br/><sub>Autonomous multi-agent workflow engine</sub> | Tool-calling agents with planning, memory, guardrails and human-in-the-loop escalation | Automated high-volume repetitive operations end to end |
+| 04 | **Global Multi-Vendor Marketplace** <br/><sub>Commerce, payments & logistics</sub> | Multi-vendor catalogues, international payment rails, real-time inventory sync | Scaled catalogue and order volume without added ops headcount |
+| 05 | **AI Recruitment & Talent Intelligence** <br/><sub>Screening, matching & ranking at scale</sub> | Large candidate corpora, semantic matching, bias-aware ranking pipeline | Compressed screening cycles from weeks to hours |
+| 06 | **Voice AI Contact Centre** <br/><sub>Inbound & outbound calling agents</sub> | Real-time speech, natural turn-taking, CRM-integrated booking and qualification | Round-the-clock call coverage without a scaling headcount curve |
+| 07 | **Enterprise Knowledge & RAG Platform** <br/><sub>Private-corpus retrieval assistant</sub> | Vector search across large internal document estates with permission-aware retrieval | Institutional knowledge made instantly queryable across teams |
+| 08 | **AI-Powered Learning Platform** <br/><sub>Adaptive LMS with content generation</sub> | Adaptive pathways, automated assessment, cohort analytics | Personalized learning delivered at institutional scale |
+
+<br/>
+
+### 🌐 &nbsp;Global Delivery Footprint
+
+<img src="https://img.shields.io/badge/North%20America-00C853?style=for-the-badge&labelColor=0F2027" alt="North America" />
+<img src="https://img.shields.io/badge/United%20Kingdom%20%26%20Europe-00A344?style=for-the-badge&labelColor=0F2027" alt="United Kingdom and Europe" />
+<img src="https://img.shields.io/badge/Middle%20East%20%26%20GCC-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Middle East and GCC" />
+<br/>
+<img src="https://img.shields.io/badge/Australia%20%26%20APAC-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Australia and APAC" />
+<img src="https://img.shields.io/badge/South%20Asia-43A047?style=for-the-badge&labelColor=0F2027" alt="South Asia" />
+<img src="https://img.shields.io/badge/Fully%20Remote-Async%20First-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Fully remote async first" />
+
+<br/><br/>
+
+### ⚙️ &nbsp;Enterprise Engineering Standards
+
+<table>
+<tr>
+<td width="25%" align="center"><b>🔒 Security</b><br/><sub>Role-based access, encrypted<br/>data at rest & in transit,<br/>audit trails</sub></td>
+<td width="25%" align="center"><b>📈 Scalability</b><br/><sub>Horizontal scaling,<br/>caching layers,<br/>load-tested paths</sub></td>
+<td width="25%" align="center"><b>🧪 Quality</b><br/><sub>Typed codebases,<br/>automated tests,<br/>CI-gated releases</sub></td>
+<td width="25%" align="center"><b>📚 Handover</b><br/><sub>Architecture docs,<br/>runbooks, onboarding<br/>your team can use</sub></td>
+</tr>
+</table>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
 
 <div align="center">
 
