@@ -29,5 +29,9 @@ const anchors = new Set([...s.matchAll(/<a name="([^"]+)"><\/a>/g)].map(m => m[1
 for (const [, target] of s.matchAll(/href="#([^"]+)"/g))
   if (!anchors.has(target)) errs.push(`in-page link #${target} has no <a name="${target}"> anchor`);
 
+// 6. every prominent badge carries a real brand mark, not a bare colour chip
+for (const u of s.match(/img\.shields\.io\/badge\/[^"]*/g) ?? [])
+  if (u.includes('for-the-badge') && !u.includes('logo=')) errs.push(`for-the-badge badge without a logo: ${u.slice(0, 80)}`);
+
 if (errs.length) { console.error('README check failed:\n- ' + errs.join('\n- ')); process.exit(1); }
 console.log('README check passed');
