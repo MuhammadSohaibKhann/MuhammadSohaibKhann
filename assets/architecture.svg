@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 560" width="1180" height="560" role="img" aria-label="Production system architecture: clients, edge, agent runtime, data and platform layers">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0f1a20"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00C853" stop-opacity="0"/><stop offset="50%" stop-color="#00C853" stop-opacity=".45"/><stop offset="100%" stop-color="#00C853" stop-opacity="0"/></linearGradient>
+<style>.m{font-family:'Fira Code',ui-monospace,Menlo,monospace}.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}</style>
+</defs>
+<rect width="1180" height="560" rx="14" fill="url(#bg)" stroke="#1F2937" stroke-width="1.5"/><g opacity=".05" stroke="#00C853" stroke-width=".5"><line x1="0" y1="56" x2="0" y2="560"/><line x1="44" y1="56" x2="44" y2="560"/><line x1="88" y1="56" x2="88" y2="560"/><line x1="132" y1="56" x2="132" y2="560"/><line x1="176" y1="56" x2="176" y2="560"/><line x1="220" y1="56" x2="220" y2="560"/><line x1="264" y1="56" x2="264" y2="560"/><line x1="308" y1="56" x2="308" y2="560"/><line x1="352" y1="56" x2="352" y2="560"/><line x1="396" y1="56" x2="396" y2="560"/><line x1="440" y1="56" x2="440" y2="560"/><line x1="484" y1="56" x2="484" y2="560"/><line x1="528" y1="56" x2="528" y2="560"/><line x1="572" y1="56" x2="572" y2="560"/><line x1="616" y1="56" x2="616" y2="560"/><line x1="660" y1="56" x2="660" y2="560"/><line x1="704" y1="56" x2="704" y2="560"/><line x1="748" y1="56" x2="748" y2="560"/><line x1="792" y1="56" x2="792" y2="560"/><line x1="836" y1="56" x2="836" y2="560"/><line x1="880" y1="56" x2="880" y2="560"/><line x1="924" y1="56" x2="924" y2="560"/><line x1="968" y1="56" x2="968" y2="560"/><line x1="1012" y1="56" x2="1012" y2="560"/><line x1="1056" y1="56" x2="1056" y2="560"/><line x1="1100" y1="56" x2="1100" y2="560"/><line x1="1144" y1="56" x2="1144" y2="560"/><line x1="0" y1="56" x2="1180" y2="56"/><line x1="0" y1="100" x2="1180" y2="100"/><line x1="0" y1="144" x2="1180" y2="144"/><line x1="0" y1="188" x2="1180" y2="188"/><line x1="0" y1="232" x2="1180" y2="232"/><line x1="0" y1="276" x2="1180" y2="276"/><line x1="0" y1="320" x2="1180" y2="320"/><line x1="0" y1="364" x2="1180" y2="364"/><line x1="0" y1="408" x2="1180" y2="408"/><line x1="0" y1="452" x2="1180" y2="452"/><line x1="0" y1="496" x2="1180" y2="496"/><line x1="0" y1="540" x2="1180" y2="540"/></g><text x="34" y="36" class="s" font-size="16" fill="#fff" letter-spacing="2.5">PRODUCTION SYSTEM ARCHITECTURE</text>
+<text x="1146" y="36" class="m" font-size="12" fill="#8b949e" text-anchor="end">designed · built · deployed · observed</text>
+<line x1="34" y1="52" x2="1146" y2="52" stroke="#1F2937"/><line x1="590" y1="118" x2="590" y2="500" stroke="#00C853" stroke-width="1" opacity=".14"/><rect x="26" y="66" width="1128" height="66" rx="10" fill="#4D9FFF" opacity=".035"/>
+<text x="34" y="58" class="m" font-size="9.5" fill="#4D9FFF" letter-spacing="2.5">CLIENT &amp; CHANNELS</text>
+<line x1="26" y1="66" x2="26" y2="132" stroke="#4D9FFF" stroke-width="2.5" opacity=".8"/><g><rect x="70" y="78" width="196.8" height="42" rx="8" fill="#111820" stroke="#4D9FFF" stroke-opacity=".35"/>
+<rect x="70" y="78" width="196.8" height="42" rx="8" fill="#4D9FFF" opacity=".05"/>
+<circle cx="85" cy="99" r="3.6" fill="#4D9FFF">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0s"/></circle>
+<text x="98" y="103" class="m" font-size="11" fill="#c9d1d9">Web App</text></g><g><rect x="280.8" y="78" width="196.8" height="42" rx="8" fill="#111820" stroke="#4D9FFF" stroke-opacity=".35"/>
+<rect x="280.8" y="78" width="196.8" height="42" rx="8" fill="#4D9FFF" opacity=".05"/>
+<circle cx="295.8" cy="99" r="3.6" fill="#4D9FFF">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.12s"/></circle>
+<text x="308.8" y="103" class="m" font-size="11" fill="#c9d1d9">Mobile</text></g><g><rect x="491.6" y="78" width="196.8" height="42" rx="8" fill="#111820" stroke="#4D9FFF" stroke-opacity=".35"/>
+<rect x="491.6" y="78" width="196.8" height="42" rx="8" fill="#4D9FFF" opacity=".05"/>
+<circle cx="506.6" cy="99" r="3.6" fill="#4D9FFF">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.24s"/></circle>
+<text x="519.6" y="103" class="m" font-size="11" fill="#c9d1d9">Slack / WhatsApp</text></g><g><rect x="702.4" y="78" width="196.8" height="42" rx="8" fill="#111820" stroke="#4D9FFF" stroke-opacity=".35"/>
+<rect x="702.4" y="78" width="196.8" height="42" rx="8" fill="#4D9FFF" opacity=".05"/>
+<circle cx="717.4" cy="99" r="3.6" fill="#4D9FFF">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.36s"/></circle>
+<text x="730.4" y="103" class="m" font-size="11" fill="#c9d1d9">Voice / Telephony</text></g><g><rect x="913.2" y="78" width="196.8" height="42" rx="8" fill="#111820" stroke="#4D9FFF" stroke-opacity=".35"/>
+<rect x="913.2" y="78" width="196.8" height="42" rx="8" fill="#4D9FFF" opacity=".05"/>
+<circle cx="928.2" cy="99" r="3.6" fill="#4D9FFF">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.48s"/></circle>
+<text x="941.2" y="103" class="m" font-size="11" fill="#c9d1d9">Public API</text></g><line x1="298.8" y1="120" x2="298.8" y2="170" stroke="#4D9FFF" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="298.8" cy="120" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="120;170" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="0s" repeatCount="indefinite"/></circle><line x1="590" y1="120" x2="590" y2="170" stroke="#4D9FFF" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="590" cy="120" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="120;170" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="0.5s" repeatCount="indefinite"/></circle><line x1="881.2" y1="120" x2="881.2" y2="170" stroke="#4D9FFF" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="881.2" cy="120" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="120;170" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="1s" repeatCount="indefinite"/></circle><rect x="26" y="170" width="1128" height="66" rx="10" fill="#1DBF73" opacity=".035"/>
+<text x="34" y="162" class="m" font-size="9.5" fill="#1DBF73" letter-spacing="2.5">EDGE &amp; GATEWAY</text>
+<line x1="26" y1="170" x2="26" y2="236" stroke="#1DBF73" stroke-width="2.5" opacity=".8"/><g><rect x="70" y="182" width="249.5" height="42" rx="8" fill="#111820" stroke="#1DBF73" stroke-opacity=".35"/>
+<rect x="70" y="182" width="249.5" height="42" rx="8" fill="#1DBF73" opacity=".05"/>
+<circle cx="85" cy="203" r="3.6" fill="#1DBF73">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.35s"/></circle>
+<text x="98" y="207" class="m" font-size="11" fill="#c9d1d9">CDN / WAF</text></g><g><rect x="333.5" y="182" width="249.5" height="42" rx="8" fill="#111820" stroke="#1DBF73" stroke-opacity=".35"/>
+<rect x="333.5" y="182" width="249.5" height="42" rx="8" fill="#1DBF73" opacity=".05"/>
+<circle cx="348.5" cy="203" r="3.6" fill="#1DBF73">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.47s"/></circle>
+<text x="361.5" y="207" class="m" font-size="11" fill="#c9d1d9">API Gateway</text></g><g><rect x="597" y="182" width="249.5" height="42" rx="8" fill="#111820" stroke="#1DBF73" stroke-opacity=".35"/>
+<rect x="597" y="182" width="249.5" height="42" rx="8" fill="#1DBF73" opacity=".05"/>
+<circle cx="612" cy="203" r="3.6" fill="#1DBF73">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.59s"/></circle>
+<text x="625" y="207" class="m" font-size="11" fill="#c9d1d9">Auth · OIDC / RBAC</text></g><g><rect x="860.5" y="182" width="249.5" height="42" rx="8" fill="#111820" stroke="#1DBF73" stroke-opacity=".35"/>
+<rect x="860.5" y="182" width="249.5" height="42" rx="8" fill="#1DBF73" opacity=".05"/>
+<circle cx="875.5" cy="203" r="3.6" fill="#1DBF73">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.71s"/></circle>
+<text x="888.5" y="207" class="m" font-size="11" fill="#c9d1d9">Rate Limit · Quotas</text></g><line x1="298.8" y1="224" x2="298.8" y2="274" stroke="#1DBF73" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="298.8" cy="224" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="224;274" dur="1.5s" begin="0.4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="0.4s" repeatCount="indefinite"/></circle><line x1="590" y1="224" x2="590" y2="274" stroke="#1DBF73" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="590" cy="224" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="224;274" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="0.9s" repeatCount="indefinite"/></circle><line x1="881.2" y1="224" x2="881.2" y2="274" stroke="#1DBF73" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="881.2" cy="224" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="224;274" dur="1.5s" begin="1.4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="1.4s" repeatCount="indefinite"/></circle><rect x="26" y="274" width="1128" height="66" rx="10" fill="#00C853" opacity=".035"/>
+<text x="34" y="266" class="m" font-size="9.5" fill="#00C853" letter-spacing="2.5">APPLICATION &amp; AGENT RUNTIME</text>
+<line x1="26" y1="274" x2="26" y2="340" stroke="#00C853" stroke-width="2.5" opacity=".8"/><g><rect x="70" y="286" width="196.8" height="42" rx="8" fill="#111820" stroke="#00C853" stroke-opacity=".35"/>
+<rect x="70" y="286" width="196.8" height="42" rx="8" fill="#00C853" opacity=".05"/>
+<circle cx="85" cy="307" r="3.6" fill="#00C853">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.7s"/></circle>
+<text x="98" y="311" class="m" font-size="11" fill="#c9d1d9">Core Services</text></g><g><rect x="280.8" y="286" width="196.8" height="42" rx="8" fill="#111820" stroke="#00C853" stroke-opacity=".35"/>
+<rect x="280.8" y="286" width="196.8" height="42" rx="8" fill="#00C853" opacity=".05"/>
+<circle cx="295.8" cy="307" r="3.6" fill="#00C853">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.82s"/></circle>
+<text x="308.8" y="311" class="m" font-size="11" fill="#c9d1d9">Agent Orchestrator</text></g><g><rect x="491.6" y="286" width="196.8" height="42" rx="8" fill="#111820" stroke="#00C853" stroke-opacity=".35"/>
+<rect x="491.6" y="286" width="196.8" height="42" rx="8" fill="#00C853" opacity=".05"/>
+<circle cx="506.6" cy="307" r="3.6" fill="#00C853">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="0.94s"/></circle>
+<text x="519.6" y="311" class="m" font-size="11" fill="#c9d1d9">Tool Registry / MCP</text></g><g><rect x="702.4" y="286" width="196.8" height="42" rx="8" fill="#111820" stroke="#00C853" stroke-opacity=".35"/>
+<rect x="702.4" y="286" width="196.8" height="42" rx="8" fill="#00C853" opacity=".05"/>
+<circle cx="717.4" cy="307" r="3.6" fill="#00C853">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.06s"/></circle>
+<text x="730.4" y="311" class="m" font-size="11" fill="#c9d1d9">Workflow Engine</text></g><g><rect x="913.2" y="286" width="196.8" height="42" rx="8" fill="#111820" stroke="#00C853" stroke-opacity=".35"/>
+<rect x="913.2" y="286" width="196.8" height="42" rx="8" fill="#00C853" opacity=".05"/>
+<circle cx="928.2" cy="307" r="3.6" fill="#00C853">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.18s"/></circle>
+<text x="941.2" y="311" class="m" font-size="11" fill="#c9d1d9">Eval &amp; Guardrails</text></g><line x1="298.8" y1="328" x2="298.8" y2="378" stroke="#00C853" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="298.8" cy="328" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="328;378" dur="1.5s" begin="0.8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="0.8s" repeatCount="indefinite"/></circle><line x1="590" y1="328" x2="590" y2="378" stroke="#00C853" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="590" cy="328" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="328;378" dur="1.5s" begin="1.3s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="1.3s" repeatCount="indefinite"/></circle><line x1="881.2" y1="328" x2="881.2" y2="378" stroke="#00C853" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="881.2" cy="328" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="328;378" dur="1.5s" begin="1.8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="1.8s" repeatCount="indefinite"/></circle><rect x="26" y="378" width="1128" height="66" rx="10" fill="#00A344" opacity=".035"/>
+<text x="34" y="370" class="m" font-size="9.5" fill="#00A344" letter-spacing="2.5">DATA &amp; KNOWLEDGE</text>
+<line x1="26" y1="378" x2="26" y2="444" stroke="#00A344" stroke-width="2.5" opacity=".8"/><g><rect x="70" y="390" width="196.8" height="42" rx="8" fill="#111820" stroke="#00A344" stroke-opacity=".35"/>
+<rect x="70" y="390" width="196.8" height="42" rx="8" fill="#00A344" opacity=".05"/>
+<circle cx="85" cy="411" r="3.6" fill="#00A344">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.05s"/></circle>
+<text x="98" y="415" class="m" font-size="11" fill="#c9d1d9">Postgres</text></g><g><rect x="280.8" y="390" width="196.8" height="42" rx="8" fill="#111820" stroke="#00A344" stroke-opacity=".35"/>
+<rect x="280.8" y="390" width="196.8" height="42" rx="8" fill="#00A344" opacity=".05"/>
+<circle cx="295.8" cy="411" r="3.6" fill="#00A344">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.17s"/></circle>
+<text x="308.8" y="415" class="m" font-size="11" fill="#c9d1d9">Redis Cache</text></g><g><rect x="491.6" y="390" width="196.8" height="42" rx="8" fill="#111820" stroke="#00A344" stroke-opacity=".35"/>
+<rect x="491.6" y="390" width="196.8" height="42" rx="8" fill="#00A344" opacity=".05"/>
+<circle cx="506.6" cy="411" r="3.6" fill="#00A344">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.29s"/></circle>
+<text x="519.6" y="415" class="m" font-size="11" fill="#c9d1d9">Vector Store</text></g><g><rect x="702.4" y="390" width="196.8" height="42" rx="8" fill="#111820" stroke="#00A344" stroke-opacity=".35"/>
+<rect x="702.4" y="390" width="196.8" height="42" rx="8" fill="#00A344" opacity=".05"/>
+<circle cx="717.4" cy="411" r="3.6" fill="#00A344">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.41s"/></circle>
+<text x="730.4" y="415" class="m" font-size="11" fill="#c9d1d9">Object Storage</text></g><g><rect x="913.2" y="390" width="196.8" height="42" rx="8" fill="#111820" stroke="#00A344" stroke-opacity=".35"/>
+<rect x="913.2" y="390" width="196.8" height="42" rx="8" fill="#00A344" opacity=".05"/>
+<circle cx="928.2" cy="411" r="3.6" fill="#00A344">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.53s"/></circle>
+<text x="941.2" y="415" class="m" font-size="11" fill="#c9d1d9">Event Stream</text></g><line x1="298.8" y1="432" x2="298.8" y2="466" stroke="#00A344" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="298.8" cy="432" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="432;466" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="1.2s" repeatCount="indefinite"/></circle><line x1="590" y1="432" x2="590" y2="466" stroke="#00A344" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="590" cy="432" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="432;466" dur="1.5s" begin="1.7s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="1.7s" repeatCount="indefinite"/></circle><line x1="881.2" y1="432" x2="881.2" y2="466" stroke="#00A344" stroke-width="1" opacity=".18" stroke-dasharray="3 4"/>
+<circle cx="881.2" cy="432" r="2.6" fill="#00C853">
+<animate attributeName="cy" values="432;466" dur="1.5s" begin="2.2s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" dur="1.5s" begin="2.2s" repeatCount="indefinite"/></circle><rect x="26" y="466" width="1128" height="66" rx="10" fill="#FFC75F" opacity=".035"/>
+<text x="34" y="458" class="m" font-size="9.5" fill="#FFC75F" letter-spacing="2.5">PLATFORM &amp; OBSERVABILITY</text>
+<line x1="26" y1="466" x2="26" y2="532" stroke="#FFC75F" stroke-width="2.5" opacity=".8"/><g><rect x="70" y="478" width="249.5" height="42" rx="8" fill="#111820" stroke="#FFC75F" stroke-opacity=".35"/>
+<rect x="70" y="478" width="249.5" height="42" rx="8" fill="#FFC75F" opacity=".05"/>
+<circle cx="85" cy="499" r="3.6" fill="#FFC75F">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.4s"/></circle>
+<text x="98" y="503" class="m" font-size="11" fill="#c9d1d9">Kubernetes</text></g><g><rect x="333.5" y="478" width="249.5" height="42" rx="8" fill="#111820" stroke="#FFC75F" stroke-opacity=".35"/>
+<rect x="333.5" y="478" width="249.5" height="42" rx="8" fill="#FFC75F" opacity=".05"/>
+<circle cx="348.5" cy="499" r="3.6" fill="#FFC75F">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.52s"/></circle>
+<text x="361.5" y="503" class="m" font-size="11" fill="#c9d1d9">CI/CD</text></g><g><rect x="597" y="478" width="249.5" height="42" rx="8" fill="#111820" stroke="#FFC75F" stroke-opacity=".35"/>
+<rect x="597" y="478" width="249.5" height="42" rx="8" fill="#FFC75F" opacity=".05"/>
+<circle cx="612" cy="499" r="3.6" fill="#FFC75F">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.64s"/></circle>
+<text x="625" y="503" class="m" font-size="11" fill="#c9d1d9">Tracing · Metrics · Logs</text></g><g><rect x="860.5" y="478" width="249.5" height="42" rx="8" fill="#111820" stroke="#FFC75F" stroke-opacity=".35"/>
+<rect x="860.5" y="478" width="249.5" height="42" rx="8" fill="#FFC75F" opacity=".05"/>
+<circle cx="875.5" cy="499" r="3.6" fill="#FFC75F">
+<animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite" begin="1.76s"/></circle>
+<text x="888.5" y="503" class="m" font-size="11" fill="#c9d1d9">Cost &amp; SLO Budgets</text></g><text x="1146" y="546" class="m" font-size="10" fill="#8b949e" text-anchor="end">HA · autoscaling · zero-downtime deploys · SLO-backed</text>
+<text x="34" y="546" class="m" font-size="10" fill="#8b949e">IaC · least-privilege · encrypted at rest &amp; in transit</text><rect x="-260" y="56" width="260" height="470" fill="url(#sweep)" opacity=".07">
+<animate attributeName="x" values="-260;1180" dur="7s" repeatCount="indefinite"/></rect>
+<rect x="0" y="556" height="4" width="0" fill="#00C853" opacity=".75">
+<animate attributeName="width" values="0;1180" dur="9s" repeatCount="indefinite"/></rect></svg>

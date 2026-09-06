@@ -256,6 +256,109 @@ mission:     Bridge engineering excellence with business outcomes
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
 
+<!-- ──────────────────  SYSTEM DESIGN & ARCHITECTURE  ───────────────────── -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:1B7F3B&height=120&section=header&text=System%20Design%20%26%20Architecture&fontSize=28&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="System Design and Architecture" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=I+design+the+system+before+I+write+the+first+line" alt="" />
+
+<br/>
+
+<img width="98%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/architecture.svg?v=1" alt="Animated production system architecture across client, edge, application and agent runtime, data and platform layers" />
+
+<sub><i>Reference architecture I design and ship — every layer instrumented, versioned and owned.</i></sub>
+
+<br/><br/>
+
+### 🏛️ &nbsp;What I Deliver as an Architect
+
+</div>
+
+<div align="center">
+
+| Deliverable | What's Actually In It |
+|:--|:--|
+| 📐 &nbsp;**System Design Document** | Context and container diagrams, component boundaries, sequence flows, non-functional requirements |
+| 🗄️ &nbsp;**Data Architecture** | Domain modelling, normalisation strategy, indexing, partitioning, migration and rollback plans |
+| 🔌 &nbsp;**API & Integration Design** | Contract-first specs, versioning policy, idempotency, retries, backpressure, webhook strategy |
+| ☁️ &nbsp;**Infrastructure Blueprint** | IaC modules, environment topology, networking, secrets management, disaster recovery |
+| 🛡️ &nbsp;**Security Architecture** | Threat model, authn/authz design, least-privilege boundaries, encryption, audit trails |
+| 📈 &nbsp;**Scalability Plan** | Load projections, caching tiers, queue and worker design, autoscaling policy, cost ceilings |
+| 🔭 &nbsp;**Observability Design** | Tracing, structured logging, RED/USE metrics, SLOs, alert routing and runbooks |
+| 🧭 &nbsp;**ADRs & Handover** | Architecture decision records so your team knows *why*, not just *what* |
+
+</div>
+
+<div align="center">
+
+### 🗺️ &nbsp;Every Type of System I Design
+
+<table>
+<tr>
+<td width="25%" align="center"><b>☁️ Multi-Tenant SaaS</b><br/><sub>Tenant isolation, metering,<br/>billing, plan entitlements</sub></td>
+<td width="25%" align="center"><b>🤖 Agentic AI Platforms</b><br/><sub>Orchestrators, tool registries,<br/>memory, guardrails, evals</sub></td>
+<td width="25%" align="center"><b>🛒 E-Commerce & Marketplace</b><br/><sub>Catalogue, cart, payments,<br/>inventory, multi-vendor payouts</sub></td>
+<td width="25%" align="center"><b>📊 Enterprise ERP / CRM</b><br/><sub>Multi-entity, multi-currency,<br/>approvals, audit trails</sub></td>
+</tr>
+<tr>
+<td align="center"><b>🔄 Real-Time Systems</b><br/><sub>WebSockets, presence, pub/sub,<br/>sub-second fan-out</sub></td>
+<td align="center"><b>🏗️ Event-Driven Backbones</b><br/><sub>Kafka/queues, outbox pattern,<br/>exactly-once semantics</sub></td>
+<td align="center"><b>🗄️ Data Platforms</b><br/><sub>Lakehouse, ELT, dbt models,<br/>warehouse and BI layers</sub></td>
+<td align="center"><b>🔎 Search & RAG Systems</b><br/><sub>Hybrid retrieval, re-ranking,<br/>permission-aware indexes</sub></td>
+</tr>
+<tr>
+<td align="center"><b>📱 Mobile Backends</b><br/><sub>Offline-first sync, push,<br/>conflict resolution</sub></td>
+<td align="center"><b>🎙️ Voice & Telephony</b><br/><sub>Real-time media, STT/TTS,<br/>call routing and recording</sub></td>
+<td align="center"><b>💳 Payments & Billing</b><br/><sub>Idempotent charges, dunning,<br/>reconciliation, ledgers</sub></td>
+<td align="center"><b>🔐 Identity & Access</b><br/><sub>SSO, OIDC, RBAC/ABAC,<br/>multi-org tenancy</sub></td>
+</tr>
+<tr>
+<td align="center"><b>🧬 Regulated Workloads</b><br/><sub>Healthcare and finance-grade<br/>auditability and retention</sub></td>
+<td align="center"><b>⚙️ Automation Platforms</b><br/><sub>Durable workflows, retries,<br/>human approval steps</sub></td>
+<td align="center"><b>🌐 API Platforms</b><br/><sub>Public APIs, SDKs, quotas,<br/>developer portals</sub></td>
+<td align="center"><b>🔧 Legacy Modernization</b><br/><sub>Strangler-fig migration,<br/>zero-downtime cutover</sub></td>
+</tr>
+</table>
+
+<br/>
+
+### 🧱 &nbsp;Architecture Patterns I Work In
+
+<img src="https://img.shields.io/badge/Microservices-00C853?style=for-the-badge&labelColor=0F2027&logo=kubernetes&logoColor=white" alt="Microservices" />
+<img src="https://img.shields.io/badge/Modular%20Monolith-00A344?style=for-the-badge&labelColor=0F2027&logo=buildkite&logoColor=white" alt="Modular monolith" />
+<img src="https://img.shields.io/badge/Event--Driven-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=apachekafka&logoColor=white" alt="Event driven" />
+<img src="https://img.shields.io/badge/CQRS%20%2B%20Event%20Sourcing-2E7D32?style=for-the-badge&labelColor=0F2027&logo=eventstore&logoColor=white" alt="CQRS and event sourcing" />
+<br/>
+<img src="https://img.shields.io/badge/Domain--Driven%20Design-43A047?style=for-the-badge&labelColor=0F2027&logo=abstract&logoColor=white" alt="Domain driven design" />
+<img src="https://img.shields.io/badge/Hexagonal%20%2F%20Clean-1DBF73?style=for-the-badge&labelColor=0F2027&logo=hexo&logoColor=white" alt="Hexagonal and clean architecture" />
+<img src="https://img.shields.io/badge/Multi--Tenant%20SaaS-00C853?style=for-the-badge&labelColor=0F2027&logo=cloudflare&logoColor=white" alt="Multi-tenant SaaS" />
+<img src="https://img.shields.io/badge/Serverless%20%2B%20Edge-00A344?style=for-the-badge&labelColor=0F2027&logo=vercel&logoColor=white" alt="Serverless and edge" />
+<br/>
+<img src="https://img.shields.io/badge/Data%20Mesh%20%2F%20Lakehouse-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=databricks&logoColor=white" alt="Data mesh and lakehouse" />
+<img src="https://img.shields.io/badge/Zero--Trust%20Security-2E7D32?style=for-the-badge&labelColor=0F2027&logo=auth0&logoColor=white" alt="Zero trust security" />
+<img src="https://img.shields.io/badge/Agentic%20Architecture-43A047?style=for-the-badge&labelColor=0F2027&logo=probot&logoColor=white" alt="Agentic architecture" />
+<img src="https://img.shields.io/badge/Legacy%20Modernization-1DBF73?style=for-the-badge&labelColor=0F2027&logo=gitforwindows&logoColor=white" alt="Legacy modernization" />
+
+<br/><br/>
+
+### 🎯 &nbsp;Production-Level Standards I Hold
+
+<table>
+<tr>
+<td width="25%" align="center"><b>99.9%+ Uptime</b><br/><sub>HA topology, health checks,<br/>graceful degradation</sub></td>
+<td width="25%" align="center"><b>Zero-Downtime Deploys</b><br/><sub>Blue-green and canary,<br/>reversible migrations</sub></td>
+<td width="25%" align="center"><b>Tested & Gated</b><br/><sub>Unit, integration, load and<br/>contract tests in CI</sub></td>
+<td width="25%" align="center"><b>Cost-Aware</b><br/><sub>Right-sized infra, budgets<br/>and spend alerting</sub></td>
+</tr>
+</table>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00C853&height=120&section=header&text=Agents%20I%20Build&fontSize=32&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Agents I Build" />
@@ -289,6 +392,52 @@ mission:     Bridge engineering excellence with business outcomes
 </div>
 
 <div align="center">
+
+### 🧠 &nbsp;Agentic Systems I Architect
+
+<table>
+<tr>
+<td width="33%" align="center"><b>🎯 Single-Agent + Tools</b><br/><sub>One reasoning loop, typed tool<br/>registry, bounded autonomy</sub></td>
+<td width="33%" align="center"><b>👥 Supervisor / Worker</b><br/><sub>A planner delegating to specialist<br/>workers, results merged</sub></td>
+<td width="33%" align="center"><b>🕸️ Multi-Agent Networks</b><br/><sub>Peer agents negotiating, handing<br/>off and escalating</sub></td>
+</tr>
+<tr>
+<td align="center"><b>🔁 Durable Long-Running</b><br/><sub>Days-long workflows that survive<br/>restarts and resume mid-task</sub></td>
+<td align="center"><b>🧭 Graph / State Machines</b><br/><sub>LangGraph-style explicit states,<br/>branches and retry edges</sub></td>
+<td align="center"><b>🔌 MCP Tool Ecosystems</b><br/><sub>Model Context Protocol servers<br/>exposing your systems safely</sub></td>
+</tr>
+<tr>
+<td align="center"><b>👤 Human-in-the-Loop</b><br/><sub>Approval gates, editable drafts,<br/>escalation to a person</sub></td>
+<td align="center"><b>🧪 Eval-Driven Agents</b><br/><sub>Golden sets, regression suites,<br/>CI gates on agent quality</sub></td>
+<td align="center"><b>🖥️ Computer-Use Agents</b><br/><sub>Browser and desktop control<br/>for systems without APIs</sub></td>
+</tr>
+</table>
+
+<br/>
+
+### ⚙️ &nbsp;AI Automations I Build
+
+<table>
+<tr>
+<td width="25%" align="center"><b>📥 Inbox & Comms</b><br/><sub>Triage, drafting, routing,<br/>summarised digests</sub></td>
+<td width="25%" align="center"><b>📄 Document Pipelines</b><br/><sub>OCR, extraction, validation,<br/>structured output</sub></td>
+<td width="25%" align="center"><b>🔗 Cross-System Sync</b><br/><sub>CRM ↔ ERP ↔ warehouse,<br/>conflict-safe reconciliation</sub></td>
+<td width="25%" align="center"><b>📈 Reporting Automations</b><br/><sub>Scheduled briefs, anomaly<br/>alerts, exec summaries</sub></td>
+</tr>
+<tr>
+<td align="center"><b>🎫 Ticket & Lead Ops</b><br/><sub>Classification, enrichment,<br/>assignment, SLA watch</sub></td>
+<td align="center"><b>🧾 Finance Ops</b><br/><sub>Invoice matching, expense<br/>checks, dunning sequences</sub></td>
+<td align="center"><b>🔍 Content & SEO</b><br/><sub>Research, drafting, refresh<br/>cycles, internal linking</sub></td>
+<td align="center"><b>🛠️ Internal Copilots</b><br/><sub>Team assistants wired into<br/>your own tools and data</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Automation%20Stack-n8n%20%C2%B7%20Temporal%20%C2%B7%20Airflow%20%C2%B7%20Zapier%20%C2%B7%20Make-00C853?style=for-the-badge&labelColor=0F2027&logo=n8n&logoColor=white" alt="Automation stack" />
+<img src="https://img.shields.io/badge/Triggers-Webhooks%20%C2%B7%20Cron%20%C2%B7%20Events%20%C2%B7%20Queues-00A344?style=for-the-badge&labelColor=0F2027&logo=zapier&logoColor=white" alt="Automation triggers" />
+
+<br/>
 
 ### ⚡ &nbsp;Every Type of Agent I Build
 
