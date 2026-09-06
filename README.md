@@ -63,16 +63,14 @@
 
 <div align="center">
 
-<sub>
-<a href="#nav-about">About</a> &nbsp;·&nbsp;
-<a href="#nav-agents">Agents</a> &nbsp;·&nbsp;
-<a href="#nav-arch">Architecture</a> &nbsp;·&nbsp;
-<a href="#nav-track">Track Record</a> &nbsp;·&nbsp;
-<a href="#nav-portfolio">Portfolio</a> &nbsp;·&nbsp;
-<a href="#nav-cadence">How I Work</a> &nbsp;·&nbsp;
-<a href="#nav-work">Work With Me</a> &nbsp;·&nbsp;
-<a href="#nav-creds">Credentials</a>
-</sub>
+<a href="#nav-about"><img src="https://img.shields.io/badge/About-00C853?style=flat-square&labelColor=0F2027" alt="About" height="28" /></a>
+<a href="#nav-agents"><img src="https://img.shields.io/badge/AI%20Agents-00A344?style=flat-square&labelColor=0F2027" alt="AI Agents" height="28" /></a>
+<a href="#nav-arch"><img src="https://img.shields.io/badge/Architecture-1B7F3B?style=flat-square&labelColor=0F2027" alt="Architecture" height="28" /></a>
+<a href="#nav-track"><img src="https://img.shields.io/badge/Track%20Record-2E7D32?style=flat-square&labelColor=0F2027" alt="Track Record" height="28" /></a>
+<a href="#nav-portfolio"><img src="https://img.shields.io/badge/Portfolio-43A047?style=flat-square&labelColor=0F2027" alt="Portfolio" height="28" /></a>
+<a href="#nav-cadence"><img src="https://img.shields.io/badge/How%20I%20Work-1DBF73?style=flat-square&labelColor=0F2027" alt="How I Work" height="28" /></a>
+<a href="#nav-work"><img src="https://img.shields.io/badge/Work%20With%20Me-00C853?style=flat-square&labelColor=0F2027" alt="Work With Me" height="28" /></a>
+<a href="#nav-creds"><img src="https://img.shields.io/badge/Credentials-00A344?style=flat-square&labelColor=0F2027" alt="Credentials" height="28" /></a>
 
 </div>
 
@@ -88,9 +86,9 @@
 
 <div align="center">
 
-### <i>"I design and ship systems that think."</i>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=2200&color=FFFFFF&center=true&vCenter=true&width=1000&height=64&lines=%22I+design+and+ship+systems+that+think.%22;%22Architecture+first.+Production+always.%22;%22Agents+that+finish+real+work.%22" alt="I design and ship systems that think" />
 
-<sub>From production-grade full stack platforms to autonomous AI agents —<br/>engineered for scale, measured by business impact.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1600&color=1DBF73&center=true&vCenter=true&width=900&height=40&lines=From+production-grade+full+stack+platforms+to+autonomous+AI+agents;Engineered+for+scale+%C2%B7+measured+by+business+impact+%C2%B7+handed+over+clean" alt="" />
 
 </div>
 
