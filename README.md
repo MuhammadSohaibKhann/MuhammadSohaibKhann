@@ -295,8 +295,8 @@ mission:     Bridge engineering excellence with business outcomes
 <br/>
 
 <!--STATS:START-->
-<img src="https://img.shields.io/badge/Total%20Contributions-3%2C344%2B-00C853?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Total Contributions" />
-<img src="https://img.shields.io/badge/Last%2012%20Months-2%2C397-00A344?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Last 12 Months" />
+<img src="https://img.shields.io/badge/Total%20Contributions-3%2C341%2B-00C853?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Total Contributions" />
+<img src="https://img.shields.io/badge/Last%2012%20Months-2%2C394-00A344?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Last 12 Months" />
 <img src="https://img.shields.io/badge/Longest%20Streak-15%20days-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=fireship&logoColor=white" alt="Longest Streak" />
 <img src="https://img.shields.io/badge/Active%20Days-315-2E7D32?style=for-the-badge&labelColor=0F2027&logo=gitbook&logoColor=white" alt="Active Days" />
 <br/>
@@ -304,10 +304,20 @@ mission:     Bridge engineering excellence with business outcomes
 <img src="https://img.shields.io/badge/Best%20Single%20Day-111%20commits-1DBF73?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="Best Single Day" />
 <img src="https://img.shields.io/badge/Active%20Weeks-91-00C853?style=for-the-badge&labelColor=0F2027&logo=githubsponsors&logoColor=white" alt="Active Weeks" />
 <img src="https://img.shields.io/badge/Avg%20per%20Active%20Day-10.6-00A344?style=for-the-badge&labelColor=0F2027&logo=starship&logoColor=white" alt="Avg per Active Day" />
-<img src="https://img.shields.io/badge/This%20Year-2%2C144-2E7D32?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="This Year" />
+<br/>
+<img src="https://img.shields.io/badge/Commits-3%2C000%2B-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="Commits" />
+<img src="https://img.shields.io/badge/Pull%20Requests-live-2E7D32?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Pull Requests" />
+<img src="https://img.shields.io/badge/Code%20Reviews-live-43A047?style=for-the-badge&labelColor=0F2027&logo=gitlab&logoColor=white" alt="Code Reviews" />
+<img src="https://img.shields.io/badge/Issues%20Handled-live-1DBF73?style=for-the-badge&labelColor=0F2027&logo=gitbook&logoColor=white" alt="Issues Handled" />
+<img src="https://img.shields.io/badge/Repositories-live-00C853?style=for-the-badge&labelColor=0F2027&logo=databricks&logoColor=white" alt="Repositories" />
+<img src="https://img.shields.io/badge/This%20Year-live-00A344?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="This Year" />
 <!--STATS:END-->
 
 <sub>🔄 &nbsp;<i>These figures refresh automatically every day from the GitHub GraphQL API — see <a href="scripts/update-stats.mjs">scripts/update-stats.mjs</a></i></sub>
+
+<br/>
+
+<img width="92%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/contributions.svg" alt="Contributions by year" />
 
 <br/>
 
