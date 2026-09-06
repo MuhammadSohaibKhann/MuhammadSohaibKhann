@@ -5,11 +5,11 @@
 <div align="center">
 
 <a href="https://muhammadsohaibkhan.netlify.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00A344,100:00C853&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Certified%20Senior%20Full--Stack%20Software%20%26%20AI%20Engineer%20%C2%B7%20Agentic%20AI%20Architect&descAlignY=54&descSize=20&animation=fadeIn" alt="Muhammad Sohaib" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00A344,100:00C853&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Certified%20Senior%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Agentic%20Systems%20Architect&descAlignY=55&descSize=18&animation=twinkling" alt="Muhammad Sohaib" />
 </a>
 
 <a href="https://muhammadsohaibkhan.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=00C853&center=true&vCenter=true&width=780&lines=Certified+Senior+Full-Stack+Software+%26+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+AI+Research+Engineer;Speaker+%7C+Mentor+%7C+IT+Consultant;Senior+Forward+Deployed+Engineer;Generative+AI+%26+LLM+Systems+Expert;10%2B+Years+%C2%B7+300%2B+Projects+Delivered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=Certified+Senior+Full-Stack+Software+%26+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+AI+Research+Engineer;Speaker+%7C+Mentor+%7C+IT+Consultant;Senior+Forward+Deployed+Engineer;Generative+AI+%26+LLM+Systems+Expert;10%2B+Years+%C2%B7+300%2B+Projects+Delivered" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=FF6F91&center=true&vCenter=true&width=760&lines=%E2%9A%A1+Agentic+AI+%26+Voice+Agents;%E2%9A%A1+Full+Stack+Development;%E2%9A%A1+Custom+Software+Development;%E2%9A%A1+Web+%26+Mobile+Design+%2B+Development;%E2%9A%A1+Motion+Design+%26+Development" alt="Core pillars" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=00C853&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Agentic+AI+%26+Voice+Agents;%E2%9A%A1+Full+Stack+Development;%E2%9A%A1+Custom+Software+Development;%E2%9A%A1+Web+%26+Mobile+Design+%2B+Development;%E2%9A%A1+Motion+Design+%26+Development" alt="Core pillars" />
 
 <table>
 <tr>
@@ -50,7 +50,11 @@
 
 <!-- ─────────────────────────────  ABOUT  ───────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34" alt="" /> &nbsp;About Me
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00C853&height=120&section=header&text=About%20Me&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="About Me" />
+
+</div>
 
 <img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
 
@@ -87,7 +91,9 @@ mission:     Bridge engineering excellence with business outcomes
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:00C853&height=110&section=header&text=Specializations&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Specializations" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00C853&height=120&section=header&text=Specializations&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Specializations" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=800&lines=Agentic+AI+%C2%B7+Voice+%C2%B7+Web+%C2%B7+Mobile+%C2%B7+Motion" alt="" />
 
 </div>
 
@@ -108,7 +114,9 @@ mission:     Bridge engineering excellence with business outcomes
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:00A344&height=110&section=header&text=Tech%20Stack&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Tech Stack" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00A344&height=120&section=header&text=Tech%20Stack&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Tech Stack" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00A344&center=true&vCenter=true&width=800&lines=40%2B+technologies+in+production" alt="" />
 
 </div>
 
@@ -178,7 +186,7 @@ mission:     Bridge engineering excellence with business outcomes
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,100:1B7F3B&height=110&section=header&text=Contribution%20Showcase&fontSize=32&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Contribution Showcase" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:1B7F3B&height=120&section=header&text=Contribution%20Showcase&fontSize=32&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Contribution Showcase" />
 
 </div>
 
@@ -282,7 +290,11 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ────────────────────────  NOTABLE PROJECTS  ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="34" alt="" /> &nbsp;Notable Work
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:00A344&height=120&section=header&text=Notable%20Work&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Notable Work" />
+
+</div>
 
 <div align="center">
 
@@ -301,7 +313,11 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ──────────────────────────  HOW I WORK  ─────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="34" alt="" /> &nbsp;How I Work
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:1B7F3B&height=120&section=header&text=How%20I%20Work&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="How I Work" />
+
+</div>
 
 <div align="center">
 
@@ -328,7 +344,13 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ────────────────────────────  SERVICES  ─────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="34" alt="" /> &nbsp;Services
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2E7D32&height=120&section=header&text=Services&fontSize=34&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Services" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=2E7D32&center=true&vCenter=true&width=800&lines=From+first+call+to+production+launch" alt="" />
+
+</div>
 
 <div align="center">
 
@@ -364,7 +386,11 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ─────────────────────────  CERTIFICATIONS  ──────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="34" alt="" /> &nbsp;Certifications & Credentials
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:43A047&height=120&section=header&text=Certifications%20%C2%B7%20Credentials&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Certifications - Credentials" />
+
+</div>
 
 <div align="center">
 
@@ -447,7 +473,11 @@ mission:     Bridge engineering excellence with business outcomes
 
 <!-- ─────────────────────────────  CONNECT  ─────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="34" alt="" /> &nbsp;Let's Build Something Awesome
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:1DBF73&height=120&section=header&text=Let's%20Build%20Something%20Awesome&fontSize=28&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Let's Build Something Awesome" />
+
+</div>
 
 <div align="center">
 
@@ -501,4 +531,4 @@ user-focused products, or AI-powered systems — I create meaningful impact from
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:00A344,100:0F2027&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=72&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:00A344,100:0F2027&height=200&section=footer&text=Let%27s%20build%20something%20exceptional&fontSize=28&fontColor=ffffff&fontAlignY=68&desc=Open%20for%20select%20engagements%20worldwide&descAlignY=88&descSize=14&animation=twinkling" alt="footer" />
