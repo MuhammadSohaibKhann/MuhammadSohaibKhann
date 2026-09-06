@@ -64,14 +64,14 @@
 <div align="center">
 
 <sub>
-<a href="#-what-i-bring-to-the-table">About</a> &nbsp;·&nbsp;
-<a href="#-every-type-of-agent-i-build">Agents</a> &nbsp;·&nbsp;
-<a href="#%EF%B8%8F-what-i-deliver-as-an-architect">Architecture</a> &nbsp;·&nbsp;
-<a href="#-by-the-numbers">Track Record</a> &nbsp;·&nbsp;
-<a href="#-delivery-portfolio-at-a-glance">Portfolio</a> &nbsp;·&nbsp;
-<a href="#-full-time-delivery-cadence">How I Work</a> &nbsp;·&nbsp;
-<a href="#-for-clients--for-hiring-teams">Work With Me</a> &nbsp;·&nbsp;
-<a href="#-certified--verified-by">Credentials</a>
+<a href="#nav-about">About</a> &nbsp;·&nbsp;
+<a href="#nav-agents">Agents</a> &nbsp;·&nbsp;
+<a href="#nav-arch">Architecture</a> &nbsp;·&nbsp;
+<a href="#nav-track">Track Record</a> &nbsp;·&nbsp;
+<a href="#nav-portfolio">Portfolio</a> &nbsp;·&nbsp;
+<a href="#nav-cadence">How I Work</a> &nbsp;·&nbsp;
+<a href="#nav-work">Work With Me</a> &nbsp;·&nbsp;
+<a href="#nav-creds">Credentials</a>
 </sub>
 
 </div>
@@ -101,6 +101,8 @@
 </div>
 
 <div align="center">
+
+<a name="nav-about"></a>
 
 ### 💎 &nbsp;What I Bring to the Table
 
@@ -362,6 +364,8 @@
 
 <br/><br/>
 
+<a name="nav-arch"></a>
+
 ### 🏛️ &nbsp;What I Deliver as an Architect
 
 </div>
@@ -529,6 +533,8 @@
 
 <br/>
 
+<a name="nav-agents"></a>
+
 ### ⚡ &nbsp;Every Type of Agent I Build
 
 <table>
@@ -580,6 +586,8 @@
 
 <div align="center">
 
+<a name="nav-track"></a>
+
 ### 📊 &nbsp;By the Numbers
 
 <img src="https://img.shields.io/badge/Total%20Contributions-3%2C328-00C853?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Total contributions" />
@@ -618,6 +626,8 @@
 <sub>🔄 &nbsp;<i>These figures refresh automatically every day from the GitHub GraphQL API — see <a href="scripts/update-stats.mjs">scripts/update-stats.mjs</a></i></sub>
 
 <br/><br/>
+
+<a name="nav-cadence"></a>
 
 ### ⏱️ &nbsp;Full-Time Delivery Cadence
 
@@ -661,6 +671,8 @@
 > **Portfolio, architecture walkthroughs and code samples available on request.**
 
 <br/>
+
+<a name="nav-portfolio"></a>
 
 ### 🏆 &nbsp;Delivery Portfolio at a Glance
 
@@ -838,6 +850,8 @@ full references and architecture walkthroughs available on request.</i>
 
 <br/>
 
+<a name="nav-work"></a>
+
 ### 🤝 &nbsp;For Clients &nbsp;·&nbsp; For Hiring Teams
 
 <table>
@@ -969,6 +983,8 @@ full references and architecture walkthroughs available on request.</i>
 <br/>
 
 <div align="center">
+
+<a name="nav-creds"></a>
 
 **Certified & verified by**
 
