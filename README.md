@@ -10,7 +10,7 @@
 
 <br/>
 
-<img width="98%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/agent-trace.svg?v=20260906" alt="Animated AI agent execution trace showing planning, tool calls, reasoning, guardrails and human-in-the-loop approval" />
+<img width="98%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/agent-trace.svg?v=20260906b" alt="Animated AI agent execution trace showing planning, tool calls, reasoning, guardrails and human-in-the-loop approval" />
 
 <sub><i>Representative execution trace — the architecture pattern I build for clients, not a live session.</i></sub>
 

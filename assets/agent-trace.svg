@@ -1,112 +1,311 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 460" width="1120" height="460" role="img" aria-label="Animated AI agent execution trace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 470" width="1120" height="470" role="img" aria-label="Animated AI agent execution trace">
 <defs>
-<linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0F2027"/><stop offset="100%" stop-color="#12312b"/></linearGradient>
-<linearGradient id="pill" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00C853" stop-opacity=".22"/><stop offset="100%" stop-color="#00C853" stop-opacity=".05"/></linearGradient>
-<style>
-.m{font-family:'Fira Code',ui-monospace,Menlo,monospace}
-.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:600}
-</style></defs>
-<rect width="1120" height="460" rx="12" fill="#0d1117" stroke="#1F2937" stroke-width="1.5"/>
-<rect width="1120" height="42" rx="12" fill="url(#hdr)"/><rect y="30" width="1120" height="12" fill="url(#hdr)"/>
-<circle cx="24" cy="21" r="5.5" fill="#FF5F57"/><circle cx="44" cy="21" r="5.5" fill="#FEBC2E"/><circle cx="64" cy="21" r="5.5" fill="#28C840"/>
-<text x="90" y="26" class="m" font-size="13" fill="#8b949e">agent-runtime — production trace</text>
-<circle cx="1002" cy="21" r="4" fill="#00C853"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
-<text x="1016" y="26" class="m" font-size="12" fill="#00C853">LIVE</text>
-<line x1="640" y1="42" x2="640" y2="460" stroke="#1F2937" stroke-width="1.5"/>
-<text x="30" y="70" class="m" font-size="11" fill="#8b949e" letter-spacing="2">CONVERSATION</text>
-<text x="668" y="70" class="m" font-size="11" fill="#8b949e" letter-spacing="2">EXECUTION TRACE</text><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.0167;0.0361;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="30" y="86" width="580" height="52" rx="10" fill="#161b22" stroke="#30363d"/>
-<circle cx="52" cy="112" r="11" fill="#00A344" opacity=".25"/><text x="47" y="117" font-size="13">👤</text>
-<text x="72" y="106" class="m" font-size="11" fill="#8b949e">USER</text></g><defs><clipPath id="c4g2s6d"><rect x="70" y="115" height="18" width="0">
-<animate attributeName="width" values="0;397.52" dur="1.5s" begin="0.6s;18.6s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#c4g2s6d)"><text x="72" y="127" class="m" font-size="12" fill="#c9d1d9">"Which enterprise clients churned last quarter,</text></g><defs><clipPath id="cuxulii"><rect x="70" y="115" height="18" width="0">
-<animate attributeName="width" values="0;14" dur="0.01s" begin="2s;20s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#cuxulii)"><text x="72" y="127" class="m" font-size="12" fill="#c9d1d9"></text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.0167;0.0361;0.9667;0.9944;1" values="0;0;1;1;0;0"/></g><defs><clipPath id="cmoyvnw"><rect x="70" y="115" height="18" width="0">
-<animate attributeName="width" values="0;14" dur="0.01s" begin="2s;20s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#cmoyvnw)"><text x="72" y="127" class="m" font-size="12" fill="#c9d1d9"></text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.1056;0.125;0.9667;0.9944;1" values="0;0;1;1;0;0"/></g><defs><clipPath id="ccbkwtt"><rect x="70" y="130" height="18" width="0">
-<animate attributeName="width" values="0;307.76" dur="1.2s" begin="1.9s;19.9s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#ccbkwtt)"><text x="72" y="142" class="m" font-size="12" fill="#c9d1d9">  and why? Draft outreach for each."</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.1667;0.1861;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="92" width="424" height="34" rx="8" fill="url(#pill)" stroke="#00C853" stroke-opacity=".4"/>
-<circle cx="686" cy="109" r="4.5" fill="#00C853"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0s"/></circle>
-<text x="700" y="114" class="m" font-size="10" fill="#00C853" letter-spacing="1.5">PLAN</text>
-<text x="734" y="114" class="m" font-size="11.5" fill="#c9d1d9">Decompose · 3 sub-tasks identified</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.1833;0.2028;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="126" x2="686" y2="136" stroke="#00C853" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.2444;0.2639;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="136" width="424" height="34" rx="8" fill="url(#pill)" stroke="#1DBF73" stroke-opacity=".4"/>
-<circle cx="686" cy="153" r="4.5" fill="#1DBF73"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0.2s"/></circle>
-<text x="700" y="158" class="m" font-size="10" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
-<text x="734" y="158" class="m" font-size="11.5" fill="#c9d1d9">query_warehouse(churn, Q3)</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.2611;0.2806;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="170" x2="686" y2="180" stroke="#1DBF73" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.3222;0.3417;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="180" width="424" height="34" rx="8" fill="url(#pill)" stroke="#1DBF73" stroke-opacity=".4"/>
-<circle cx="686" cy="197" r="4.5" fill="#1DBF73"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0.4s"/></circle>
-<text x="700" y="202" class="m" font-size="10" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
-<text x="734" y="202" class="m" font-size="11.5" fill="#c9d1d9">vector_search(support_tickets)</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.3389;0.3583;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="214" x2="686" y2="224" stroke="#1DBF73" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.4;0.4194;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="224" width="424" height="34" rx="8" fill="url(#pill)" stroke="#1DBF73" stroke-opacity=".4"/>
-<circle cx="686" cy="241" r="4.5" fill="#1DBF73"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0.6s"/></circle>
-<text x="700" y="246" class="m" font-size="10" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
-<text x="734" y="246" class="m" font-size="11.5" fill="#c9d1d9">crm.fetch(accounts, tier=enterprise)</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.4167;0.4361;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="258" x2="686" y2="268" stroke="#1DBF73" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.4778;0.4972;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="268" width="424" height="34" rx="8" fill="url(#pill)" stroke="#00C853" stroke-opacity=".4"/>
-<circle cx="686" cy="285" r="4.5" fill="#00C853"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="0.8s"/></circle>
-<text x="700" y="290" class="m" font-size="10" fill="#00C853" letter-spacing="1.5">REASON</text>
-<text x="748" y="290" class="m" font-size="11.5" fill="#c9d1d9">Correlate signals · rank by severity</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.4944;0.5139;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="302" x2="686" y2="312" stroke="#00C853" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.5556;0.575;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="312" width="424" height="34" rx="8" fill="url(#pill)" stroke="#1DBF73" stroke-opacity=".4"/>
-<circle cx="686" cy="329" r="4.5" fill="#1DBF73"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="1s"/></circle>
-<text x="700" y="334" class="m" font-size="10" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
-<text x="734" y="334" class="m" font-size="11.5" fill="#c9d1d9">draft_outreach(per_account)</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.5722;0.5917;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="346" x2="686" y2="356" stroke="#1DBF73" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.6333;0.6528;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="356" width="424" height="34" rx="8" fill="url(#pill)" stroke="#00A344" stroke-opacity=".4"/>
-<circle cx="686" cy="373" r="4.5" fill="#00A344"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="1.2s"/></circle>
-<text x="700" y="378" class="m" font-size="10" fill="#00A344" letter-spacing="1.5">VERIFY</text>
-<text x="748" y="378" class="m" font-size="11.5" fill="#c9d1d9">Guardrails · PII redacted · tone check</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.65;0.6694;0.9667;0.9944;1" values="0;0;1;1;0;0"/><line x1="686" y1="390" x2="686" y2="400" stroke="#00A344" stroke-width="1.5" opacity=".35" stroke-dasharray="3 3"/></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.7111;0.7306;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="668" y="400" width="424" height="34" rx="8" fill="url(#pill)" stroke="#00C853" stroke-opacity=".4"/>
-<circle cx="686" cy="417" r="4.5" fill="#00C853"><animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite" begin="1.4s"/></circle>
-<text x="700" y="422" class="m" font-size="10" fill="#00C853" letter-spacing="1.5">DONE</text>
-<text x="734" y="422" class="m" font-size="11.5" fill="#c9d1d9">7 accounts · 7 drafts · 2 escalations</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.7444;0.7639;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="30" y="168" width="580" height="248" rx="10" fill="#0f1720" stroke="#00C853" stroke-opacity=".35"/>
-<circle cx="52" cy="194" r="11" fill="#00C853" opacity=".22"/><text x="46" y="199" font-size="13">🤖</text>
-<text x="72" y="188" class="m" font-size="11" fill="#00C853">AGENT</text></g><defs><clipPath id="ceu5fwp"><rect x="70" y="200.5" height="18.75" width="0">
-<animate attributeName="width" values="0;320" dur="0.85s" begin="13.7s;31.7s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#ceu5fwp)"><text x="72" y="213" class="m" font-size="12.5" fill="#c9d1d9">7 enterprise accounts churned in Q3.</text></g><defs><clipPath id="c6piin4"><rect x="70" y="222.5" height="18.75" width="0">
-<animate attributeName="width" values="0;413.5" dur="0.85s" begin="14.12s;32.12s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#c6piin4)"><text x="72" y="235" class="m" font-size="12.5" fill="#c9d1d9">Primary driver: unresolved P1 tickets averaging</text></g><defs><clipPath id="cn44ix2"><rect x="70" y="240.5" height="18.75" width="0">
-<animate attributeName="width" values="0;439" dur="0.85s" begin="14.54s;32.54s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#cn44ix2)"><text x="72" y="253" class="m" font-size="12.5" fill="#c9d1d9">11 days to close — 3.4× the retained-account mean.</text></g><defs><clipPath id="cpjf6e5"><rect x="70" y="268.5" height="18.75" width="0">
-<animate attributeName="width" values="0;354" dur="0.85s" begin="14.959999999999999s;32.96s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#cpjf6e5)"><text x="72" y="281" class="m" font-size="12.5" fill="#1DBF73">• 2 accounts flagged for exec escalation</text></g><defs><clipPath id="cht9pnd"><rect x="70" y="286.5" height="18.75" width="0">
-<animate attributeName="width" values="0;371" dur="0.85s" begin="15.379999999999999s;33.379999999999995s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#cht9pnd)"><text x="72" y="299" class="m" font-size="12.5" fill="#1DBF73">• 5 recoverable — drafts queued for review</text></g><defs><clipPath id="cvcaagq"><rect x="70" y="304.5" height="18.75" width="0">
-<animate attributeName="width" values="0;405" dur="0.85s" begin="15.799999999999999s;33.8s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#cvcaagq)"><text x="72" y="317" class="m" font-size="12.5" fill="#1DBF73">• PII redacted, tone verified against playbook</text></g><defs><clipPath id="cby58y3"><rect x="70" y="336.5" height="18.75" width="0">
-<animate attributeName="width" values="0;354" dur="0.85s" begin="16.22s;34.22s" fill="freeze"/></rect></clipPath></defs>
-<g clip-path="url(#cby58y3)"><text x="72" y="349" class="m" font-size="12.5" fill="#c9d1d9">Sources: warehouse · 1,284 tickets · CRM</text></g><g opacity="0">
-<animate attributeName="opacity" dur="18s" repeatCount="indefinite"
- keyTimes="0;0.9111;0.9306;0.9667;0.9944;1" values="0;0;1;1;0;0"/><rect x="72" y="368" width="150" height="30" rx="15" fill="#00C853" opacity=".14" stroke="#00C853" stroke-opacity=".5"/>
-<text x="147" y="388" class="m" font-size="11.5" fill="#00C853" text-anchor="middle">APPROVE &amp; SEND</text>
-<rect x="234" y="368" width="120" height="30" rx="15" fill="none" stroke="#30363d"/>
-<text x="294" y="388" class="m" font-size="11.5" fill="#8b949e" text-anchor="middle">REVISE</text>
-<text x="380" y="388" class="m" font-size="11" fill="#8b949e">human-in-the-loop</text></g><rect x="0" y="456" height="4" width="0" fill="#00C853" opacity=".7">
+<linearGradient id="hdr" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0F2027"/><stop offset="100%" stop-color="#123028"/></linearGradient>
+<linearGradient id="run" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00C853" stop-opacity=".30"/><stop offset="100%" stop-color="#00C853" stop-opacity=".04"/></linearGradient>
+<radialGradient id="hl" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#00C853" stop-opacity=".30"/><stop offset="100%" stop-color="#00C853" stop-opacity="0"/></radialGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00C853" stop-opacity="0"/><stop offset="50%" stop-color="#00C853" stop-opacity=".5"/><stop offset="100%" stop-color="#00C853" stop-opacity="0"/></linearGradient>
+<style>.m{font-family:'Fira Code',ui-monospace,Menlo,monospace}</style></defs>
+<rect width="1120" height="470" rx="14" fill="#0d1117" stroke="#1F2937" stroke-width="1.5"/><g opacity=".05" stroke="#00C853" stroke-width=".5"><line x1="0" y1="46" x2="0" y2="470"/><line x1="40" y1="46" x2="40" y2="470"/><line x1="80" y1="46" x2="80" y2="470"/><line x1="120" y1="46" x2="120" y2="470"/><line x1="160" y1="46" x2="160" y2="470"/><line x1="200" y1="46" x2="200" y2="470"/><line x1="240" y1="46" x2="240" y2="470"/><line x1="280" y1="46" x2="280" y2="470"/><line x1="320" y1="46" x2="320" y2="470"/><line x1="360" y1="46" x2="360" y2="470"/><line x1="400" y1="46" x2="400" y2="470"/><line x1="440" y1="46" x2="440" y2="470"/><line x1="480" y1="46" x2="480" y2="470"/><line x1="520" y1="46" x2="520" y2="470"/><line x1="560" y1="46" x2="560" y2="470"/><line x1="600" y1="46" x2="600" y2="470"/><line x1="640" y1="46" x2="640" y2="470"/><line x1="680" y1="46" x2="680" y2="470"/><line x1="720" y1="46" x2="720" y2="470"/><line x1="760" y1="46" x2="760" y2="470"/><line x1="800" y1="46" x2="800" y2="470"/><line x1="840" y1="46" x2="840" y2="470"/><line x1="880" y1="46" x2="880" y2="470"/><line x1="920" y1="46" x2="920" y2="470"/><line x1="960" y1="46" x2="960" y2="470"/><line x1="1000" y1="46" x2="1000" y2="470"/><line x1="1040" y1="46" x2="1040" y2="470"/><line x1="1080" y1="46" x2="1080" y2="470"/><line x1="1120" y1="46" x2="1120" y2="470"/><line x1="0" y1="46" x2="1120" y2="46"/><line x1="0" y1="86" x2="1120" y2="86"/><line x1="0" y1="126" x2="1120" y2="126"/><line x1="0" y1="166" x2="1120" y2="166"/><line x1="0" y1="206" x2="1120" y2="206"/><line x1="0" y1="246" x2="1120" y2="246"/><line x1="0" y1="286" x2="1120" y2="286"/><line x1="0" y1="326" x2="1120" y2="326"/><line x1="0" y1="366" x2="1120" y2="366"/><line x1="0" y1="406" x2="1120" y2="406"/><line x1="0" y1="446" x2="1120" y2="446"/></g><circle cx="0" cy="60" r="0.5" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="60;42;60" dur="8s" repeatCount="indefinite"/></circle><circle cx="163" cy="131" r="1.1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="5.3s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="131;113;131" dur="10.6s" repeatCount="indefinite"/></circle><circle cx="326" cy="202" r="1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="6.6s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="202;184;202" dur="13.2s" repeatCount="indefinite"/></circle><circle cx="489" cy="273" r="0.9" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="7.9s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="273;255;273" dur="15.8s" repeatCount="indefinite"/></circle><circle cx="652" cy="344" r="0.8" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="4.2s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="344;326;344" dur="8.4s" repeatCount="indefinite"/></circle><circle cx="815" cy="415" r="0.8" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="5.5s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="415;397;415" dur="11s" repeatCount="indefinite"/></circle><circle cx="978" cy="96" r="0.7" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="6.8s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="96;78;96" dur="13.6s" repeatCount="indefinite"/></circle><circle cx="21" cy="167" r="0.6" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="8.1s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="167;149;167" dur="16.2s" repeatCount="indefinite"/></circle><circle cx="184" cy="238" r="0.5" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="4.4s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="238;220;238" dur="8.8s" repeatCount="indefinite"/></circle><circle cx="347" cy="309" r="1.1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="5.7s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="309;291;309" dur="11.4s" repeatCount="indefinite"/></circle><circle cx="510" cy="380" r="1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="7s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="380;362;380" dur="14s" repeatCount="indefinite"/></circle><circle cx="673" cy="61" r="0.9" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="8.3s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="61;43;61" dur="16.6s" repeatCount="indefinite"/></circle><circle cx="836" cy="132" r="0.8" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="4.6s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="132;114;132" dur="9.2s" repeatCount="indefinite"/></circle><circle cx="999" cy="203" r="0.8" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="5.9s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="203;185;203" dur="11.8s" repeatCount="indefinite"/></circle><circle cx="42" cy="274" r="0.7" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="7.2s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="274;256;274" dur="14.4s" repeatCount="indefinite"/></circle><circle cx="205" cy="345" r="0.6" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="8.5s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="345;327;345" dur="17s" repeatCount="indefinite"/></circle><circle cx="368" cy="416" r="0.5" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="4.8s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="416;398;416" dur="9.6s" repeatCount="indefinite"/></circle><circle cx="531" cy="97" r="1.1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="6.1s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="97;79;97" dur="12.2s" repeatCount="indefinite"/></circle><circle cx="694" cy="168" r="1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="7.4s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="168;150;168" dur="14.8s" repeatCount="indefinite"/></circle><circle cx="857" cy="239" r="0.9" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="8.7s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="239;221;239" dur="17.4s" repeatCount="indefinite"/></circle><circle cx="1020" cy="310" r="0.8" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="5s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="310;292;310" dur="10s" repeatCount="indefinite"/></circle><circle cx="63" cy="381" r="0.8" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="6.3s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="381;363;381" dur="12.6s" repeatCount="indefinite"/></circle><circle cx="226" cy="62" r="0.7" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="7.6s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="62;44;62" dur="15.2s" repeatCount="indefinite"/></circle><circle cx="389" cy="133" r="0.6" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="8.9s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="133;115;133" dur="17.8s" repeatCount="indefinite"/></circle><circle cx="552" cy="204" r="0.5" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="5.2s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="204;186;204" dur="10.4s" repeatCount="indefinite"/></circle><circle cx="715" cy="275" r="1.1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="6.5s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="275;257;275" dur="13s" repeatCount="indefinite"/></circle><circle cx="878" cy="346" r="1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="7.8s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="346;328;346" dur="15.6s" repeatCount="indefinite"/></circle><circle cx="1041" cy="417" r="0.9" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="4.1s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="417;399;417" dur="8.2s" repeatCount="indefinite"/></circle><circle cx="84" cy="98" r="0.8" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="5.4s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="98;80;98" dur="10.8s" repeatCount="indefinite"/></circle><circle cx="247" cy="169" r="0.8" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="6.7s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="169;151;169" dur="13.4s" repeatCount="indefinite"/></circle><circle cx="410" cy="240" r="0.7" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="8s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="240;222;240" dur="16s" repeatCount="indefinite"/></circle><circle cx="573" cy="311" r="0.6" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="4.3s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="311;293;311" dur="8.6s" repeatCount="indefinite"/></circle><circle cx="736" cy="382" r="0.5" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="5.6s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="382;364;382" dur="11.2s" repeatCount="indefinite"/></circle><circle cx="899" cy="63" r="1.1" fill="#1DBF73" opacity=".3">
+<animate attributeName="opacity" values=".06;.42;.06" dur="6.9s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="63;45;63" dur="13.8s" repeatCount="indefinite"/></circle><rect width="1120" height="46" rx="14" fill="url(#hdr)"/><rect y="34" width="1120" height="12" fill="url(#hdr)"/>
+<circle cx="26" cy="23" r="5.5" fill="#FF5F57"/><circle cx="46" cy="23" r="5.5" fill="#FEBC2E"/><circle cx="66" cy="23" r="5.5" fill="#28C840"/>
+<text x="92" y="28" class="m" font-size="13" fill="#8b949e">agent-runtime</text>
+<text x="215" y="28" class="m" font-size="12" fill="#30363d">multi-agent · tool-calling · guarded</text>
+<circle cx="1004" cy="23" r="4.5" fill="#00C853"><animate attributeName="opacity" values="1;.2;1" dur="1.5s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6;4.5" dur="1.5s" repeatCount="indefinite"/></circle>
+<text x="1018" y="28" class="m" font-size="12" fill="#00C853" letter-spacing="1">RUNNING</text>
+<line x1="628" y1="46" x2="628" y2="470" stroke="#1F2937" stroke-width="1.5"/>
+<text x="30" y="74" class="m" font-size="10.5" fill="#8b949e" letter-spacing="2.5">CONVERSATION</text>
+<text x="656" y="74" class="m" font-size="10.5" fill="#8b949e" letter-spacing="2.5">EXECUTION TRACE</text><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.0139;0.0306;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="30" y="88" width="568" height="56" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="54" cy="116" r="12" fill="#00A344" opacity=".22"/><text x="48" y="121" font-size="13">👤</text>
+<text x="76" y="108" class="m" font-size="10" fill="#8b949e" letter-spacing="1.5">USER</text></g><clipPath id="x0"><rect x="74" y="114.5" height="18.400000000000002" width="0">
+<animate attributeName="width" values="0;391.36" dur="1.3s" begin="0.55s;18.55s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x0)"><text x="76" y="126" class="m" font-size="11.5" fill="#c9d1d9">"Which enterprise accounts churned last quarter,</text></g>
+<rect x="76" y="115.5" width="1.6" height="11.5" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.03;0.0306;0.1028;0.1033;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;451.36" dur="1.3s" begin="0.55s;18.55s" fill="freeze"/></rect><clipPath id="x1"><rect x="74" y="128.5" height="18.400000000000002" width="0">
+<animate attributeName="width" values="0;352.26" dur="1.1s" begin="1.75s;19.75s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x1)"><text x="76" y="140" class="m" font-size="11.5" fill="#c9d1d9">and why? Draft recovery outreach for each."</text></g>
+<rect x="76" y="129.5" width="1.6" height="11.5" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0967;0.0972;0.1583;0.1589;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;412.26" dur="1.1s" begin="1.75s;19.75s" fill="freeze"/></rect><g transform="translate(26,0)"><animateTransform attributeName="transform" type="translate"
+ dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.1611;0.1889;1"
+ values="26,0;26,0;0,0;0,0" keySplines=".16 1 .3 1;.16 1 .3 1;0 0 1 1"/><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.1611;0.1778;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="656" y="90" width="440" height="35" rx="9" fill="url(#run)" stroke="#00C853" stroke-opacity=".18">
+<animate attributeName="stroke-opacity" values=".18;.75;.35" keyTimes="0;0.1611;0.2111;1" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="656" y="90" width="440" height="35" rx="9" fill="url(#hl)" opacity="0">
+<animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.1611;0.1806;0.2278;1" dur="18s" repeatCount="indefinite"/></rect>
+<circle cx="674" cy="107.5" r="4.5" fill="#30363d">
+<animate attributeName="fill" values="#30363d;#30363d;#00C853;#00C853" keyTimes="0;0.1611;0.2111;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6.5;4.5" dur="1.3s" repeatCount="indefinite" begin="0s"/></circle>
+<circle cx="674" cy="107.5" r="9" fill="none" stroke="#00C853" stroke-width="1.4" opacity="0" stroke-dasharray="14 42">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.1611;0.1778;0.2111;1" dur="18s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" from="0 674 107.5" to="360 674 107.5" dur=".9s" repeatCount="indefinite"/></circle>
+<text x="690" y="112" class="m" font-size="9.5" fill="#00C853" letter-spacing="1.5">PLAN</text>
+<text x="729.6" y="112" class="m" font-size="11.5" fill="#c9d1d9">Decompose · 3 sub-tasks</text>
+<text x="1084" y="112" class="m" font-size="9.5" fill="#8b949e" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2111;0.2278;1" dur="18s" repeatCount="indefinite"/>340ms</text></g></g><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.1806;0.1972;0.9722;0.9944;1" values="0;0;1;1;0;0"/><line x1="674" y1="125" x2="674" y2="135" stroke="#00C853" stroke-width="1.4" opacity=".3"/>
+<circle cx="674" cy="125" r="2.4" fill="#00C853"><animate attributeName="cy" values="125;135" dur=".55s"
+ begin="3.7s;21.7s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0"
+ keyTimes="0;0.2056;0.2278;0.2361;1" dur="18s" repeatCount="indefinite"/></circle></g><g transform="translate(26,0)"><animateTransform attributeName="transform" type="translate"
+ dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.2333;0.2611;1"
+ values="26,0;26,0;0,0;0,0" keySplines=".16 1 .3 1;.16 1 .3 1;0 0 1 1"/><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.2333;0.25;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="656" y="135" width="440" height="35" rx="9" fill="url(#run)" stroke="#1DBF73" stroke-opacity=".18">
+<animate attributeName="stroke-opacity" values=".18;.75;.35" keyTimes="0;0.2333;0.2833;1" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="656" y="135" width="440" height="35" rx="9" fill="url(#hl)" opacity="0">
+<animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.2333;0.2528;0.3;1" dur="18s" repeatCount="indefinite"/></rect>
+<circle cx="674" cy="152.5" r="4.5" fill="#30363d">
+<animate attributeName="fill" values="#30363d;#30363d;#1DBF73;#1DBF73" keyTimes="0;0.2333;0.2833;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6.5;4.5" dur="1.3s" repeatCount="indefinite" begin="0.17s"/></circle>
+<circle cx="674" cy="152.5" r="9" fill="none" stroke="#1DBF73" stroke-width="1.4" opacity="0" stroke-dasharray="14 42">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.2333;0.25;0.2833;1" dur="18s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" from="0 674 152.5" to="360 674 152.5" dur=".9s" repeatCount="indefinite"/></circle>
+<text x="690" y="157" class="m" font-size="9.5" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
+<text x="729.6" y="157" class="m" font-size="11.5" fill="#c9d1d9">query_warehouse(churn, Q3)</text>
+<text x="1084" y="157" class="m" font-size="9.5" fill="#8b949e" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2833;0.3;1" dur="18s" repeatCount="indefinite"/>1.2s</text></g></g><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.2528;0.2694;0.9722;0.9944;1" values="0;0;1;1;0;0"/><line x1="674" y1="170" x2="674" y2="180" stroke="#1DBF73" stroke-width="1.4" opacity=".3"/>
+<circle cx="674" cy="170" r="2.4" fill="#00C853"><animate attributeName="cy" values="170;180" dur=".55s"
+ begin="5s;23s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0"
+ keyTimes="0;0.2778;0.3;0.3083;1" dur="18s" repeatCount="indefinite"/></circle></g><g transform="translate(26,0)"><animateTransform attributeName="transform" type="translate"
+ dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.3056;0.3333;1"
+ values="26,0;26,0;0,0;0,0" keySplines=".16 1 .3 1;.16 1 .3 1;0 0 1 1"/><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.3056;0.3222;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="656" y="180" width="440" height="35" rx="9" fill="url(#run)" stroke="#1DBF73" stroke-opacity=".18">
+<animate attributeName="stroke-opacity" values=".18;.75;.35" keyTimes="0;0.3056;0.3556;1" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="656" y="180" width="440" height="35" rx="9" fill="url(#hl)" opacity="0">
+<animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.3056;0.325;0.3722;1" dur="18s" repeatCount="indefinite"/></rect>
+<circle cx="674" cy="197.5" r="4.5" fill="#30363d">
+<animate attributeName="fill" values="#30363d;#30363d;#1DBF73;#1DBF73" keyTimes="0;0.3056;0.3556;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6.5;4.5" dur="1.3s" repeatCount="indefinite" begin="0.34s"/></circle>
+<circle cx="674" cy="197.5" r="9" fill="none" stroke="#1DBF73" stroke-width="1.4" opacity="0" stroke-dasharray="14 42">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.3056;0.3222;0.3556;1" dur="18s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" from="0 674 197.5" to="360 674 197.5" dur=".9s" repeatCount="indefinite"/></circle>
+<text x="690" y="202" class="m" font-size="9.5" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
+<text x="729.6" y="202" class="m" font-size="11.5" fill="#c9d1d9">vector_search(support_tickets)</text>
+<text x="1084" y="202" class="m" font-size="9.5" fill="#8b949e" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3556;0.3722;1" dur="18s" repeatCount="indefinite"/>880ms</text></g></g><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.325;0.3417;0.9722;0.9944;1" values="0;0;1;1;0;0"/><line x1="674" y1="215" x2="674" y2="225" stroke="#1DBF73" stroke-width="1.4" opacity=".3"/>
+<circle cx="674" cy="215" r="2.4" fill="#00C853"><animate attributeName="cy" values="215;225" dur=".55s"
+ begin="6.3s;24.3s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0"
+ keyTimes="0;0.35;0.3722;0.3806;1" dur="18s" repeatCount="indefinite"/></circle></g><g transform="translate(26,0)"><animateTransform attributeName="transform" type="translate"
+ dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.3778;0.4056;1"
+ values="26,0;26,0;0,0;0,0" keySplines=".16 1 .3 1;.16 1 .3 1;0 0 1 1"/><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.3778;0.3944;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="656" y="225" width="440" height="35" rx="9" fill="url(#run)" stroke="#1DBF73" stroke-opacity=".18">
+<animate attributeName="stroke-opacity" values=".18;.75;.35" keyTimes="0;0.3778;0.4278;1" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="656" y="225" width="440" height="35" rx="9" fill="url(#hl)" opacity="0">
+<animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.3778;0.3972;0.4444;1" dur="18s" repeatCount="indefinite"/></rect>
+<circle cx="674" cy="242.5" r="4.5" fill="#30363d">
+<animate attributeName="fill" values="#30363d;#30363d;#1DBF73;#1DBF73" keyTimes="0;0.3778;0.4278;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6.5;4.5" dur="1.3s" repeatCount="indefinite" begin="0.51s"/></circle>
+<circle cx="674" cy="242.5" r="9" fill="none" stroke="#1DBF73" stroke-width="1.4" opacity="0" stroke-dasharray="14 42">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.3778;0.3944;0.4278;1" dur="18s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" from="0 674 242.5" to="360 674 242.5" dur=".9s" repeatCount="indefinite"/></circle>
+<text x="690" y="247" class="m" font-size="9.5" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
+<text x="729.6" y="247" class="m" font-size="11.5" fill="#c9d1d9">crm.fetch(tier=enterprise)</text>
+<text x="1084" y="247" class="m" font-size="9.5" fill="#8b949e" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4278;0.4444;1" dur="18s" repeatCount="indefinite"/>610ms</text></g></g><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.3972;0.4139;0.9722;0.9944;1" values="0;0;1;1;0;0"/><line x1="674" y1="260" x2="674" y2="270" stroke="#1DBF73" stroke-width="1.4" opacity=".3"/>
+<circle cx="674" cy="260" r="2.4" fill="#00C853"><animate attributeName="cy" values="260;270" dur=".55s"
+ begin="7.6s;25.6s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0"
+ keyTimes="0;0.4222;0.4444;0.4528;1" dur="18s" repeatCount="indefinite"/></circle></g><g transform="translate(26,0)"><animateTransform attributeName="transform" type="translate"
+ dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.45;0.4778;1"
+ values="26,0;26,0;0,0;0,0" keySplines=".16 1 .3 1;.16 1 .3 1;0 0 1 1"/><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.45;0.4667;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="656" y="270" width="440" height="35" rx="9" fill="url(#run)" stroke="#00C853" stroke-opacity=".18">
+<animate attributeName="stroke-opacity" values=".18;.75;.35" keyTimes="0;0.45;0.5;1" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="656" y="270" width="440" height="35" rx="9" fill="url(#hl)" opacity="0">
+<animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.45;0.4694;0.5167;1" dur="18s" repeatCount="indefinite"/></rect>
+<circle cx="674" cy="287.5" r="4.5" fill="#30363d">
+<animate attributeName="fill" values="#30363d;#30363d;#00C853;#00C853" keyTimes="0;0.45;0.5;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6.5;4.5" dur="1.3s" repeatCount="indefinite" begin="0.68s"/></circle>
+<circle cx="674" cy="287.5" r="9" fill="none" stroke="#00C853" stroke-width="1.4" opacity="0" stroke-dasharray="14 42">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.45;0.4667;0.5;1" dur="18s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" from="0 674 287.5" to="360 674 287.5" dur=".9s" repeatCount="indefinite"/></circle>
+<text x="690" y="292" class="m" font-size="9.5" fill="#00C853" letter-spacing="1.5">REASON</text>
+<text x="744.4" y="292" class="m" font-size="11.5" fill="#c9d1d9">Correlate signals · rank severity</text>
+<text x="1084" y="292" class="m" font-size="9.5" fill="#8b949e" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.5;0.5167;1" dur="18s" repeatCount="indefinite"/>1.9s</text></g></g><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.4694;0.4861;0.9722;0.9944;1" values="0;0;1;1;0;0"/><line x1="674" y1="305" x2="674" y2="315" stroke="#00C853" stroke-width="1.4" opacity=".3"/>
+<circle cx="674" cy="305" r="2.4" fill="#00C853"><animate attributeName="cy" values="305;315" dur=".55s"
+ begin="8.9s;26.9s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0"
+ keyTimes="0;0.4944;0.5167;0.525;1" dur="18s" repeatCount="indefinite"/></circle></g><g transform="translate(26,0)"><animateTransform attributeName="transform" type="translate"
+ dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5222;0.55;1"
+ values="26,0;26,0;0,0;0,0" keySplines=".16 1 .3 1;.16 1 .3 1;0 0 1 1"/><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.5222;0.5389;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="656" y="315" width="440" height="35" rx="9" fill="url(#run)" stroke="#1DBF73" stroke-opacity=".18">
+<animate attributeName="stroke-opacity" values=".18;.75;.35" keyTimes="0;0.5222;0.5722;1" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="656" y="315" width="440" height="35" rx="9" fill="url(#hl)" opacity="0">
+<animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.5222;0.5417;0.5889;1" dur="18s" repeatCount="indefinite"/></rect>
+<circle cx="674" cy="332.5" r="4.5" fill="#30363d">
+<animate attributeName="fill" values="#30363d;#30363d;#1DBF73;#1DBF73" keyTimes="0;0.5222;0.5722;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6.5;4.5" dur="1.3s" repeatCount="indefinite" begin="0.85s"/></circle>
+<circle cx="674" cy="332.5" r="9" fill="none" stroke="#1DBF73" stroke-width="1.4" opacity="0" stroke-dasharray="14 42">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.5222;0.5389;0.5722;1" dur="18s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" from="0 674 332.5" to="360 674 332.5" dur=".9s" repeatCount="indefinite"/></circle>
+<text x="690" y="337" class="m" font-size="9.5" fill="#1DBF73" letter-spacing="1.5">TOOL</text>
+<text x="729.6" y="337" class="m" font-size="11.5" fill="#c9d1d9">draft_outreach(per_account)</text>
+<text x="1084" y="337" class="m" font-size="9.5" fill="#8b949e" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.5722;0.5889;1" dur="18s" repeatCount="indefinite"/>2.4s</text></g></g><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.5417;0.5583;0.9722;0.9944;1" values="0;0;1;1;0;0"/><line x1="674" y1="350" x2="674" y2="360" stroke="#1DBF73" stroke-width="1.4" opacity=".3"/>
+<circle cx="674" cy="350" r="2.4" fill="#00C853"><animate attributeName="cy" values="350;360" dur=".55s"
+ begin="10.2s;28.2s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0"
+ keyTimes="0;0.5667;0.5889;0.5972;1" dur="18s" repeatCount="indefinite"/></circle></g><g transform="translate(26,0)"><animateTransform attributeName="transform" type="translate"
+ dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5944;0.6222;1"
+ values="26,0;26,0;0,0;0,0" keySplines=".16 1 .3 1;.16 1 .3 1;0 0 1 1"/><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.5944;0.6111;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="656" y="360" width="440" height="35" rx="9" fill="url(#run)" stroke="#FFC75F" stroke-opacity=".18">
+<animate attributeName="stroke-opacity" values=".18;.75;.35" keyTimes="0;0.5944;0.6444;1" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="656" y="360" width="440" height="35" rx="9" fill="url(#hl)" opacity="0">
+<animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.5944;0.6139;0.6611;1" dur="18s" repeatCount="indefinite"/></rect>
+<circle cx="674" cy="377.5" r="4.5" fill="#30363d">
+<animate attributeName="fill" values="#30363d;#30363d;#FFC75F;#FFC75F" keyTimes="0;0.5944;0.6444;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6.5;4.5" dur="1.3s" repeatCount="indefinite" begin="1.02s"/></circle>
+<circle cx="674" cy="377.5" r="9" fill="none" stroke="#FFC75F" stroke-width="1.4" opacity="0" stroke-dasharray="14 42">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.5944;0.6111;0.6444;1" dur="18s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" from="0 674 377.5" to="360 674 377.5" dur=".9s" repeatCount="indefinite"/></circle>
+<text x="690" y="382" class="m" font-size="9.5" fill="#FFC75F" letter-spacing="1.5">GUARD</text>
+<text x="737" y="382" class="m" font-size="11.5" fill="#c9d1d9">PII redacted · tone verified</text>
+<text x="1084" y="382" class="m" font-size="9.5" fill="#8b949e" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6444;0.6611;1" dur="18s" repeatCount="indefinite"/>220ms</text></g></g><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.6139;0.6306;0.9722;0.9944;1" values="0;0;1;1;0;0"/><line x1="674" y1="395" x2="674" y2="405" stroke="#FFC75F" stroke-width="1.4" opacity=".3"/>
+<circle cx="674" cy="395" r="2.4" fill="#00C853"><animate attributeName="cy" values="395;405" dur=".55s"
+ begin="11.5s;29.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0"
+ keyTimes="0;0.6389;0.6611;0.6694;1" dur="18s" repeatCount="indefinite"/></circle></g><g transform="translate(26,0)"><animateTransform attributeName="transform" type="translate"
+ dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.6667;0.6944;1"
+ values="26,0;26,0;0,0;0,0" keySplines=".16 1 .3 1;.16 1 .3 1;0 0 1 1"/><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.6667;0.6833;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="656" y="405" width="440" height="35" rx="9" fill="url(#run)" stroke="#00C853" stroke-opacity=".18">
+<animate attributeName="stroke-opacity" values=".18;.75;.35" keyTimes="0;0.6667;0.7167;1" dur="18s" repeatCount="indefinite"/></rect>
+<rect x="656" y="405" width="440" height="35" rx="9" fill="url(#hl)" opacity="0">
+<animate attributeName="opacity" values="0;0;.9;0;0" keyTimes="0;0.6667;0.6861;0.7333;1" dur="18s" repeatCount="indefinite"/></rect>
+<circle cx="674" cy="422.5" r="4.5" fill="#30363d">
+<animate attributeName="fill" values="#30363d;#30363d;#00C853;#00C853" keyTimes="0;0.6667;0.7167;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4.5;6.5;4.5" dur="1.3s" repeatCount="indefinite" begin="1.19s"/></circle>
+<circle cx="674" cy="422.5" r="9" fill="none" stroke="#00C853" stroke-width="1.4" opacity="0" stroke-dasharray="14 42">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.6667;0.6833;0.7167;1" dur="18s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" from="0 674 422.5" to="360 674 422.5" dur=".9s" repeatCount="indefinite"/></circle>
+<text x="690" y="427" class="m" font-size="9.5" fill="#00C853" letter-spacing="1.5">DONE</text>
+<text x="729.6" y="427" class="m" font-size="11.5" fill="#c9d1d9">7 accounts · 7 drafts · 2 escalations</text>
+<text x="1084" y="427" class="m" font-size="9.5" fill="#8b949e" text-anchor="end" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.7167;0.7333;1" dur="18s" repeatCount="indefinite"/>8.1s</text></g></g><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.7;0.7167;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="30" y="172" width="568" height="252" rx="10" fill="#0f1720" stroke="#00C853" stroke-opacity=".3"/>
+<circle cx="54" cy="198" r="12" fill="#00C853" opacity=".2"/><text x="48" y="203" font-size="13">🤖</text>
+<text x="76" y="190" class="m" font-size="10" fill="#00C853" letter-spacing="1.5">AGENT</text></g><clipPath id="x2"><rect x="74" y="206" height="19.200000000000003" width="0">
+<animate attributeName="width" values="0;309.76" dur="0.8s" begin="12.9s;30.9s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x2)"><text x="76" y="218" class="m" font-size="12" fill="#c9d1d9">7 enterprise accounts churned in Q3.</text></g>
+<rect x="76" y="207" width="1.6" height="12" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7161;0.7167;0.7611;0.7617;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;369.76" dur="0.8s" begin="12.9s;30.9s" fill="freeze"/></rect><clipPath id="x3"><rect x="74" y="228" height="19.200000000000003" width="0">
+<animate attributeName="width" values="0;366.88" dur="0.8s" begin="13.3s;31.3s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x3)"><text x="76" y="240" class="m" font-size="12" fill="#c9d1d9">Root cause: unresolved P1 tickets averaging</text></g>
+<rect x="76" y="229" width="1.6" height="12" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7383;0.7389;0.7833;0.7839;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;426.88" dur="0.8s" begin="13.3s;31.3s" fill="freeze"/></rect><clipPath id="x4"><rect x="74" y="245" height="19.200000000000003" width="0">
+<animate attributeName="width" values="0;358.72" dur="0.8s" begin="13.700000000000001s;31.700000000000003s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x4)"><text x="76" y="257" class="m" font-size="12" fill="#c9d1d9">11 days to close — 3.4× the retained mean.</text></g>
+<rect x="76" y="246" width="1.6" height="12" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7606;0.7611;0.8056;0.8061;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;418.72" dur="0.8s" begin="13.700000000000001s;31.700000000000003s" fill="freeze"/></rect><clipPath id="x5"><rect x="74" y="272" height="19.200000000000003" width="0">
+<animate attributeName="width" values="0;342.4" dur="0.8s" begin="14.100000000000001s;32.1s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x5)"><text x="76" y="284" class="m" font-size="12" fill="#1DBF73">• 2 accounts flagged for exec escalation</text></g>
+<rect x="76" y="273" width="1.6" height="12" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7828;0.7833;0.8278;0.8283;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;402.4" dur="0.8s" begin="14.100000000000001s;32.1s" fill="freeze"/></rect><clipPath id="x6"><rect x="74" y="289" height="19.200000000000003" width="0">
+<animate attributeName="width" values="0;358.72" dur="0.8s" begin="14.5s;32.5s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x6)"><text x="76" y="301" class="m" font-size="12" fill="#1DBF73">• 5 recoverable — drafts queued for review</text></g>
+<rect x="76" y="290" width="1.6" height="12" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.805;0.8056;0.85;0.8506;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;418.72" dur="0.8s" begin="14.5s;32.5s" fill="freeze"/></rect><clipPath id="x7"><rect x="74" y="306" height="19.200000000000003" width="0">
+<animate attributeName="width" values="0;342.4" dur="0.8s" begin="14.9s;32.9s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x7)"><text x="76" y="318" class="m" font-size="12" fill="#1DBF73">• PII redacted, tone checked vs playbook</text></g>
+<rect x="76" y="307" width="1.6" height="12" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8272;0.8278;0.8722;0.8728;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;402.4" dur="0.8s" begin="14.9s;32.9s" fill="freeze"/></rect><clipPath id="x8"><rect x="74" y="337" height="19.200000000000003" width="0">
+<animate attributeName="width" values="0;342.4" dur="0.8s" begin="15.3s;33.3s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#x8)"><text x="76" y="349" class="m" font-size="12" fill="#8b949e">Sources: warehouse · 1,284 tickets · CRM</text></g>
+<rect x="76" y="338" width="1.6" height="12" fill="#00C853" opacity="0">
+<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8494;0.85;0.8944;0.895;1" dur="18s" repeatCount="indefinite"/>
+<animate attributeName="x" values="76;402.4" dur="0.8s" begin="15.3s;33.3s" fill="freeze"/></rect><g opacity="0"><animate attributeName="opacity" dur="18s" repeatCount="indefinite"
+ keyTimes="0;0.8667;0.8833;0.9722;0.9944;1" values="0;0;1;1;0;0"/><rect x="76" y="374" width="152" height="30" rx="15" fill="#00C853" opacity=".13" stroke="#00C853" stroke-opacity=".55">
+<animate attributeName="opacity" values=".13;.26;.13" dur="2.2s" repeatCount="indefinite"/></rect>
+<text x="152" y="393" class="m" font-size="11" fill="#00C853" text-anchor="middle" letter-spacing=".5">APPROVE &amp; SEND</text>
+<rect x="240" y="374" width="104" height="30" rx="15" fill="none" stroke="#30363d"/>
+<text x="292" y="393" class="m" font-size="11" fill="#8b949e" text-anchor="middle">REVISE</text>
+<text x="360" y="393" class="m" font-size="10" fill="#30363d">human-in-the-loop</text></g><line x1="0" y1="436" x2="1120" y2="436" stroke="#1F2937" stroke-width="1"/><text x="30" y="454" class="m" font-size="9.5" fill="#30363d" letter-spacing="1">TOOLS</text>
+<text x="70" y="454" class="m" font-size="10.5" fill="#00C853">5
+<animate attributeName="textContent" values="5" dur="18s" repeatCount="indefinite"/></text><text x="120" y="454" class="m" font-size="9.5" fill="#30363d" letter-spacing="1">TOKENS</text>
+<text x="166.4" y="454" class="m" font-size="10.5" fill="#00C853">18.4k
+<animate attributeName="textContent" values="18.4k" dur="18s" repeatCount="indefinite"/></text><text x="240" y="454" class="m" font-size="9.5" fill="#30363d" letter-spacing="1">LATENCY</text>
+<text x="292.8" y="454" class="m" font-size="10.5" fill="#00C853">8.1s
+<animate attributeName="textContent" values="8.1s" dur="18s" repeatCount="indefinite"/></text><text x="370" y="454" class="m" font-size="9.5" fill="#30363d" letter-spacing="1">GUARDRAILS</text>
+<text x="442" y="454" class="m" font-size="10.5" fill="#00C853">PASS
+<animate attributeName="textContent" values="PASS" dur="18s" repeatCount="indefinite"/></text><text x="520" y="454" class="m" font-size="9.5" fill="#30363d" letter-spacing="1">COST</text>
+<text x="553.6" y="454" class="m" font-size="10.5" fill="#00C853">$0.11
+<animate attributeName="textContent" values="$0.11" dur="18s" repeatCount="indefinite"/></text><text x="1090" y="454" class="m" font-size="10" fill="#30363d" text-anchor="end">LangGraph · MCP tools · human-in-the-loop</text><rect x="-220" y="46" width="220" height="390" fill="url(#beam)" opacity=".08">
+<animate attributeName="x" values="-220;1120" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="0" y="466" height="4" width="0" fill="#00C853" opacity=".8">
 <animate attributeName="width" values="0;1120" dur="18s" repeatCount="indefinite"/></rect></svg>
