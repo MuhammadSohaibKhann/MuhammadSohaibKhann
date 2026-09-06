@@ -329,7 +329,7 @@ mission:     Bridge engineering excellence with business outcomes
 
 <br/>
 
-<img width="92%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/contributions.svg" alt="Contributions by year" />
+<img width="92%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/contributions.svg?v=20260906" alt="Contributions this year" />
 
 <br/>
 

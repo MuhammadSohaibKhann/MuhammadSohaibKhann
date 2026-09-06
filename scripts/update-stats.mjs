@@ -96,7 +96,8 @@ const block = [
 ].join('\n');
 
 // ── animated monthly contribution chart (trailing 18 months) ──
-const monthKeys = Object.keys(months).sort().slice(-18);
+const YR = now.getUTCFullYear();
+const monthKeys = Object.keys(months).filter(k => k.startsWith(`${YR}-`)).sort();
 const series = monthKeys.map(k => ({ k, v: months[k] }));
 const MON = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const CW = 1100, CH = 300, PAD = 60, GAP = 10;
@@ -112,8 +113,8 @@ let chart = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${CW} ${CH}" w
 <stop offset="0%" stop-color="#0F2027"/><stop offset="45%" stop-color="#00C853"/><stop offset="100%" stop-color="#B9F6CA"/></linearGradient>
 </defs>
 <rect width="${CW}" height="${CH}" fill="#0d1117"/>
-<text x="${PAD}" y="32" fill="#ffffff" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">MONTHLY CONTRIBUTION VOLUME</text>
-<text x="${CW - PAD}" y="32" fill="#00C853" font-family="'Fira Code',monospace" font-size="14" text-anchor="end">${last12.toLocaleString('en-US')} in the last 12 months</text>`;
+<text x="${PAD}" y="32" fill="#ffffff" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">${YR} CONTRIBUTIONS</text>
+<text x="${CW - PAD}" y="32" fill="#00C853" font-family="'Fira Code',monospace" font-size="14" text-anchor="end">${thisYear.toLocaleString('en-US')} this year</text>`;
 
 for (let g = 1; g <= 3; g++) {
   const gy = 62 + ((CH - 118) / 3) * g;
@@ -135,8 +136,11 @@ chart += `<line x1="${PAD}" y1="${CH - 56}" x2="${CW - PAD}" y2="${CH - 56}" str
 <text x="${PAD}" y="${CH - 12}" fill="#8b949e" font-family="'Fira Code',monospace" font-size="11">peak ${peak.v} contributions in a single month</text>
 <text x="${CW - PAD}" y="${CH - 12}" fill="#8b949e" font-family="'Fira Code',monospace" font-size="11" text-anchor="end">avg ${Math.round(series.reduce((a,b)=>a+b.v,0)/series.length)} / month</text></svg>`;
 writeFileSync('assets/contributions.svg', chart);
+// bust GitHub's camo image cache by versioning the URL in the README
+const stamp = now.toISOString().slice(0,10).replace(/-/g,'');
 
-const readme = readFileSync('README.md', 'utf8');
+const readme = readFileSync('README.md', 'utf8')
+  .replace(/(assets\/contributions\.svg)(\?v=\d+)?/g, `$1?v=${stamp}`);
 const out = readme.replace(
   /<!--STATS:START-->[\s\S]*?<!--STATS:END-->/,
   `<!--STATS:START-->\n${block}\n<!--STATS:END-->`);
