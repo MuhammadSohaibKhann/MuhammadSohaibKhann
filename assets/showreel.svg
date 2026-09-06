@@ -165,7 +165,7 @@
 <rect x="325" y="180" width="178" height="36" rx="18" fill="#00C853" opacity=".08"/>
 <rect x="325" y="180" width="178" height="36" rx="18" fill="none" stroke="#00C853" stroke-width="1" opacity=".45"/>
 <circle cx="343" cy="198" r="3.5" fill="#00C853"><animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite" begin="0.66s"/></circle>
-<text x="358" y="203" class="m" font-size="13" fill="#c9d1d9" letter-spacing="1.2">CLAUDE</text></g><g opacity="0"><animate attributeName="opacity" dur="28s" repeatCount="indefinite" keyTimes="0;0.7345;0.7434;0.8393;0.8571;1" values="0;0;1;1;0;0"/>
+<text x="358" y="203" class="m" font-size="13" fill="#c9d1d9" letter-spacing="1.2">DEEPSEEK</text></g><g opacity="0"><animate attributeName="opacity" dur="28s" repeatCount="indefinite" keyTimes="0;0.7345;0.7434;0.8393;0.8571;1" values="0;0;1;1;0;0"/>
 <rect x="520" y="180" width="178" height="36" rx="18" fill="#00C853" opacity=".08"/>
 <rect x="520" y="180" width="178" height="36" rx="18" fill="none" stroke="#00C853" stroke-width="1" opacity=".45"/>
 <circle cx="538" cy="198" r="3.5" fill="#00C853"><animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite" begin="0.77s"/></circle>

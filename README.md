@@ -163,8 +163,8 @@
 <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen" />
 <img src="https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Semantic Kernel" />
 <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
-<img src="https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Agent SDK" />
-<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/Agent%20SDKs-1B7F3B?style=for-the-badge&logo=probot&logoColor=white" alt="Agent SDKs" />
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-00A344?style=for-the-badge&logo=protocolsdotio&logoColor=white" alt="Model Context Protocol" />
 <br/>
 <img src="https://img.shields.io/badge/DSPy-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="DSPy" />
 <img src="https://img.shields.io/badge/Haystack-03AF9D?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Haystack" />
@@ -175,7 +175,7 @@
 **🤖 &nbsp;Frontier Models & Providers**
 
 <img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI GPT" />
-<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+<img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere" />
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 <img src="https://img.shields.io/badge/Meta%20Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Llama" />
 <img src="https://img.shields.io/badge/Mistral%20AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral AI" />
