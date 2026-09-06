@@ -18,11 +18,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Validate README structure
+        run: node scripts/check-readme.mjs
+
       - name: Fetch live stats and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
         run: node scripts/update-stats.mjs
+
+      - name: Re-validate after update
+        run: node scripts/check-readme.mjs
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"

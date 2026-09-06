@@ -256,11 +256,70 @@ mission:     Bridge engineering excellence with business outcomes
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
 
+<!-- ─────────────────────  ENGINEERING FOUNDATIONS  ─────────────────────── -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2E7D32&height=120&section=header&text=Engineering%20Foundations&fontSize=32&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="Engineering Foundations" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=Frameworks+change+every+year.+Fundamentals+do+not." alt="" />
+
+<br/>
+
+</div>
+
+<div align="center">
+
+| Foundation | Depth I Work At |
+|:--|:--|
+| 🧮 &nbsp;**Computer Science Core** | Data structures, algorithmic complexity, concurrency models, memory and I/O behaviour |
+| 🌐 &nbsp;**Distributed Systems** | CAP trade-offs, consistency models, consensus, idempotency, partial-failure design |
+| 🗄️ &nbsp;**Database Engineering** | Query planning, index strategy, transactions and isolation levels, locking, sharding |
+| 🧩 &nbsp;**Design Patterns** | GoF patterns, SOLID, dependency inversion, composition over inheritance |
+| 🔐 &nbsp;**Security Engineering** | OWASP Top 10, threat modelling, secure defaults, secrets handling, supply-chain safety |
+| ⚡ &nbsp;**Performance Engineering** | Profiling, N+1 elimination, caching strategy, Core Web Vitals, load testing |
+| 🧪 &nbsp;**Testing & Quality** | Unit, integration, contract, E2E, property-based; coverage that means something |
+| 🌍 &nbsp;**Networking & Protocols** | HTTP/2-3, TLS, WebSockets, gRPC, DNS, CDN behaviour, caching semantics |
+| ♿ &nbsp;**Accessibility & UX** | WCAG 2.2 AA, semantic markup, keyboard and screen-reader paths |
+| 🧵 &nbsp;**Concurrency & Async** | Event loops, worker pools, backpressure, race and deadlock avoidance |
+| 📦 &nbsp;**Build & Supply Chain** | Reproducible builds, dependency hygiene, SBOM awareness, artefact signing |
+| 🤖 &nbsp;**AI Engineering Core** | Transformer intuition, embeddings, context management, evaluation methodology |
+
+</div>
+
+<div align="center">
+
+<br/>
+
+### 🔬 &nbsp;How I Approach New Problems
+
+<table>
+<tr>
+<td width="20%" align="center"><b>1 · Research</b><br/><sub>Prior art, benchmarks,<br/>trade-off matrix before<br/>picking an approach</sub></td>
+<td width="20%" align="center"><b>2 · Prototype</b><br/><sub>Smallest spike that<br/>proves or kills the<br/>risky assumption</sub></td>
+<td width="20%" align="center"><b>3 · Design</b><br/><sub>Written design with<br/>alternatives considered<br/>and an ADR</sub></td>
+<td width="20%" align="center"><b>4 · Build</b><br/><sub>Incremental, reviewable,<br/>tested, instrumented<br/>from day one</sub></td>
+<td width="20%" align="center"><b>5 · Operate</b><br/><sub>Measure against SLOs,<br/>tune, document,<br/>hand over cleanly</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Research--Led-Evidence%20over%20opinion-00C853?style=for-the-badge&labelColor=0F2027&logo=readthedocs&logoColor=white" alt="Research led" />
+<img src="https://img.shields.io/badge/Trade--Off%20Aware-No%20silver%20bullets-00A344?style=for-the-badge&labelColor=0F2027&logo=balance&logoColor=white" alt="Trade-off aware" />
+<img src="https://img.shields.io/badge/Documented-ADRs%20%C2%B7%20Runbooks%20%C2%B7%20Diagrams-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=notion&logoColor=white" alt="Documented" />
+<img src="https://img.shields.io/badge/Production--First-Not%20a%20demo-2E7D32?style=for-the-badge&labelColor=0F2027&logo=checkmarx&logoColor=white" alt="Production first" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
+
+
 <!-- ──────────────────  SYSTEM DESIGN & ARCHITECTURE  ───────────────────── -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:1B7F3B&height=120&section=header&text=System%20Design%20%26%20Architecture&fontSize=28&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="System Design and Architecture" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:1B7F3B&height=120&section=header&text=System%20Design%20%C2%B7%20Architecture&fontSize=28&fontColor=ffffff&fontAlignY=42&animation=twinkling" alt="System Design and Architecture" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=I+design+the+system+before+I+write+the+first+line" alt="" />
 
