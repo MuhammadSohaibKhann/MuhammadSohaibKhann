@@ -60,35 +60,42 @@
 
 </div>
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
 
-> **I design and ship systems that think.**
-> From production-grade full stack platforms to autonomous AI agents — engineered for scale, measured by impact.
 
-```yaml
-name:        Muhammad Sohaib
-role:        Certified Senior Full-Stack Software & AI Engineer
-             Certified Senior Agentic AI Architect
-             Certified Senior Software Architect
-             Senior AI Research Engineer
-also:        Speaker · Mentor · IT Consultant
-experience:  10+ years
-delivered:   500+ projects · enterprise-grade, global delivery
-             50+ CRM & ERP implementations
-focus:       [ Agentic AI, RAG Systems, LLM Apps, SaaS Platforms ]
-stack:       [ Python, TypeScript, React, Next.js, FastAPI, Node.js ]
-currently:   Building AI agents that do real work, not demos
-mission:     Bridge engineering excellence with business outcomes
-```
+<div align="center">
 
-**What I bring to the table**
+### <i>"I design and ship systems that think."</i>
 
-- 🧠 &nbsp;**AI & Generative AI** — agents, chatbots, RAG pipelines, LLM fine-tuning, AI automation
-- 🏗️ &nbsp;**Software Architecture** — scalable, maintainable systems designed to survive growth
-- ⚡ &nbsp;**Full Stack Delivery** — end-to-end web, mobile and SaaS products, frontend to infrastructure
-- 📈 &nbsp;**Business Strategy** — project management and BD experience that turns tech into revenue
+<sub>From production-grade full stack platforms to autonomous AI agents —<br/>engineered for scale, measured by business impact.</sub>
 
-<br clear="right" />
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/about-console.svg?v=1" alt="Identity console and capability profile radar" />
+
+</div>
+
+<div align="center">
+
+### 💎 &nbsp;What I Bring to the Table
+
+<table>
+<tr>
+<td width="25%" align="center"><b>🧠 AI & Generative AI</b><br/><sub>Agents, chatbots, RAG pipelines,<br/>fine-tuning, AI automation</sub><br/><br/><img src="https://img.shields.io/badge/Depth-Expert-00C853?style=flat-square&labelColor=0F2027" alt="Expert" /></td>
+<td width="25%" align="center"><b>🏗️ Software Architecture</b><br/><sub>Scalable, maintainable systems<br/>designed to survive growth</sub><br/><br/><img src="https://img.shields.io/badge/Depth-Expert-00A344?style=flat-square&labelColor=0F2027" alt="Expert" /></td>
+<td width="25%" align="center"><b>⚡ Full Stack Delivery</b><br/><sub>Web, mobile and SaaS products,<br/>frontend to infrastructure</sub><br/><br/><img src="https://img.shields.io/badge/Depth-Expert-1B7F3B?style=flat-square&labelColor=0F2027" alt="Expert" /></td>
+<td width="25%" align="center"><b>📈 Business Strategy</b><br/><sub>Project management and BD<br/>that turns tech into revenue</sub><br/><br/><img src="https://img.shields.io/badge/Depth-Advanced-2E7D32?style=flat-square&labelColor=0F2027" alt="Advanced" /></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Outcome%20Focused-Metrics%20over%20output-00C853?style=for-the-badge&labelColor=0F2027&logo=target&logoColor=white" alt="Outcome focused" />
+<img src="https://img.shields.io/badge/Ownership-Concept%20to%20production-00A344?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="Full ownership" />
+<img src="https://img.shields.io/badge/Communication-Clear%20%C2%B7%20Async%20%C2%B7%20Documented-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=slack&logoColor=white" alt="Communication" />
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C853,100:0F2027&height=2&section=header" alt="" />
 
