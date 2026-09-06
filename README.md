@@ -8,7 +8,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00A344,100:00C853&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Certified%20Senior%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Agentic%20Systems%20Architect&descAlignY=55&descSize=18&animation=twinkling" alt="Muhammad Sohaib" />
 </a>
 
-<img width="100%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/showreel.svg" alt="Muhammad Sohaib motion showreel" />
+<img width="100%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/showreel.svg?v=20260906c" alt="Muhammad Sohaib motion showreel" />
 
 <a href="https://muhammadsohaibkhan.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=Certified+Senior+Full-Stack+Software+%26+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+AI+Research+Engineer;Speaker+%7C+Mentor+%7C+IT+Consultant;Senior+Forward+Deployed+Engineer;Generative+AI+%26+LLM+Systems+Expert;10%2B+Years+%C2%B7+500%2B+Projects+Delivered" alt="Typing SVG" />
