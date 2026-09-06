@@ -282,12 +282,6 @@ mission:     Bridge engineering excellence with business outcomes
 
 <br/><br/>
 
-### 🔥 &nbsp;Commit Streak
-
-<img width="60%" src="https://streak-stats.demolab.com?user=muhammadsohaibkhann&mode=weekly&hide_border=true&background=0D1117&ring=00C853&fire=FF6F91&currStreakLabel=00C853&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF&stroke=1F2937" alt="Commit streak" />
-
-<br/><br/>
-
 ### 📈 &nbsp;Contribution Volume
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1500&color=00C853&center=true&vCenter=true&width=1000&lines=3%2C300%2B+contributions+and+counting;600%2B+contributions+in+a+single+month;Shipping+production+code+every+week" alt="Contribution volume" />
