@@ -8,6 +8,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00A344,100:00C853&height=230&section=header&text=Muhammad%20Sohaib&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Certified%20Senior%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Agentic%20Systems%20Architect&descAlignY=55&descSize=18&animation=twinkling" alt="Muhammad Sohaib" />
 </a>
 
+<img width="100%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/agentic-core.svg" alt="Animated 3D agentic AI network" />
+
 <a href="https://muhammadsohaibkhan.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=Certified+Senior+Full-Stack+Software+%26+AI+Engineer;Certified+Senior+Agentic+AI+Architect;Certified+Senior+Software+Architect;Senior+AI+Research+Engineer;Speaker+%7C+Mentor+%7C+IT+Consultant;Senior+Forward+Deployed+Engineer;Generative+AI+%26+LLM+Systems+Expert;10%2B+Years+%C2%B7+300%2B+Projects+Delivered" alt="Typing SVG" />
 </a>
@@ -214,9 +216,16 @@ mission:     Bridge engineering excellence with business outcomes
 
 <br/><br/>
 
-### 📈 &nbsp;Six Years of Consistent Contribution
+### 📈 &nbsp;Contribution Volume
 
-<img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadsohaibkhann&theme=github_dark" alt="GitHub profile summary showing 3.33k contributions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=00C853&center=true&vCenter=true&width=900&lines=3%2C300%2B+contributions+and+counting;600%2B+contributions+in+a+single+month;Shipping+production+code+every+week" alt="Contribution volume" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Total%20Contributions-3%2C300%2B-00C853?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Total contributions" />
+<img src="https://img.shields.io/badge/Last%2012%20Months-2%2C365-00A344?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Contributions last 12 months" />
+<img src="https://img.shields.io/badge/Peak%20Month-600%2B-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=graphql&logoColor=white" alt="Peak month" />
+<img src="https://img.shields.io/badge/Trajectory-Accelerating%20%E2%86%97-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Trajectory accelerating" />
 
 <br/>
 
