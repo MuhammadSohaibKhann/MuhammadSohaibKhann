@@ -92,13 +92,7 @@ const block = [
   B('Best%20Single%20Day', `${n(bestDay)}%20commits`, '1DBF73', 'git'),
   B('Active%20Weeks', n(activeWeeks), '00C853', 'githubsponsors'),
   B('Avg%20per%20Active%20Day', avgActive, '00A344', 'starship'),
-  '<br/>',
-  B('Commits', `${n(commits)}%2B`, '1B7F3B', 'git'),
-  B('Pull%20Requests', n(prs), '2E7D32', 'github'),
-  B('Code%20Reviews', n(reviews), '43A047', 'gitlab'),
-  B('Issues%20Handled', n(issues), '1DBF73', 'gitbook'),
-  B('Repositories', n(repos), '00C853', 'databricks'),
-  B('This%20Year', n(thisYear), '00A344', 'githubactions'),
+  B('This%20Year', n(thisYear), '2E7D32', 'githubactions'),
 ].join('\n');
 
 // ── animated per-year contribution bar chart ──
