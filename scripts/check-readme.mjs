@@ -24,5 +24,10 @@ if ((s.match(/<!--STATS:START-->/g) ?? []).length !== 1 ||
     (s.match(/<!--STATS:END-->/g) ?? []).length !== 1)
   errs.push('STATS markers missing or duplicated — the stats workflow would no-op');
 
+// 5. every in-page link must resolve to an explicit named anchor
+const anchors = new Set([...s.matchAll(/<a name="([^"]+)"><\/a>/g)].map(m => m[1]));
+for (const [, target] of s.matchAll(/href="#([^"]+)"/g))
+  if (!anchors.has(target)) errs.push(`in-page link #${target} has no <a name="${target}"> anchor`);
+
 if (errs.length) { console.error('README check failed:\n- ' + errs.join('\n- ')); process.exit(1); }
 console.log('README check passed');
