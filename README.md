@@ -21,13 +21,9 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
 
 <!-- ─────────────────────────────  ABOUT  ───────────────────────────────── -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00C9A7&height=3&section=header" width="100%" alt="" />
-</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34" /> &nbsp;About Me
 
@@ -57,7 +53,7 @@ mission:     Bridge engineering excellence with business outcomes
 
 <br clear="right" />
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
 
 <!-- ────────────────────────  SPECIALIZATIONS  ──────────────────────────── -->
 
@@ -72,7 +68,7 @@ mission:     Bridge engineering excellence with business outcomes
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
 
 <!-- ──────────────────────────  TECH STACK  ─────────────────────────────── -->
 
@@ -119,32 +115,49 @@ mission:     Bridge engineering excellence with business outcomes
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
 
 <!-- ──────────────────────────  GITHUB STATS  ───────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34" /> &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="34" /> &nbsp;Contribution Showcase
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadsohaibkhann&show_icons=true&count_private=true&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsohaibkhann&hide_border=true&stroke=0000&background=0D1117&ring=00C9A7&fire=FF6F91&currStreakLabel=00C9A7" alt="Streak" />
+### 📊 &nbsp;By the Numbers
+
+<img src="https://img.shields.io/badge/Total%20Contributions-3%2C328-00C9A7?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Total contributions" />
+<img src="https://img.shields.io/badge/Last%2012%20Months-2%2C365-2C5364?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Contributions last year" />
+<img src="https://img.shields.io/badge/Longest%20Streak-15%20days-FF6F91?style=for-the-badge&labelColor=0F2027&logo=fireship&logoColor=white" alt="Longest streak" />
+<img src="https://img.shields.io/badge/Contributing%20Since-Jul%202020-845EC2?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="Contributing since" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsohaibkhann&layout=compact&hide_border=true&title_color=00C9A7&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top languages" />
+<img src="https://img.shields.io/badge/Years%20Engineering-10%2B-FFC75F?style=for-the-badge&labelColor=0F2027" alt="Years" />
+<img src="https://img.shields.io/badge/Projects%20Delivered-300%2B-4D8076?style=for-the-badge&labelColor=0F2027" alt="Projects" />
+<img src="https://img.shields.io/badge/CRM%20%26%20ERP%20Builds-50%2B-C34A36?style=for-the-badge&labelColor=0F2027" alt="CRM & ERP" />
+<img src="https://img.shields.io/badge/Freelance%20Rating-5.0%20%E2%98%85-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Rating" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsohaibkhann&bg_color=0d1117&color=00C9A7&line=00C9A7&point=FF6F91&area=true&hide_border=true" alt="Contribution graph" />
+### 🔥 &nbsp;Commit Streak
 
-<br/>
+<img width="60%" src="https://streak-stats.demolab.com?user=muhammadsohaibkhann&hide_border=true&background=0D1117&ring=00C9A7&fire=FF6F91&currStreakLabel=00C9A7&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF&stroke=1F2937" alt="Commit streak" />
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=muhammadsohaibkhann&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<br/><br/>
+
+### 📈 &nbsp;Activity Profile
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadsohaibkhann&theme=github_dark" alt="Profile summary" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadsohaibkhann&theme=github_dark" alt="Commit stats" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadsohaibkhann&theme=github_dark" alt="Most committed languages" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadsohaibkhann&theme=github_dark&utcOffset=5" alt="Productive time" />
+
+<br/><br/>
+
+<img width="98%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
 
 <!-- ────────────────────────  NOTABLE PROJECTS  ─────────────────────────── -->
 
@@ -163,7 +176,7 @@ mission:     Bridge engineering excellence with business outcomes
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
 
 <!-- ────────────────────────────  SERVICES  ─────────────────────────────── -->
 
@@ -181,7 +194,7 @@ mission:     Bridge engineering excellence with business outcomes
 
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
 
 <!-- ─────────────────────────  CERTIFICATIONS  ──────────────────────────── -->
 
@@ -225,7 +238,7 @@ mission:     Bridge engineering excellence with business outcomes
 
 </details>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00C9A7,100:0F2027&height=2&section=header" alt="" />
 
 <!-- ─────────────────────────────  CONNECT  ─────────────────────────────── -->
 
@@ -270,10 +283,6 @@ mission:     Bridge engineering excellence with business outcomes
 
 <i>I believe in the power of remote collaboration. Whether it's scalable applications,<br/>
 user-focused products, or AI-powered systems — I create meaningful impact from anywhere.</i>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 
 </div>
 
