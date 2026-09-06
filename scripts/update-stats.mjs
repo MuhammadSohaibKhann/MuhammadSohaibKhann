@@ -60,6 +60,8 @@ const months  = {};
 past.forEach(d => { const k = d.date.slice(0, 7); months[k] = (months[k] || 0) + d.contributionCount; });
 const bestMonth  = Math.max(...Object.values(months));
 const activeDays = past.filter(d => d.contributionCount > 0).length;
+const thisYear = past.filter(d => d.date >= `${now.getUTCFullYear()}-01-01`).reduce((s,d)=>s+d.contributionCount,0);
+const avgActive = activeDays ? (total/activeDays).toFixed(1) : '0';
 const activeWeeks = new Set(past.filter(d => d.contributionCount > 0)
   .map(d => { const t = new Date(d.date); t.setUTCDate(t.getUTCDate() - t.getUTCDay()); return t.toISOString().slice(0,10); })).size;
 
@@ -74,9 +76,10 @@ const block = [
   B('Active%20Days', n(activeDays), '2E7D32', 'gitbook'),
   '<br/>',
   B('Peak%20Month', `${n(bestMonth)}%2B`, '43A047', 'graphql'),
-  B('Best%20Day', `${n(bestDay)}%20commits`, '1DBF73', 'git'),
+  B('Best%20Single%20Day', `${n(bestDay)}%20commits`, '1DBF73', 'git'),
   B('Active%20Weeks', n(activeWeeks), '00C853', 'githubsponsors'),
-  B('Current%20Streak', `${current}%20days`, '00A344', 'starship'),
+  B('Avg%20per%20Active%20Day', avgActive, '00A344', 'starship'),
+  B('This%20Year', n(thisYear), '2E7D32', 'githubactions'),
 ].join('\n');
 
 const readme = readFileSync('README.md', 'utf8');

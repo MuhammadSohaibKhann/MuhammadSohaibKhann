@@ -301,9 +301,9 @@ mission:     Bridge engineering excellence with business outcomes
 <img src="https://img.shields.io/badge/Active%20Days-315-2E7D32?style=for-the-badge&labelColor=0F2027&logo=gitbook&logoColor=white" alt="Active Days" />
 <br/>
 <img src="https://img.shields.io/badge/Peak%20Month-580%2B-43A047?style=for-the-badge&labelColor=0F2027&logo=graphql&logoColor=white" alt="Peak Month" />
-<img src="https://img.shields.io/badge/Best%20Day-111%20commits-1DBF73?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="Best Day" />
+<img src="https://img.shields.io/badge/Best%20Single%20Day-111%20commits-1DBF73?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="Best Single Day" />
 <img src="https://img.shields.io/badge/Active%20Weeks-91-00C853?style=for-the-badge&labelColor=0F2027&logo=githubsponsors&logoColor=white" alt="Active Weeks" />
-<img src="https://img.shields.io/badge/Current%20Streak-1%20days-00A344?style=for-the-badge&labelColor=0F2027&logo=starship&logoColor=white" alt="Current Streak" />
+<img src="https://img.shields.io/badge/Avg%20per%20Active%20Day-10.6-00A344?style=for-the-badge&labelColor=0F2027&logo=starship&logoColor=white" alt="Avg per Active Day" />
 <!--STATS:END-->
 
 <sub>🔄 &nbsp;<i>These figures refresh automatically every day from the GitHub GraphQL API — see <a href="scripts/update-stats.mjs">scripts/update-stats.mjs</a></i></sub>
