@@ -19,7 +19,8 @@
 <img src="https://komarev.com/ghpvc/?username=muhammadsohaibkhann&label=Profile%20Views&color=00C853&style=for-the-badge" alt="Profile views" />
 <a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/Open%20to-Remote%20Work-00C853?style=for-the-badge&labelColor=0F2027" alt="Open to remote work" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Pakistan%20%C2%B7%20Working%20Worldwide-00A344?style=for-the-badge&labelColor=0F2027" alt="Location" />
-<img src="https://img.shields.io/badge/Certified-Google%20%C2%B7%20IBM%20%C2%B7%20DeepLearning.AI-1B7F3B?style=for-the-badge&labelColor=0F2027" alt="Certified" />
+<img src="https://img.shields.io/badge/Google%20Certified-Professional-4285F4?style=for-the-badge&labelColor=0F2027&logo=google&logoColor=white" alt="Google Certified Professional" />
+<img src="https://img.shields.io/badge/IBM%20Certified-AI%20Engineering-0F62FE?style=for-the-badge&labelColor=0F2027&logo=ibm&logoColor=white" alt="IBM Certified AI Engineering" />
 <img src="https://img.shields.io/badge/Speaker%20%C2%B7%20Mentor-Tech%20Community-1DBF73?style=for-the-badge&labelColor=0F2027" alt="Speaker and mentor" />
 <img src="https://img.shields.io/badge/500%2B%20Projects-Enterprise%20Grade%20%C2%B7%20Global-00C853?style=for-the-badge&labelColor=0F2027" alt="500+ enterprise grade projects delivered globally" />
 
@@ -216,20 +217,29 @@ mission:     Bridge engineering excellence with business outcomes
 
 ### 🔥 &nbsp;Commit Streak
 
-<img width="60%" src="https://streak-stats.demolab.com?user=muhammadsohaibkhann&hide_border=true&background=0D1117&ring=00C853&fire=FF6F91&currStreakLabel=00C853&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF&stroke=1F2937" alt="Commit streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=muhammadsohaibkhann&mode=weekly&hide_border=true&background=0D1117&ring=00C853&fire=FF6F91&currStreakLabel=00C853&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF&stroke=1F2937" alt="Commit streak" />
 
 <br/><br/>
 
 ### 📈 &nbsp;Contribution Volume
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=00C853&center=true&vCenter=true&width=900&lines=3%2C300%2B+contributions+and+counting;600%2B+contributions+in+a+single+month;Shipping+production+code+every+week" alt="Contribution volume" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1500&color=00C853&center=true&vCenter=true&width=1000&lines=3%2C300%2B+contributions+and+counting;600%2B+contributions+in+a+single+month;Shipping+production+code+every+week" alt="Contribution volume" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Total%20Contributions-3%2C300%2B-00C853?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Total contributions" />
-<img src="https://img.shields.io/badge/Last%2012%20Months-2%2C365-00A344?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Contributions last 12 months" />
-<img src="https://img.shields.io/badge/Peak%20Month-600%2B-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=graphql&logoColor=white" alt="Peak month" />
-<img src="https://img.shields.io/badge/Trajectory-Accelerating%20%E2%86%97-2E7D32?style=for-the-badge&labelColor=0F2027" alt="Trajectory accelerating" />
+<!--STATS:START-->
+<img src="https://img.shields.io/badge/Total%20Contributions-3%2C328%2B-00C853?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Total Contributions" />
+<img src="https://img.shields.io/badge/Last%2012%20Months-2%2C365-00A344?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Last 12 Months" />
+<img src="https://img.shields.io/badge/Longest%20Streak-15%20days-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=fireship&logoColor=white" alt="Longest Streak" />
+<img src="https://img.shields.io/badge/Active%20Days-800%2B-2E7D32?style=for-the-badge&labelColor=0F2027&logo=gitbook&logoColor=white" alt="Active Days" />
+<br/>
+<img src="https://img.shields.io/badge/Peak%20Month-600%2B-43A047?style=for-the-badge&labelColor=0F2027&logo=graphql&logoColor=white" alt="Peak Month" />
+<img src="https://img.shields.io/badge/Best%20Day-40%20commits-1DBF73?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="Best Day" />
+<img src="https://img.shields.io/badge/Active%20Weeks-180%2B-00C853?style=for-the-badge&labelColor=0F2027&logo=githubsponsors&logoColor=white" alt="Active Weeks" />
+<img src="https://img.shields.io/badge/Current%20Streak-live-00A344?style=for-the-badge&labelColor=0F2027&logo=starship&logoColor=white" alt="Current Streak" />
+<!--STATS:END-->
+
+<sub>🔄 &nbsp;<i>These figures refresh automatically every day from the GitHub GraphQL API — see <a href="scripts/update-stats.mjs">scripts/update-stats.mjs</a></i></sub>
 
 <br/>
 
@@ -476,14 +486,35 @@ full references and architecture walkthroughs available on request.</i>
 
 <div align="center">
 
+**Certified & verified by**
+
+<img src="https://img.shields.io/badge/Google-Certified%20Professional-4285F4?style=for-the-badge&labelColor=0F2027&logo=google&logoColor=white" alt="Google Certified Professional" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&labelColor=0F2027&logo=googlecloud&logoColor=white" alt="Google Cloud Certified" />
+<img src="https://img.shields.io/badge/IBM-Certified-0F62FE?style=for-the-badge&labelColor=0F2027&logo=ibm&logoColor=white" alt="IBM Certified" />
+<img src="https://img.shields.io/badge/DeepLearning.AI-Certified-EF4A4A?style=for-the-badge&labelColor=0F2027&logo=deeplearningdotai&logoColor=white" alt="DeepLearning.AI Certified" />
+<br/>
+<img src="https://img.shields.io/badge/Coursera-Verified-0056D2?style=for-the-badge&labelColor=0F2027&logo=coursera&logoColor=white" alt="Coursera Verified" />
+<img src="https://img.shields.io/badge/LinkedIn%20Learning-Certified-0A66C2?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="LinkedIn Learning Certified" />
+<img src="https://img.shields.io/badge/Pendo-Certified-FF4876?style=for-the-badge&labelColor=0F2027&logo=pendo&logoColor=white" alt="Pendo Certified" />
+<img src="https://img.shields.io/badge/GitHub-Git%20%26%20GitHub%20Certified-181717?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="GitHub Certified" />
+
+<br/><br/>
+
 **What these credentials back up**
 
-<img src="https://img.shields.io/badge/Agentic%20AI%20%26%20RAG-IBM%20Certified-00C853?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="Agentic AI and RAG - IBM Certified" />
-<img src="https://img.shields.io/badge/LLM%20Fine--Tuning-IBM%20Certified-00C853?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="LLM Fine-Tuning - IBM Certified" />
-<img src="https://img.shields.io/badge/Deep%20Learning%20%26%20MLOps-IBM%20Certified-00C853?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="Deep Learning and MLOps - IBM Certified" />
-<img src="https://img.shields.io/badge/Cloud%20%26%20IaC-Google%20Certified-00A344?style=flat-square&labelColor=0F2027&logo=googlecloud&logoColor=white" alt="Cloud and IaC - Google Certified" />
-<img src="https://img.shields.io/badge/Python%20Automation-Google%20Certified-00A344?style=flat-square&labelColor=0F2027&logo=google&logoColor=white" alt="Python Automation - Google Certified" />
-<img src="https://img.shields.io/badge/AI%20Product%20Strategy-Pendo%20Certified-1B7F3B?style=flat-square&labelColor=0F2027&logo=pendo&logoColor=white" alt="AI Product Strategy - Pendo Certified" />
+<img src="https://img.shields.io/badge/Agentic%20AI%20%26%20RAG-IBM-0F62FE?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="Agentic AI and RAG - IBM" />
+<img src="https://img.shields.io/badge/LLM%20Fine--Tuning-IBM-0F62FE?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="LLM Fine-Tuning - IBM" />
+<img src="https://img.shields.io/badge/Deep%20Learning%20%26%20MLOps-IBM-0F62FE?style=flat-square&labelColor=0F2027&logo=ibm&logoColor=white" alt="Deep Learning and MLOps - IBM" />
+<img src="https://img.shields.io/badge/Applied%20AI%20Strategy-DeepLearning.AI-EF4A4A?style=flat-square&labelColor=0F2027&logo=deeplearningdotai&logoColor=white" alt="Applied AI Strategy" />
+<br/>
+<img src="https://img.shields.io/badge/Cloud%20%26%20IaC-Google%20Cloud-4285F4?style=flat-square&labelColor=0F2027&logo=googlecloud&logoColor=white" alt="Cloud and IaC - Google Cloud" />
+<img src="https://img.shields.io/badge/Python%20Automation-Google-4285F4?style=flat-square&labelColor=0F2027&logo=python&logoColor=white" alt="Python Automation - Google" />
+<img src="https://img.shields.io/badge/Troubleshooting%20%26%20Debugging-Google-4285F4?style=flat-square&labelColor=0F2027&logo=google&logoColor=white" alt="Troubleshooting and Debugging - Google" />
+<img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-181717?style=flat-square&labelColor=0F2027&logo=git&logoColor=white" alt="Version Control - Git and GitHub" />
+<br/>
+<img src="https://img.shields.io/badge/AI%20Product%20Strategy-Pendo-FF4876?style=flat-square&labelColor=0F2027&logo=pendo&logoColor=white" alt="AI Product Strategy - Pendo" />
+<img src="https://img.shields.io/badge/JavaScript%20Engineering-LinkedIn-F7DF1E?style=flat-square&labelColor=0F2027&logo=javascript&logoColor=black" alt="JavaScript Engineering" />
+<img src="https://img.shields.io/badge/Entrepreneurship-GSU-002855?style=flat-square&labelColor=0F2027&logo=academia&logoColor=white" alt="Entrepreneurship - GSU" />
 
 </div>
 
