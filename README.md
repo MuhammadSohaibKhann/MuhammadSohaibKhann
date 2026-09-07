@@ -31,6 +31,11 @@
 <a href="https://www.linkedin.com/in/muhammadsohaibkhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0F2027&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="40" /></a>
 <a href="https://muhammadsohaibkhan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-View%20Work-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=netlify&logoColor=white" alt="View portfolio" height="40" /></a>
 
+<a href="https://github.com/MuhammadSohaibKhann?tab=followers"><img src="https://img.shields.io/github/followers/MuhammadSohaibKhann?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027&color=00C853&label=GitHub%20Followers" alt="GitHub followers" height="30" /></a>
+<a href="https://github.com/SolnetInfoOfficial"><img src="https://img.shields.io/badge/Organisation-SolnetInfo-00A344?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" alt="SolnetInfo organisation on GitHub" height="30" /></a>
+<a href="https://github.com/MuhammadSohaibKhann?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-1B7F3B?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" alt="Explore repositories" height="30" /></a>
+<a href="https://github.com/MuhammadSohaibKhann/MuhammadSohaibKhann/actions"><img src="https://img.shields.io/github/actions/workflow/status/MuhammadSohaibKhann/MuhammadSohaibKhann/stats.yml?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0F2027&color=2E7D32&label=Profile%20Automation" alt="Profile automation status" height="30" /></a>
+
 <sub><b>Hiring teams:</b> open to senior remote roles worldwide &nbsp;·&nbsp; <b>Clients:</b> taking on select engagements this quarter</sub>
 
 <br/>
