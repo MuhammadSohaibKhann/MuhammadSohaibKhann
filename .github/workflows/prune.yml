@@ -1,0 +1,22 @@
+name: Prune stale branches
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Delete every branch except main and output
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for b in $(gh api "repos/${GITHUB_REPOSITORY}/branches?per_page=100" --jq '.[].name'); do
+            case "$b" in main|output) ;; *)
+              echo "deleting $b"
+              gh api -X DELETE "repos/${GITHUB_REPOSITORY}/git/refs/heads/${b}" ;;
+            esac
+          done
