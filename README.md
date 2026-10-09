@@ -689,7 +689,7 @@
 
 <!--STATS:START-->
 <img src="https://img.shields.io/badge/Total%20Contributions-3%2C762%2B-00C853?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="Total Contributions" />
-<img src="https://img.shields.io/badge/Last%2012%20Months-2%2C797-00A344?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Last 12 Months" />
+<img src="https://img.shields.io/badge/Last%2012%20Months-2%2C796-00A344?style=for-the-badge&labelColor=0F2027&logo=githubactions&logoColor=white" alt="Last 12 Months" />
 <img src="https://img.shields.io/badge/Longest%20Streak-15%20days-1B7F3B?style=for-the-badge&labelColor=0F2027&logo=fireship&logoColor=white" alt="Longest Streak" />
 <img src="https://img.shields.io/badge/Active%20Days-339-2E7D32?style=for-the-badge&labelColor=0F2027&logo=gitbook&logoColor=white" alt="Active Days" />
 <br/>
@@ -730,7 +730,7 @@
 
 <br/>
 
-<img width="92%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/contributions.svg?v=20261008" alt="Contributions this year" />
+<img width="92%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/contributions.svg?v=20261009" alt="Contributions this year" />
 
 <br/>
 
