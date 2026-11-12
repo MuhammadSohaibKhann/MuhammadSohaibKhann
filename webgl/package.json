@@ -1,0 +1,11 @@
+{
+  "name": "profile-webgl-hero",
+  "private": true,
+  "description": "Renders the README hero: a Three.js + GLSL scene captured frame by frame and assembled into a seamless animated WebP.",
+  "scripts": {
+    "frames": "node capture.js",
+    "build": "python3 build.py ../assets/webgl-hero.webp",
+    "render": "npm run frames && npm run build"
+  },
+  "dependencies": { "three": "0.170.0", "playwright": "^1.50.0" }
+}

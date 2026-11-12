@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2A25C&center=true&vCenter=true&width=1000&lines=Hire+me+as+your+AI+Architect;AI+Developer;Agentic+%26+Voice+AI+Engineer;Full-Stack+Engineer;Fractional+CTO;AI+Consultant;10%2B+years+%C2%B7+500%2B+projects+%C2%B7+50%2B+countries" alt="AI Architect, AI Developer, Agentic and Voice AI Engineer, Full-Stack Engineer, Fractional CTO, AI Consultant" />
 </a>
 
+<img width="100%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/webgl-hero.webp?v=1" alt="Real-time WebGL scene: Three.js agentic core with GLSL nebula and particle field" />
+
+<sub><i>Rendered with Three.js + custom GLSL shaders · <a href="webgl">source</a></i></sub>
+
 <p><b>I architect and build enterprise platforms and agentic AI systems end to end —<br/>from the first diagram to a production deployment international teams depend on.</b></p>
 
 <img width="100%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/showreel.svg?v=20261112" alt="Motion showreel: agentic AI, voice, web, design, mobile, motion and enterprise work" />

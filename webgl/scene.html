@@ -1,0 +1,64 @@
+<!doctype html><html><head><style>html,body{margin:0;background:#070A10;overflow:hidden}</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.min.js"}}</script></head><body>
+<script type="module">
+import * as THREE from 'three';
+const W=1200,H=360,F=72;               // 72 frames = seamless loop
+const r=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});
+r.setSize(W,H); r.setPixelRatio(1); document.body.appendChild(r.domElement);
+const scene=new THREE.Scene(), cam=new THREE.PerspectiveCamera(38,W/H,.1,100); cam.position.set(0,0,9);
+
+// 1 · full-screen GLSL nebula: domain-warped fbm in the site's amber
+const bg=new THREE.Mesh(new THREE.PlaneGeometry(2,2),new THREE.ShaderMaterial({
+ depthWrite:false,uniforms:{t:{value:0},res:{value:new THREE.Vector2(W,H)}},
+ vertexShader:`varying vec2 v;void main(){v=uv;gl_Position=vec4(position.xy,0.,1.);}`,
+ fragmentShader:`precision highp float;varying vec2 v;uniform float t;uniform vec2 res;
+ float h(vec2 p){return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453);}
+ float n(vec2 p){vec2 i=floor(p),f=fract(p);f=f*f*(3.-2.*f);
+  return mix(mix(h(i),h(i+vec2(1,0)),f.x),mix(h(i+vec2(0,1)),h(i+vec2(1,1)),f.x),f.y);}
+ float fbm(vec2 p){float s=0.,a=.5;for(int i=0;i<5;i++){s+=a*n(p);p*=2.02;a*=.5;}return s;}
+ void main(){vec2 p=(v-.5)*vec2(res.x/res.y,1.)*2.2;
+  float a=t*6.2831853;vec2 o=vec2(cos(a),sin(a))*.55;          // circular offset → perfect loop
+  vec2 q=vec2(fbm(p+o),fbm(p-o+3.1));
+  float f=fbm(p+2.4*q+o*.6);
+  vec3 ink=vec3(.027,.039,.063), amb=vec3(.949,.635,.361), ember=vec3(.54,.31,.12);
+  vec3 c=mix(ink,ember,smoothstep(.35,.85,f));
+  c=mix(c,amb,pow(smoothstep(.55,1.,f),2.5)*.85);
+  c*=.55+.45*smoothstep(1.4,0.,length(p*vec2(.55,1.)));       // vignette toward centre
+  gl_FragColor=vec4(c,1.);}`}));
+bg.frustumCulled=false; scene.add(bg);
+
+// 2 · 3D core: icosahedral wire shells + fresnel-glow sphere
+const core=new THREE.Group(); scene.add(core);
+const glow=new THREE.Mesh(new THREE.SphereGeometry(.95,64,64),new THREE.ShaderMaterial({
+ transparent:true,blending:THREE.AdditiveBlending,depthWrite:false,
+ vertexShader:`varying vec3 n,vv;void main(){n=normalize(normalMatrix*normal);vec4 m=modelViewMatrix*vec4(position,1.);vv=normalize(-m.xyz);gl_Position=projectionMatrix*m;}`,
+ fragmentShader:`varying vec3 n,vv;void main(){float f=pow(1.-max(dot(n,vv),0.),2.2);gl_FragColor=vec4(vec3(.95,.64,.36)*(f*1.6+.08),f);}`}));
+core.add(glow);
+[[1.25,1,.9],[1.75,1,.35],[2.3,2,.16]].forEach(([s,d,o])=>core.add(new THREE.LineSegments(
+ new THREE.EdgesGeometry(new THREE.IcosahedronGeometry(s,d)),
+ new THREE.LineBasicMaterial({color:0xF2A25C,transparent:true,opacity:o,blending:THREE.AdditiveBlending}))));
+
+// 3 · orbiting particle field with soft round sprites
+const N=1400,pos=new Float32Array(N*3),seed=[];
+for(let i=0;i<N;i++){const rr=2.8+Math.random()*5.5,a=Math.random()*6.283,y=(Math.random()-.5)*2.4;seed.push([rr,a,y,.4+Math.random()]);}
+const pg=new THREE.BufferGeometry();pg.setAttribute('position',new THREE.BufferAttribute(pos,3));
+const spr=document.createElement('canvas');spr.width=spr.height=64;{const g=spr.getContext('2d'),gr=g.createRadialGradient(32,32,0,32,32,32);
+ gr.addColorStop(0,'rgba(255,224,194,1)');gr.addColorStop(.35,'rgba(242,162,92,.6)');gr.addColorStop(1,'rgba(242,162,92,0)');g.fillStyle=gr;g.fillRect(0,0,64,64);}
+const pts=new THREE.Points(pg,new THREE.PointsMaterial({size:.16,map:new THREE.CanvasTexture(spr),transparent:true,depthWrite:false,blending:THREE.AdditiveBlending}));
+scene.add(pts);
+
+// 4 · ring of light
+const ring=new THREE.Mesh(new THREE.TorusGeometry(3.2,.012,8,256),new THREE.MeshBasicMaterial({color:0xF7BE8A,transparent:true,opacity:.55,blending:THREE.AdditiveBlending}));
+ring.rotation.x=1.25;scene.add(ring);
+
+window.frame=i=>{const t=i/F, a=t*Math.PI*2;
+ bg.material.uniforms.t.value=t;
+ core.rotation.set(Math.sin(a)*.35,a,0); core.children.forEach((c,k)=>{if(k>0)c.rotation.y=a*(k%2?-1:1)*k*.5;});
+ glow.scale.setScalar(1+Math.sin(a*2)*.06);
+ for(let k=0;k<N;k++){const[rr,a0,y,sp]=seed[k],q=a0+a*Math.round(sp*2)/2; // integer-ish turns keep loop seamless
+  pos[k*3]=Math.cos(q)*rr;pos[k*3+1]=y+Math.sin(a*2+a0)*.25;pos[k*3+2]=Math.sin(q)*rr*.45;}
+ pg.attributes.position.needsUpdate=true;
+ ring.rotation.z=a; cam.position.x=Math.sin(a)*.6; cam.lookAt(0,0,0);
+ r.render(scene,cam);};
+window.ready=true;
+</script></body></html>
