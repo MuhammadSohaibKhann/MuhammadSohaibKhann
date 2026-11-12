@@ -234,7 +234,6 @@ I communicate plainly, challenge requirements that do not serve the business, an
 **AI & LLMs**
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&labelColor=0D121D&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=0D121D&logo=anthropic&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&labelColor=0D121D&logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&labelColor=0D121D&logo=mistralai&logoColor=white" alt="Mistral" />
 <img src="https://img.shields.io/badge/Meta%20Llama-0866FF?style=for-the-badge&labelColor=0D121D&logo=meta&logoColor=white" alt="Meta Llama" />
