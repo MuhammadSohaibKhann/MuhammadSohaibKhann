@@ -80,19 +80,19 @@ const activeWeeks = new Set(past.filter(d => d.contributionCount > 0)
 
 const n = v => v.toLocaleString('en-US').replace(/,/g, '%2C');
 const B = (label, value, color, logo) =>
-  `<img src="https://img.shields.io/badge/${label}-${value}-${color}?style=for-the-badge&labelColor=0F2027${logo ? `&logo=${logo}&logoColor=white` : ''}" alt="${label.replace(/%20/g, ' ')}" />`;
+  `<img src="https://img.shields.io/badge/${label}-${value}-${color}?style=for-the-badge&labelColor=0D121D${logo ? `&logo=${logo}&logoColor=white` : ''}" alt="${label.replace(/%20/g, ' ')}" />`;
 
 const block = [
-  B('Total%20Contributions', `${n(total)}%2B`, '00C853', 'github'),
-  B('Last%2012%20Months', n(last12), '00A344', 'githubactions'),
-  B('Longest%20Streak', `${longest}%20days`, '1B7F3B', 'fireship'),
-  B('Active%20Days', n(activeDays), '2E7D32', 'gitbook'),
+  B('Total%20Contributions', `${n(total)}%2B`, 'F2A25C', 'github'),
+  B('Last%2012%20Months', n(last12), 'D98A42', 'githubactions'),
+  B('Longest%20Streak', `${longest}%20days`, 'B8702F', 'fireship'),
+  B('Active%20Days', n(activeDays), '8F5A28', 'gitbook'),
   '<br/>',
-  B('Peak%20Month', `${n(bestMonth)}%2B`, '43A047', 'graphql'),
-  B('Best%20Single%20Day', `${n(bestDay)}%20commits`, '1DBF73', 'git'),
-  B('Active%20Weeks', n(activeWeeks), '00C853', 'githubsponsors'),
-  B('Avg%20per%20Active%20Day', avgActive, '00A344', 'starship'),
-  B('This%20Year', n(thisYear), '2E7D32', 'githubactions'),
+  B('Peak%20Month', `${n(bestMonth)}%2B`, 'E09A55', 'graphql'),
+  B('Best%20Single%20Day', `${n(bestDay)}%20commits`, 'F7BE8A', 'git'),
+  B('Active%20Weeks', n(activeWeeks), 'F2A25C', 'githubsponsors'),
+  B('Avg%20per%20Active%20Day', avgActive, 'D98A42', 'starship'),
+  B('This%20Year', n(thisYear), '8F5A28', 'githubactions'),
 ].join('\n');
 
 // ── animated monthly contribution chart (trailing 18 months) ──
@@ -108,17 +108,17 @@ const peak = series.reduce((a, b) => (b.v > a.v ? b : a), series[0]);
 let chart = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${CW} ${CH}" width="${CW}" height="${CH}" role="img" aria-label="Monthly contributions">
 <defs>
 <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
-<stop offset="0%" stop-color="#0F2027"/><stop offset="45%" stop-color="#00A344"/><stop offset="100%" stop-color="#00C853"/></linearGradient>
+<stop offset="0%" stop-color="#0D121D"/><stop offset="45%" stop-color="#D98A42"/><stop offset="100%" stop-color="#F2A25C"/></linearGradient>
 <linearGradient id="hot" x1="0" y1="1" x2="0" y2="0">
-<stop offset="0%" stop-color="#0F2027"/><stop offset="45%" stop-color="#00C853"/><stop offset="100%" stop-color="#B9F6CA"/></linearGradient>
+<stop offset="0%" stop-color="#0D121D"/><stop offset="45%" stop-color="#F2A25C"/><stop offset="100%" stop-color="#FFE0C2"/></linearGradient>
 </defs>
-<rect width="${CW}" height="${CH}" fill="#0d1117"/>
-<text x="${PAD}" y="32" fill="#ffffff" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">${YR} CONTRIBUTIONS</text>
-<text x="${CW - PAD}" y="32" fill="#00C853" font-family="'Fira Code',monospace" font-size="14" text-anchor="end">${thisYear.toLocaleString('en-US')} this year</text>`;
+<rect width="${CW}" height="${CH}" fill="#070A10"/>
+<text x="${PAD}" y="32" fill="#ffffff" font-family="Fraunces,Georgia,serif" font-size="15" font-weight="700" letter-spacing="2">${YR} CONTRIBUTIONS</text>
+<text x="${CW - PAD}" y="32" fill="#F2A25C" font-family="'Fira Code',monospace" font-size="14" text-anchor="end">${thisYear.toLocaleString('en-US')} this year</text>`;
 
 for (let g = 1; g <= 3; g++) {
   const gy = 62 + ((CH - 118) / 3) * g;
-  chart += `<line x1="${PAD}" y1="${gy.toFixed(0)}" x2="${CW - PAD}" y2="${gy.toFixed(0)}" stroke="#2E7D32" stroke-width=".6" opacity=".25"/>`;
+  chart += `<line x1="${PAD}" y1="${gy.toFixed(0)}" x2="${CW - PAD}" y2="${gy.toFixed(0)}" stroke="#8F5A28" stroke-width=".6" opacity=".25"/>`;
 }
 series.forEach((m, i) => {
   const x = PAD + i * (BW + GAP);
@@ -128,13 +128,13 @@ series.forEach((m, i) => {
   chart += `<rect x="${x.toFixed(1)}" y="${CH - 56}" width="${BW.toFixed(1)}" height="0" rx="4" fill="url(#${isPeak ? 'hot' : 'bar'})">
 <animate attributeName="height" values="0;${h}" dur="1s" begin="${(i * 0.07).toFixed(2)}s" fill="freeze" calcMode="spline" keySplines=".2 .85 .2 1" keyTimes="0;1"/>
 <animate attributeName="y" values="${CH - 56};${y}" dur="1s" begin="${(i * 0.07).toFixed(2)}s" fill="freeze" calcMode="spline" keySplines=".2 .85 .2 1" keyTimes="0;1"/></rect>
-<text x="${(x + BW / 2).toFixed(1)}" y="${y - 8}" fill="${isPeak ? '#B9F6CA' : '#00C853'}" font-family="'Fira Code',monospace" font-size="11" font-weight="700" text-anchor="middle" opacity="0">
+<text x="${(x + BW / 2).toFixed(1)}" y="${y - 8}" fill="${isPeak ? '#FFE0C2' : '#F2A25C'}" font-family="'Fira Code',monospace" font-size="11" font-weight="700" text-anchor="middle" opacity="0">
 <animate attributeName="opacity" values="0;1" dur=".45s" begin="${(i * 0.07 + 0.7).toFixed(2)}s" fill="freeze"/>${m.v}</text>
-<text x="${(x + BW / 2).toFixed(1)}" y="${CH - 34}" fill="#8b949e" font-family="'Fira Code',monospace" font-size="10" text-anchor="middle">${MON[Number(m.k.slice(5, 7)) - 1]}</text>`;
+<text x="${(x + BW / 2).toFixed(1)}" y="${CH - 34}" fill="#94A1B8" font-family="'Fira Code',monospace" font-size="10" text-anchor="middle">${MON[Number(m.k.slice(5, 7)) - 1]}</text>`;
 });
-chart += `<line x1="${PAD}" y1="${CH - 56}" x2="${CW - PAD}" y2="${CH - 56}" stroke="#00C853" stroke-width="1.2" opacity=".55"/>
-<text x="${PAD}" y="${CH - 12}" fill="#8b949e" font-family="'Fira Code',monospace" font-size="11">peak ${peak.v} contributions in a single month</text>
-<text x="${CW - PAD}" y="${CH - 12}" fill="#8b949e" font-family="'Fira Code',monospace" font-size="11" text-anchor="end">avg ${Math.round(series.reduce((a,b)=>a+b.v,0)/series.length)} / month</text></svg>`;
+chart += `<line x1="${PAD}" y1="${CH - 56}" x2="${CW - PAD}" y2="${CH - 56}" stroke="#F2A25C" stroke-width="1.2" opacity=".55"/>
+<text x="${PAD}" y="${CH - 12}" fill="#94A1B8" font-family="'Fira Code',monospace" font-size="11">peak ${peak.v} contributions in a single month</text>
+<text x="${CW - PAD}" y="${CH - 12}" fill="#94A1B8" font-family="'Fira Code',monospace" font-size="11" text-anchor="end">avg ${Math.round(series.reduce((a,b)=>a+b.v,0)/series.length)} / month</text></svg>`;
 writeFileSync('assets/contributions.svg', chart);
 // bust GitHub's camo image cache by versioning the URL in the README
 const stamp = now.toISOString().slice(0,10).replace(/-/g,'');
