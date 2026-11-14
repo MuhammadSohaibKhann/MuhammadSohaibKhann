@@ -382,23 +382,23 @@ I communicate plainly, challenge requirements that do not serve the business, an
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=F2A25C&center=true&vCenter=true&width=900&lines=Live+from+GitHub+%C2%B7+refreshed+daily" alt="" />
 
 <!--STATS:START-->
-<img src="https://img.shields.io/badge/Total%20Contributions-4%2C358%2B-F2A25C?style=for-the-badge&labelColor=0D121D&logo=github&logoColor=white" alt="Total Contributions" />
-<img src="https://img.shields.io/badge/Last%2012%20Months-3%2C250-D98A42?style=for-the-badge&labelColor=0D121D&logo=githubactions&logoColor=white" alt="Last 12 Months" />
+<img src="https://img.shields.io/badge/Total%20Contributions-4%2C420%2B-F2A25C?style=for-the-badge&labelColor=0D121D&logo=github&logoColor=white" alt="Total Contributions" />
+<img src="https://img.shields.io/badge/Last%2012%20Months-3%2C312-D98A42?style=for-the-badge&labelColor=0D121D&logo=githubactions&logoColor=white" alt="Last 12 Months" />
 <img src="https://img.shields.io/badge/Longest%20Streak-15%20days-B8702F?style=for-the-badge&labelColor=0D121D&logo=fireship&logoColor=white" alt="Longest Streak" />
-<img src="https://img.shields.io/badge/Active%20Days-360-8F5A28?style=for-the-badge&labelColor=0D121D&logo=gitbook&logoColor=white" alt="Active Days" />
+<img src="https://img.shields.io/badge/Active%20Days-362-8F5A28?style=for-the-badge&labelColor=0D121D&logo=gitbook&logoColor=white" alt="Active Days" />
 <br/>
 <img src="https://img.shields.io/badge/Peak%20Month-580%2B-E09A55?style=for-the-badge&labelColor=0D121D&logo=graphql&logoColor=white" alt="Peak Month" />
 <img src="https://img.shields.io/badge/Best%20Single%20Day-130%20commits-F7BE8A?style=for-the-badge&labelColor=0D121D&logo=git&logoColor=white" alt="Best Single Day" />
 <img src="https://img.shields.io/badge/Active%20Weeks-100-F2A25C?style=for-the-badge&labelColor=0D121D&logo=githubsponsors&logoColor=white" alt="Active Weeks" />
-<img src="https://img.shields.io/badge/Avg%20per%20Active%20Day-12.1-D98A42?style=for-the-badge&labelColor=0D121D&logo=starship&logoColor=white" alt="Avg per Active Day" />
-<img src="https://img.shields.io/badge/This%20Year-3%2C157-8F5A28?style=for-the-badge&labelColor=0D121D&logo=githubactions&logoColor=white" alt="This Year" />
+<img src="https://img.shields.io/badge/Avg%20per%20Active%20Day-12.2-D98A42?style=for-the-badge&labelColor=0D121D&logo=starship&logoColor=white" alt="Avg per Active Day" />
+<img src="https://img.shields.io/badge/This%20Year-3%2C219-8F5A28?style=for-the-badge&labelColor=0D121D&logo=githubactions&logoColor=white" alt="This Year" />
 <!--STATS:END-->
 
 <sub>🔄 &nbsp;<i>Refreshed every day from the GitHub GraphQL API by <a href="scripts/update-stats.mjs">scripts/update-stats.mjs</a></i></sub>
 
 <br/><br/>
 
-<img width="92%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/contributions.svg?v=20261113" alt="Contributions this year" />
+<img width="92%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/main/assets/contributions.svg?v=20261114" alt="Contributions this year" />
 
 <img width="98%" src="https://raw.githubusercontent.com/muhammadsohaibkhann/muhammadsohaibkhann/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
 
